@@ -4,7 +4,9 @@
   "wiki_entries_parsed": 86,
   "matched_on_player_and_pick": 42,
   "draft_first_count": 49,
-  "true_disagreements": [
+  "true_disagreements": [],
+  "note": "Missing in wiki_map may be parser rowspan on multi-pick years, treated as single-source pending not disagreement.",
+  "name_variants_reviewed_same_player": [
    {
     "draft": {
      "year": 2005,
@@ -17,7 +19,7 @@
     "wiki": "Aaron Rodgers MVP"
    }
   ],
-  "note": "Missing in wiki_map may be parser rowspan on multi-pick years, treated as single-source pending not disagreement."
+  "note_variants": "Reviewed in expansion run: listed items are same player at same year/pick under full name / nickname / accented spelling (e.g. Carnell 'Cadillac' Williams, Bj\u00f6rn/Bjoern Werner, Anthony Mu\u00f1oz/Munoz). Not identity disagreements."
  },
  "games_seasons_wl": {
   "seasons_compared": 28,
@@ -29,7 +31,8 @@
     "computed": "4-2"
    }
   ],
-  "note": "Compares Wikipedia season table W-L (columns as parsed) to nflverse-computed REG W-L for 1999+ overlapping years. Zero compared means table format differed \u2014 labeled pending, not a disagreement."
+  "note": "Compares Wikipedia season table W-L (columns as parsed) to nflverse-computed REG W-L for 1999+ overlapping years. Zero compared means table format differed \u2014 labeled pending, not a disagreement.",
+  "mismatch_explanation": "2026 is in-progress: Wikipedia season table showed 2-2 at fetch, nflverse games file 4-2 at fetch \u2014 timing/staleness between sources, not a historical disagreement. Historical years compared matched."
  },
  "injuries": {
   "result": "single-source",

@@ -1,0 +1,4896 @@
+{
+ "source_college_stats": "ESPN Core API college-football athlete statisticslog (sports.core.api.espn.com) \u2014 SINGLE-SOURCE for college season stats; Sports-Reference CFB fetch blocked 403 previously, so college stats are labeled single-source/unverified pending cross-check in app",
+ "source_college_name_draft": "ESPN Core NFL athlete (college + draft) cross-checked against nflverse draft_picks (PFR-sourced) where name+draft match",
+ "players": [
+  {
+   "id": "4367203",
+   "name": "Alec Anderson",
+   "depth_pos": "LG",
+   "college_seasons": [],
+   "college_espn": "UCLA",
+   "college_stats_error": "HTTP Error 404: Not Found",
+   "draft_nflverse": null
+  },
+  {
+   "id": "4606712",
+   "name": "Ar'maj Reed-Adams",
+   "depth_pos": "RG",
+   "college_seasons": [],
+   "college_espn": "Texas A&M",
+   "draft_espn": {
+    "year": 2026,
+    "round": 7,
+    "pick": 241
+   },
+   "college_stats_error": "HTTP Error 404: Not Found",
+   "draft_nflverse": {
+    "year": 2026,
+    "round": 7,
+    "pick": 241,
+    "team": "BUF",
+    "college": "Texas A&M",
+    "pos": "G"
+   }
+  },
+  {
+   "id": "3056608",
+   "name": "Austin Corbett",
+   "depth_pos": "LG",
+   "college_seasons": [],
+   "college_espn": "Nevada",
+   "draft_espn": {
+    "year": 2018,
+    "round": 2,
+    "pick": 33
+   },
+   "college_stats_error": "HTTP Error 404: Not Found",
+   "draft_nflverse": {
+    "year": 2018,
+    "round": 2,
+    "pick": 33,
+    "team": "CLE",
+    "college": "Nevada",
+    "pos": "C"
+   }
+  },
+  {
+   "id": "3116733",
+   "name": "Bradley Chubb",
+   "depth_pos": "SLB",
+   "college_seasons": [
+    {
+     "year": 2014,
+     "stats": {
+      "Assist Tackles": "2",
+      "Solo Tackles": "2",
+      "Team Games Played": "1",
+      "Total Tackles": "4"
+     }
+    },
+    {
+     "year": 2015,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Assist Tackles": "40",
+      "Average Sack Yards": "-6.0",
+      "Sacks": "5.5",
+      "Sack Yards": "-33",
+      "Solo Tackles": "26",
+      "Tackles For Loss": "7",
+      "Tackles Yards Lost": "-26",
+      "Team Games Played": "1",
+      "Total Tackles": "66",
+      "Interceptions": "1"
+     }
+    },
+    {
+     "year": 2016,
+     "stats": {
+      "Forced Fumbles": "3",
+      "Defensive Forced Fumbles": "3",
+      "Assist Tackles": "22",
+      "Average Sack Yards": "5.7",
+      "Passes Defended": "1",
+      "Sacks": "10.5",
+      "Sack Yards": "60",
+      "Solo Tackles": "33",
+      "Team Games Played": "1",
+      "Total Tackles": "55"
+     }
+    },
+    {
+     "year": 2017,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "1",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "0.00",
+      "Assist Tackles": "33",
+      "Average Sack Yards": "6.6",
+      "Passes Defended": "2",
+      "Sacks": "10",
+      "Sack Yards": "66",
+      "Solo Tackles": "39",
+      "Total Tackles": "72"
+     }
+    }
+   ],
+   "college_espn": "NC State",
+   "draft_espn": {
+    "year": 2018,
+    "round": 1,
+    "pick": 5
+   },
+   "draft_nflverse": {
+    "year": 2018,
+    "round": 1,
+    "pick": 5,
+    "team": "DEN",
+    "college": "North Carolina St.",
+    "pos": "DE"
+   }
+  },
+  {
+   "id": "4034953",
+   "name": "C.J. Gardner-Johnson",
+   "depth_pos": "FS",
+   "college_seasons": [
+    {
+     "year": 2016,
+     "stats": {
+      "Games Played": "1",
+      "Assist Tackles": "11",
+      "Average Interception Yards": "34.3",
+      "Long Interception": "88",
+      "Passes Defended": "3",
+      "Solo Tackles": "21",
+      "Team Games Played": "1",
+      "Total Tackles": "32",
+      "Interceptions": "3",
+      "Interception Touchdowns": "1",
+      "Interception Yards": "103",
+      "Passing Touchdowns": "1",
+      "Return Touchdowns": "1",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0",
+      "Total Touchdowns": "1"
+     }
+    },
+    {
+     "year": 2017,
+     "stats": {
+      "Assist Tackles": "24",
+      "Average Interception Yards": "44.0",
+      "Average Sack Yards": "5.0",
+      "Long Interception": "46",
+      "Passes Defended": "7",
+      "Sacks": "1",
+      "Sack Yards": "5",
+      "Solo Tackles": "34",
+      "Team Games Played": "11",
+      "Total Tackles": "58",
+      "Interceptions": "2",
+      "Interception Yards": "88",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Long Punt Return": "1",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Punt Returns": "1",
+      "Punt Return Yards": "1",
+      "Yards Per Punt Return": "1.0",
+      "Yards Per Return": "1.0"
+     }
+    },
+    {
+     "year": 2018,
+     "stats": {
+      "Games Played": "2",
+      "Assist Tackles": "34",
+      "Average Interception Yards": "27.5",
+      "Average Sack Yards": "3.3",
+      "Long Interception": "83",
+      "Passes Defended": "2",
+      "Sacks": "3",
+      "Sack Yards": "10",
+      "Solo Tackles": "37",
+      "Team Games Played": "13",
+      "Total Tackles": "71",
+      "Interceptions": "4",
+      "Interception Touchdowns": "2",
+      "Interception Yards": "110",
+      "Passing Touchdowns": "2",
+      "Return Touchdowns": "2",
+      "Total Points": "12",
+      "Total Points Per Game": "6.0",
+      "Total Touchdowns": "2"
+     }
+    }
+   ],
+   "college_espn": "Florida",
+   "draft_espn": {
+    "year": 2019,
+    "round": 4,
+    "pick": 105
+   },
+   "draft_nflverse": {
+    "year": 2019,
+    "round": 4,
+    "pick": 105,
+    "team": "NOR",
+    "college": "Florida",
+    "pos": "S"
+   }
+  },
+  {
+   "id": "4379778",
+   "name": "Christian Benford",
+   "depth_pos": "LCB",
+   "college_seasons": [
+    {
+     "year": 2018,
+     "stats": {
+      "Average Interception Yards": "5.8",
+      "Long Interception": "22",
+      "Passes Defended": "1",
+      "Solo Tackles": "11",
+      "Team Games Played": "11",
+      "Total Tackles": "11",
+      "Interceptions": "4",
+      "Interception Yards": "23",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Punt Return Fair Catch Percentage": "0.00"
+     }
+    },
+    {
+     "year": 2019,
+     "stats": {
+      "Games Played": "2",
+      "Team Games Played": "13",
+      "Interceptions": "1"
+     }
+    },
+    {
+     "year": 2020,
+     "stats": {
+      "Average Interception Yards": "7.0",
+      "Long Interception": "7",
+      "Team Games Played": "4",
+      "Interceptions": "1",
+      "Interception Yards": "7",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Punt Return Fair Catch Percentage": "0.00"
+     }
+    },
+    {
+     "year": 2021,
+     "stats": {
+      "Games Played": "6",
+      "Average Interception Yards": "23.4",
+      "Long Interception": "98",
+      "Passes Defended": "1",
+      "Solo Tackles": "3",
+      "Team Games Played": "13",
+      "Total Tackles": "3",
+      "Interceptions": "7",
+      "Interception Touchdowns": "1",
+      "Interception Yards": "164",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Passing Touchdowns": "1",
+      "Return Touchdowns": "1",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0",
+      "Total Touchdowns": "1"
+     }
+    }
+   ],
+   "college_espn": "Villanova",
+   "draft_espn": {
+    "year": 2022,
+    "round": 6,
+    "pick": 185
+   },
+   "draft_nflverse": {
+    "year": 2022,
+    "round": 6,
+    "pick": 185,
+    "team": "BUF",
+    "college": "Villanova",
+    "pos": "DB"
+   }
+  },
+  {
+   "id": "4676004",
+   "name": "Cole Bishop",
+   "depth_pos": "SS",
+   "college_seasons": [
+    {
+     "year": 2021,
+     "stats": {
+      "Fumbles Recovered": "1",
+      "Games Played": "11",
+      "Assist Tackles": "19",
+      "Average Sack Yards": "5.0",
+      "Passes Defended": "5",
+      "Sacks": "3",
+      "Sack Yards": "15",
+      "Solo Tackles": "35",
+      "Team Games Played": "14",
+      "Total Tackles": "54"
+     }
+    },
+    {
+     "year": 2022,
+     "stats": {
+      "Fumbles Recovered": "1",
+      "Games Played": "14",
+      "Assist Tackles": "36",
+      "Average Sack Yards": "8.7",
+      "Passes Defended": "3",
+      "Sacks": "1.5",
+      "Sack Yards": "13",
+      "Solo Tackles": "47",
+      "Team Games Played": "14",
+      "Total Tackles": "83",
+      "Interceptions": "1"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Fumbles Recovered": "2",
+      "Games Played": "11",
+      "Assist Tackles": "25",
+      "Average Interception Yards": "5.0",
+      "Average Sack Yards": "9.7",
+      "Long Interception": "9",
+      "Passes Defended": "3",
+      "Sacks": "3",
+      "Sack Yards": "29",
+      "Solo Tackles": "35",
+      "Team Games Played": "13",
+      "Total Tackles": "60",
+      "Interceptions": "2",
+      "Interception Yards": "10"
+     }
+    }
+   ],
+   "college_espn": "Utah",
+   "draft_espn": {
+    "year": 2024,
+    "round": 2,
+    "pick": 60
+   },
+   "draft_nflverse": {
+    "year": 2024,
+    "round": 2,
+    "pick": 60,
+    "team": "BUF",
+    "college": "Utah",
+    "pos": "SAF"
+   }
+  },
+  {
+   "id": "4033748",
+   "name": "Connor McGovern",
+   "depth_pos": "C",
+   "college_seasons": [
+    {
+     "year": 2018,
+     "stats": {
+      "Solo Tackles": "1",
+      "Team Games Played": "13",
+      "Total Tackles": "1"
+     }
+    }
+   ],
+   "college_espn": "Penn State",
+   "draft_espn": {
+    "year": 2019,
+    "round": 3,
+    "pick": 90
+   },
+   "draft_nflverse": {
+    "year": 2019,
+    "round": 3,
+    "pick": 90,
+    "team": "DAL",
+    "college": "Penn St.",
+    "pos": "G"
+   }
+  },
+  {
+   "id": "3915416",
+   "name": "DJ Moore",
+   "depth_pos": "WR1",
+   "college_seasons": [
+    {
+     "year": 2015,
+     "stats": {
+      "Games Played": "3",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "9",
+      "Passing Attempts": "1",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Total Offensive Plays": "2",
+      "Total Touchdowns": "3",
+      "Total Yards": "9",
+      "Total Yards From Scrimmage": "366",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "9",
+      "Rushing Attempts": "1",
+      "Rushing Yards": "9",
+      "Yards Per Rush Attempt": "9.0",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "52",
+      "Receiving Touchdowns": "3",
+      "Receiving Yards": "357",
+      "Receiving Yards At Catch": "357",
+      "Receptions": "25",
+      "Yards Per Reception": "14.3",
+      "Solo Tackles": "2",
+      "Total Tackles": "2",
+      "Total Points": "18",
+      "Total Points Per Game": "6.0"
+     }
+    },
+    {
+     "year": 2016,
+     "stats": {
+      "Completion Percentage": "50.0",
+      "Completions": "1",
+      "Interception Percentage": "0.00",
+      "Longest Pass": "21",
+      "Net Passing Yards": "21",
+      "Net Total Yards": "76",
+      "Passing Attempts": "2",
+      "Passing Touchdown %": "0.00",
+      "Passing Yards": "21",
+      "Passing Yards At Catch": "21",
+      "Passer Rating": "138.2",
+      "Team Games Played": "13",
+      "Total Offensive Plays": "13",
+      "Total Touchdowns": "6",
+      "Total Yards": "76",
+      "Total Yards From Scrimmage": "692",
+      "Yards Per Completion": "21.0",
+      "Yards Per Pass Attempt": "10.5",
+      "Net Yards Per Pass Attempt": "10.5",
+      "Quarterback Rating": "68.8",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "15",
+      "Rushing Attempts": "11",
+      "Rushing Yards": "55",
+      "Yards Per Rush Attempt": "5.0",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "92",
+      "Receiving Touchdowns": "6",
+      "Receiving Yards": "637",
+      "Receiving Yards At Catch": "637",
+      "Receptions": "41",
+      "Yards Per Reception": "15.5",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Kick Returns": "15",
+      "Kick Return Yards": "334",
+      "Long Kick Return": "35",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Yards Per Kick Return": "22.3",
+      "Yards Per Return": "22.3",
+      "Total Points": "36",
+      "Total Points Per Game": "7.0"
+     }
+    },
+    {
+     "year": 2017,
+     "stats": {
+      "Completion Percentage": "100.0",
+      "Completions": "2",
+      "Interception Percentage": "0.00",
+      "Longest Pass": "21",
+      "Net Passing Yards": "15",
+      "Net Total Yards": "76",
+      "Passing Attempts": "2",
+      "Passing Touchdown %": "0.00",
+      "Passing Yards": "15",
+      "Passing Yards At Catch": "15",
+      "Passer Rating": "163.0",
+      "Team Games Played": "12",
+      "Total Offensive Plays": "7",
+      "Total Touchdowns": "9",
+      "Total Yards": "76",
+      "Total Yards From Scrimmage": "1094",
+      "Yards Per Completion": "7.5",
+      "Yards Per Pass Attempt": "7.5",
+      "Net Yards Per Pass Attempt": "7.5",
+      "Quarterback Rating": "95.8",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "24",
+      "Rushing Attempts": "5",
+      "Rushing Touchdowns": "1",
+      "Rushing Yards": "61",
+      "Yards Per Rush Attempt": "12.2",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "52",
+      "Receiving Touchdowns": "8",
+      "Receiving Yards": "1,033",
+      "Receiving Yards At Catch": "1033",
+      "Receptions": "80",
+      "Yards Per Reception": "12.9",
+      "Solo Tackles": "1",
+      "Total Tackles": "1",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Long Punt Return": "33",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Punt Returns": "15",
+      "Punt Return Yards": "153",
+      "Yards Per Punt Return": "10.2",
+      "Yards Per Return": "10.2",
+      "Gross Average Punt Yards": "34.0",
+      "Long Punt": "34",
+      "Net Average Punt Yards": "34.0",
+      "Punts": "1",
+      "Punts Blocked Percentage": "0.00",
+      "Punts Inside 10 Percentage": "0.00",
+      "Punts Inside 20 Percentage": "0.00",
+      "Punt Yards": "34",
+      "Touchback Percentage": "0.00",
+      "Total Points": "54",
+      "Total Points Per Game": "9.0"
+     }
+    }
+   ],
+   "college_espn": "Maryland",
+   "draft_espn": {
+    "year": 2018,
+    "round": 1,
+    "pick": 24
+   },
+   "draft_nflverse": {
+    "year": 2018,
+    "round": 1,
+    "pick": 24,
+    "team": "CAR",
+    "college": "Maryland",
+    "pos": "WR"
+   }
+  },
+  {
+   "id": "4385690",
+   "name": "Dalton Kincaid",
+   "depth_pos": "TE",
+   "college_seasons": [
+    {
+     "year": 2018,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Total Touchdowns": "11",
+      "Total Yards From Scrimmage": "374",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "42",
+      "Receiving Touchdowns": "11",
+      "Receiving Yards": "374",
+      "Receiving Yards At Catch": "374",
+      "Receptions": "24",
+      "Yards Per Reception": "15.6",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Kick Returns": "2",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Total Points": "66",
+      "Total Points Per Game": "11.0"
+     }
+    },
+    {
+     "year": 2019,
+     "stats": {
+      "Games Played": "12",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Total Touchdowns": "8",
+      "Total Yards From Scrimmage": "835",
+      "Yards From Scrimmage Per Game": "69.6",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "1335.00",
+      "Long Reception": "70",
+      "Receiving Touchdowns": "8",
+      "Receiving Yards": "835",
+      "Receiving Yards At Catch": "835",
+      "Receiving Yards Per Game": "69.6",
+      "Receptions": "44",
+      "Yards Per Reception": "19.0",
+      "Total Points": "48",
+      "Total Points Per Game": "8.0"
+     }
+    },
+    {
+     "year": 2020,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "5",
+      "Total Yards From Scrimmage": "14",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "14",
+      "Receiving Yards": "14",
+      "Receiving Yards At Catch": "14",
+      "Receptions": "1",
+      "Two Point Receptions": "1",
+      "Two Point Reception Attempts": "1",
+      "Yards Per Reception": "14.0",
+      "Solo Tackles": "1",
+      "Total Tackles": "1"
+     }
+    },
+    {
+     "year": 2021,
+     "stats": {
+      "Games Played": "13",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "4",
+      "Net Yards Per Game": "0.3",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "14",
+      "Total Offensive Plays": "1",
+      "Total Touchdowns": "1",
+      "Total Yards": "4",
+      "Total Yards From Scrimmage": "514",
+      "Yards From Scrimmage Per Game": "39.5",
+      "Yards Per Game": "0.3",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "4.00",
+      "Long Rushing": "4",
+      "Rushing Attempts": "1",
+      "Rushing Yards": "4",
+      "Rushing Yards Per Game": "0.3",
+      "Yards Per Rush Attempt": "4.0",
+      "ESPN Widereceiver Rating": "970.00",
+      "Long Reception": "43",
+      "Receiving Touchdowns": "1",
+      "Receiving Yards": "510",
+      "Receiving Yards At Catch": "510",
+      "Receiving Yards Per Game": "39.2",
+      "Receptions": "36",
+      "Yards Per Reception": "14.2",
+      "Solo Tackles": "1",
+      "Total Tackles": "1",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0"
+     }
+    },
+    {
+     "year": 2022,
+     "stats": {
+      "Games Played": "12",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "14",
+      "Total Touchdowns": "8",
+      "Total Yards From Scrimmage": "890",
+      "Yards From Scrimmage Per Game": "74.2",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "1520.00",
+      "Long Reception": "37",
+      "Receiving Touchdowns": "8",
+      "Receiving Yards": "890",
+      "Receiving Yards At Catch": "890",
+      "Receiving Yards Per Game": "74.2",
+      "Receptions": "70",
+      "Yards Per Reception": "12.7",
+      "Solo Tackles": "1",
+      "Total Tackles": "1",
+      "Total Points": "48",
+      "Total Points Per Game": "8.0"
+     }
+    }
+   ],
+   "college_espn": "Utah",
+   "draft_espn": {
+    "year": 2023,
+    "round": 1,
+    "pick": 25
+   },
+   "draft_nflverse": {
+    "year": 2023,
+    "round": 1,
+    "pick": 25,
+    "team": "BUF",
+    "college": "Utah",
+    "pos": "TE"
+   }
+  },
+  {
+   "id": "4036060",
+   "name": "Damar Hamlin",
+   "depth_pos": "SS",
+   "college_seasons": [
+    {
+     "year": 2016,
+     "stats": {
+      "Assist Tackles": "4",
+      "Solo Tackles": "4",
+      "Team Games Played": "1",
+      "Total Tackles": "8"
+     }
+    },
+    {
+     "year": 2017,
+     "stats": {
+      "Assist Tackles": "11",
+      "Average Interception Yards": "5.0",
+      "Long Interception": "5",
+      "Solo Tackles": "30",
+      "Team Games Played": "12",
+      "Total Tackles": "41",
+      "Interceptions": "1",
+      "Interception Yards": "5"
+     }
+    },
+    {
+     "year": 2018,
+     "stats": {
+      "Assist Tackles": "29",
+      "Average Interception Yards": "39.5",
+      "Long Interception": "79",
+      "Passes Defended": "4",
+      "Solo Tackles": "61",
+      "Team Games Played": "14",
+      "Total Tackles": "90",
+      "Interceptions": "2",
+      "Interception Yards": "79"
+     }
+    },
+    {
+     "year": 2019,
+     "stats": {
+      "Games Played": "12",
+      "Assist Tackles": "24",
+      "Average Interception Yards": "14.0",
+      "Long Interception": "14",
+      "Passes Defended": "10",
+      "Solo Tackles": "60",
+      "Team Games Played": "13",
+      "Total Tackles": "84",
+      "Interceptions": "1",
+      "Interception Yards": "14"
+     }
+    },
+    {
+     "year": 2020,
+     "stats": {
+      "Assist Tackles": "28",
+      "Average Interception Yards": "2.0",
+      "Long Interception": "4",
+      "Passes Defended": "7",
+      "Solo Tackles": "39",
+      "Team Games Played": "11",
+      "Total Tackles": "67",
+      "Interceptions": "2",
+      "Interception Yards": "4"
+     }
+    }
+   ],
+   "college_espn": "Pittsburgh",
+   "draft_espn": {
+    "year": 2021,
+    "round": 6,
+    "pick": 212
+   },
+   "draft_nflverse": {
+    "year": 2021,
+    "round": 6,
+    "pick": 212,
+    "team": "BUF",
+    "college": "Pittsburgh",
+    "pos": "DB"
+   }
+  },
+  {
+   "id": "4832035",
+   "name": "Davison Igbinosun",
+   "depth_pos": "LCB",
+   "college_seasons": [
+    {
+     "year": 2022,
+     "stats": {
+      "Games Played": "11",
+      "Assist Tackles": "16",
+      "Passes Defended": "5",
+      "Solo Tackles": "20",
+      "Team Games Played": "13",
+      "Total Tackles": "36"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Fumbles Recovered": "2",
+      "Games Played": "13",
+      "Assist Tackles": "20",
+      "Passes Defended": "5",
+      "Solo Tackles": "39",
+      "Team Games Played": "13",
+      "Total Tackles": "59"
+     }
+    },
+    {
+     "year": 2024,
+     "stats": {
+      "Fumbles Recovered": "1",
+      "Games Played": "16",
+      "Assist Tackles": "15",
+      "Average Interception Yards": "22.5",
+      "Long Interception": "45",
+      "Passes Defended": "9",
+      "Solo Tackles": "30",
+      "Team Games Played": "16",
+      "Total Tackles": "45",
+      "Interceptions": "2",
+      "Interception Yards": "45"
+     }
+    },
+    {
+     "year": 2025,
+     "stats": {
+      "Games Played": "13",
+      "Assist Tackles": "24",
+      "Average Interception Yards": "1.0",
+      "Long Interception": "2",
+      "Passes Defended": "6",
+      "Solo Tackles": "28",
+      "Team Games Played": "14",
+      "Total Tackles": "52",
+      "Interceptions": "2",
+      "Interception Yards": "2"
+     }
+    }
+   ],
+   "college_espn": "Ohio State",
+   "draft_espn": {
+    "year": 2026,
+    "round": 2,
+    "pick": 62
+   },
+   "draft_nflverse": {
+    "year": 2026,
+    "round": 2,
+    "pick": 62,
+    "team": "BUF",
+    "college": "Ohio St.",
+    "pos": "CB"
+   }
+  },
+  {
+   "id": "3930086",
+   "name": "Dawson Knox",
+   "depth_pos": "TE",
+   "college_seasons": [
+    {
+     "year": 2016,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "0.00",
+      "Solo Tackles": "1",
+      "Total Tackles": "1"
+     }
+    },
+    {
+     "year": 2017,
+     "stats": {
+      "Games Played": "1",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Total Yards From Scrimmage": "321",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "40",
+      "Receiving Yards": "321",
+      "Receiving Yards At Catch": "321",
+      "Receptions": "24",
+      "Two Point Receptions": "1",
+      "Two Point Reception Attempts": "1",
+      "Yards Per Reception": "13.4",
+      "Total Points": "2",
+      "Total Points Per Game": "2.0",
+      "Total Two Point Conversions": "1",
+      "Two Point Receiving Conversion": "1"
+     }
+    },
+    {
+     "year": 2018,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Total Yards From Scrimmage": "284",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "48",
+      "Receiving Yards": "284",
+      "Receiving Yards At Catch": "284",
+      "Receptions": "15",
+      "Yards Per Reception": "18.9",
+      "Assist Tackles": "1",
+      "Total Tackles": "1"
+     }
+    }
+   ],
+   "college_espn": "Ole Miss",
+   "draft_espn": {
+    "year": 2019,
+    "round": 3,
+    "pick": 96
+   },
+   "draft_nflverse": {
+    "year": 2019,
+    "round": 3,
+    "pick": 96,
+    "team": "BUF",
+    "college": "Mississippi",
+    "pos": "TE"
+   }
+  },
+  {
+   "id": "4426883",
+   "name": "DeWayne Carter",
+   "depth_pos": "RDE",
+   "college_seasons": [
+    {
+     "year": 2019,
+     "stats": {
+      "Games Played": "1",
+      "Assist Tackles": "1",
+      "Team Games Played": "12",
+      "Total Tackles": "1"
+     }
+    },
+    {
+     "year": 2020,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "11",
+      "Total Yards From Scrimmage": "11",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "11",
+      "Receiving Yards": "11",
+      "Receiving Yards At Catch": "11",
+      "Receptions": "1",
+      "Yards Per Reception": "11.0",
+      "Assist Tackles": "8",
+      "Average Sack Yards": "7.0",
+      "Sacks": "1",
+      "Sack Yards": "7",
+      "Solo Tackles": "4",
+      "Total Tackles": "12"
+     }
+    },
+    {
+     "year": 2021,
+     "stats": {
+      "Forced Fumbles": "2",
+      "Defensive Forced Fumbles": "2",
+      "Games Played": "12",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "-1",
+      "Net Yards Per Game": "-0.1",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Total Offensive Plays": "1",
+      "Total Yards": "-1",
+      "Total Yards From Scrimmage": "-1",
+      "Yards Per Game": "-0.1",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "-1.00",
+      "Rushing Attempts": "1",
+      "Rushing Yards": "-1",
+      "Rushing Yards Per Game": "-0.1",
+      "Yards From Scrimmage Per Game": "-0.1",
+      "Yards Per Rush Attempt": "-1.0",
+      "ESPN Widereceiver Rating": "0.00",
+      "Assist Tackles": "23",
+      "Average Sack Yards": "6.4",
+      "Passes Defended": "3",
+      "Sacks": "4.5",
+      "Sack Yards": "29",
+      "Solo Tackles": "13",
+      "Total Tackles": "36"
+     }
+    },
+    {
+     "year": 2022,
+     "stats": {
+      "Forced Fumbles": "3",
+      "Defensive Forced Fumbles": "3",
+      "Fumbles Recovered": "3",
+      "Fumbles Touchdowns": "1",
+      "Games Played": "13",
+      "Assist Tackles": "15",
+      "Average Sack Yards": "5.8",
+      "Passes Defended": "4",
+      "Sacks": "5.5",
+      "Sack Yards": "32",
+      "Solo Tackles": "21",
+      "Team Games Played": "13",
+      "Total Tackles": "36",
+      "Return Touchdowns": "1",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0",
+      "Total Touchdowns": "1"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Fumbles Recovered": "1",
+      "Fumbles Touchdowns": "1",
+      "Games Played": "13",
+      "Assist Tackles": "31",
+      "Average Sack Yards": "5.0",
+      "Passes Defended": "4",
+      "Sacks": "1",
+      "Sack Yards": "5",
+      "Solo Tackles": "10",
+      "Team Games Played": "13",
+      "Total Tackles": "41",
+      "Return Touchdowns": "1",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0",
+      "Total Touchdowns": "1"
+     }
+    }
+   ],
+   "college_espn": "Duke",
+   "draft_espn": {
+    "year": 2024,
+    "round": 3,
+    "pick": 95
+   },
+   "draft_nflverse": {
+    "year": 2024,
+    "round": 3,
+    "pick": 95,
+    "team": "BUF",
+    "college": "Duke",
+    "pos": "DT"
+   }
+  },
+  {
+   "id": "4401823",
+   "name": "Dee Alford",
+   "depth_pos": "PR",
+   "college_seasons": [],
+   "college_espn": "Tusculum",
+   "college_stats_error": "HTTP Error 404: Not Found",
+   "draft_nflverse": null
+  },
+  {
+   "id": "4831989",
+   "name": "Deone Walker",
+   "depth_pos": "NT",
+   "college_seasons": [
+    {
+     "year": 2022,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Games Played": "13",
+      "Assist Tackles": "28",
+      "Average Sack Yards": "8.0",
+      "Passes Defended": "2",
+      "Sacks": "1",
+      "Sack Yards": "8",
+      "Solo Tackles": "12",
+      "Team Games Played": "13",
+      "Total Tackles": "40"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Games Played": "13",
+      "Assist Tackles": "27",
+      "Average Sack Yards": "5.1",
+      "Passes Defended": "2",
+      "Sacks": "7.5",
+      "Sack Yards": "38",
+      "Solo Tackles": "28",
+      "Team Games Played": "13",
+      "Total Tackles": "55",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Kick Returns": "1",
+      "Kick Return Yards": "24",
+      "Long Kick Return": "24",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Yards Per Kick Return": "24.0",
+      "Yards Per Return": "24.0"
+     }
+    },
+    {
+     "year": 2024,
+     "stats": {
+      "Fumbles Recovered": "1",
+      "Games Played": "10",
+      "Assist Tackles": "24",
+      "Average Sack Yards": "7.3",
+      "Passes Defended": "2",
+      "Sacks": "1.5",
+      "Sack Yards": "11",
+      "Solo Tackles": "13",
+      "Team Games Played": "12",
+      "Total Tackles": "37"
+     }
+    }
+   ],
+   "college_espn": "Kentucky",
+   "draft_espn": {
+    "year": 2025,
+    "round": 4,
+    "pick": 109
+   },
+   "draft_nflverse": {
+    "year": 2025,
+    "round": 4,
+    "pick": 109,
+    "team": "BUF",
+    "college": "Kentucky",
+    "pos": "DT"
+   }
+  },
+  {
+   "id": "3051324",
+   "name": "Dion Dawkins",
+   "depth_pos": "LT",
+   "college_seasons": [],
+   "college_espn": "Temple",
+   "draft_espn": {
+    "year": 2017,
+    "round": 2,
+    "pick": 63
+   },
+   "college_stats_error": "HTTP Error 404: Not Found",
+   "draft_nflverse": {
+    "year": 2017,
+    "round": 2,
+    "pick": 63,
+    "team": "BUF",
+    "college": "Temple",
+    "pos": "G"
+   }
+  },
+  {
+   "id": "4568703",
+   "name": "Dorian Strong",
+   "depth_pos": "RCB",
+   "college_seasons": [
+    {
+     "year": 2020,
+     "stats": {
+      "Fumbles Recovered": "1",
+      "Assist Tackles": "4",
+      "Average Interception Yards": "27.0",
+      "Long Interception": "27",
+      "Passes Defended": "5",
+      "Solo Tackles": "18",
+      "Team Games Played": "11",
+      "Total Tackles": "22",
+      "Interceptions": "1",
+      "Interception Yards": "27"
+     }
+    },
+    {
+     "year": 2021,
+     "stats": {
+      "Games Played": "11",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "0.00",
+      "Assist Tackles": "3",
+      "Average Interception Yards": "7.0",
+      "Long Interception": "7",
+      "Passes Defended": "5",
+      "Solo Tackles": "19",
+      "Total Tackles": "22",
+      "Interceptions": "1",
+      "Interception Yards": "7"
+     }
+    },
+    {
+     "year": 2022,
+     "stats": {
+      "Fumbles Recovered": "1",
+      "Games Played": "4",
+      "Assist Tackles": "3",
+      "Passes Defended": "3",
+      "Solo Tackles": "6",
+      "Team Games Played": "11",
+      "Total Tackles": "9"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Games Played": "12",
+      "Assist Tackles": "7",
+      "Average Interception Yards": "9.3",
+      "Long Interception": "32",
+      "Passes Defended": "8",
+      "Solo Tackles": "18",
+      "Team Games Played": "13",
+      "Total Tackles": "25",
+      "Interceptions": "3",
+      "Interception Yards": "28"
+     }
+    },
+    {
+     "year": 2024,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Fumbles Recovered": "1",
+      "Games Played": "11",
+      "Assist Tackles": "12",
+      "Average Interception Yards": "-3.5",
+      "Long Interception": "-7",
+      "Passes Defended": "6",
+      "Solo Tackles": "20",
+      "Team Games Played": "13",
+      "Total Tackles": "32",
+      "Interceptions": "2",
+      "Interception Yards": "-7"
+     }
+    }
+   ],
+   "college_espn": "Virginia Tech",
+   "draft_espn": {
+    "year": 2025,
+    "round": 6,
+    "pick": 177
+   },
+   "draft_nflverse": {
+    "year": 2025,
+    "round": 6,
+    "pick": 177,
+    "team": "BUF",
+    "college": "Virginia Tech",
+    "pos": "CB"
+   }
+  },
+  {
+   "id": "4568624",
+   "name": "Dorian Williams",
+   "depth_pos": "LILB",
+   "college_seasons": [
+    {
+     "year": 2019,
+     "stats": {
+      "Games Played": "5",
+      "Assist Tackles": "8",
+      "Solo Tackles": "6",
+      "Team Games Played": "13",
+      "Total Tackles": "14"
+     }
+    },
+    {
+     "year": 2020,
+     "stats": {
+      "Assist Tackles": "33",
+      "Average Sack Yards": "4.7",
+      "Passes Defended": "3",
+      "Sacks": "4.5",
+      "Sack Yards": "21",
+      "Solo Tackles": "64",
+      "Team Games Played": "12",
+      "Total Tackles": "97"
+     }
+    },
+    {
+     "year": 2021,
+     "stats": {
+      "Games Played": "12",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "0.00",
+      "Assist Tackles": "29",
+      "Average Sack Yards": "2.0",
+      "Passes Defended": "3",
+      "Sacks": "1",
+      "Sack Yards": "2",
+      "Solo Tackles": "44",
+      "Total Tackles": "73"
+     }
+    },
+    {
+     "year": 2022,
+     "stats": {
+      "Forced Fumbles": "2",
+      "Defensive Forced Fumbles": "2",
+      "Games Played": "14",
+      "Assist Tackles": "50",
+      "Average Interception Yards": "6.5",
+      "Average Sack Yards": "5.2",
+      "Long Interception": "13",
+      "Passes Defended": "7",
+      "Sacks": "5",
+      "Sack Yards": "26",
+      "Solo Tackles": "81",
+      "Team Games Played": "14",
+      "Total Tackles": "131",
+      "Interceptions": "2",
+      "Interception Yards": "13"
+     }
+    }
+   ],
+   "college_espn": "Tulane",
+   "draft_espn": {
+    "year": 2023,
+    "round": 3,
+    "pick": 91
+   },
+   "draft_nflverse": {
+    "year": 2023,
+    "round": 3,
+    "pick": 91,
+    "team": "BUF",
+    "college": "Tulane",
+    "pos": "LB"
+   }
+  },
+  {
+   "id": "4039303",
+   "name": "Ed Oliver",
+   "depth_pos": "RDE",
+   "college_seasons": [
+    {
+     "year": 2016,
+     "stats": {
+      "Forced Fumbles": "2",
+      "Defensive Forced Fumbles": "2",
+      "Assist Tackles": "19",
+      "Average Sack Yards": "7.0",
+      "Passes Defended": "6",
+      "Sacks": "5",
+      "Sack Yards": "35",
+      "Solo Tackles": "46",
+      "Team Games Played": "1",
+      "Total Tackles": "65"
+     }
+    },
+    {
+     "year": 2017,
+     "stats": {
+      "Forced Fumbles": "2",
+      "Defensive Forced Fumbles": "2",
+      "Games Played": "1",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "1",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "1",
+      "Total Offensive Plays": "1",
+      "Total Touchdowns": "1",
+      "Total Yards": "1",
+      "Total Yards From Scrimmage": "1",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "1",
+      "Rushing Attempts": "1",
+      "Rushing Touchdowns": "1",
+      "Rushing Yards": "1",
+      "Yards Per Rush Attempt": "1.0",
+      "ESPN Widereceiver Rating": "0.00",
+      "Assist Tackles": "26",
+      "Average Sack Yards": "4.7",
+      "Passes Defended": "3",
+      "Sacks": "5.5",
+      "Sack Yards": "26",
+      "Solo Tackles": "47",
+      "Total Tackles": "73",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0"
+     }
+    },
+    {
+     "year": 2018,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "0.00",
+      "Assist Tackles": "25",
+      "Average Sack Yards": "9.7",
+      "Passes Defended": "2",
+      "Sacks": "3",
+      "Sack Yards": "29",
+      "Solo Tackles": "29",
+      "Total Tackles": "54"
+     }
+    }
+   ],
+   "college_espn": "Houston",
+   "draft_espn": {
+    "year": 2019,
+    "round": 1,
+    "pick": 9
+   },
+   "draft_nflverse": {
+    "year": 2019,
+    "round": 1,
+    "pick": 9,
+    "team": "BUF",
+    "college": "Houston",
+    "pos": "DT"
+   }
+  },
+  {
+   "id": "4037235",
+   "name": "Greg Dortch",
+   "depth_pos": "WR2",
+   "college_seasons": [
+    {
+     "year": 2017,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "9",
+      "Passing Attempts": "1",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Total Offensive Plays": "8",
+      "Total Touchdowns": "9",
+      "Total Yards": "9",
+      "Total Yards From Scrimmage": "731",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "6",
+      "Rushing Attempts": "7",
+      "Rushing Yards": "9",
+      "Yards Per Rush Attempt": "1.3",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "52",
+      "Receiving Touchdowns": "9",
+      "Receiving Yards": "722",
+      "Receiving Yards At Catch": "722",
+      "Receptions": "53",
+      "Yards Per Reception": "13.6",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Kick Returns": "18",
+      "Kick Return Yards": "397",
+      "Long Kick Return": "40",
+      "Long Punt Return": "29",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Punt Returns": "20",
+      "Punt Return Yards": "162",
+      "Yards Per Kick Return": "22.1",
+      "Yards Per Punt Return": "8.1",
+      "Yards Per Return": "14.7",
+      "Total Points": "54",
+      "Total Points Per Game": "10.0"
+     }
+    },
+    {
+     "year": 2018,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "20",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Total Offensive Plays": "5",
+      "Total Touchdowns": "10",
+      "Total Yards": "20",
+      "Total Yards From Scrimmage": "1098",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "11",
+      "Rushing Attempts": "5",
+      "Rushing Yards": "20",
+      "Yards Per Rush Attempt": "4.0",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "54",
+      "Receiving Touchdowns": "8",
+      "Receiving Yards": "1,078",
+      "Receiving Yards At Catch": "1078",
+      "Receptions": "89",
+      "Yards Per Reception": "12.1",
+      "Kick Return Fair Catches": "5",
+      "Kick Return Fair Catch Percentage": "17.86",
+      "Kick Returns": "23",
+      "Kick Return Yards": "376",
+      "Long Kick Return": "38",
+      "Long Punt Return": "70",
+      "Punt Return Fair Catches": "2",
+      "Punt Return Fair Catch Percentage": "6.90",
+      "Punt Returns": "27",
+      "Punt Return Touchdowns": "2",
+      "Punt Return Yards": "276",
+      "Yards Per Kick Return": "16.3",
+      "Yards Per Punt Return": "10.2",
+      "Yards Per Return": "13.0",
+      "Return Touchdowns": "2",
+      "Total Points": "60",
+      "Total Points Per Game": "12.0"
+     }
+    }
+   ],
+   "college_espn": "Wake Forest",
+   "draft_nflverse": null
+  },
+  {
+   "id": "3127294",
+   "name": "Greg Gaines",
+   "depth_pos": "NT",
+   "college_seasons": [
+    {
+     "year": 2015,
+     "stats": {
+      "Assist Tackles": "16",
+      "Solo Tackles": "12",
+      "Tackles For Loss": "1",
+      "Tackles Yards Lost": "-3",
+      "Team Games Played": "1",
+      "Total Tackles": "28"
+     }
+    },
+    {
+     "year": 2016,
+     "stats": {
+      "Assist Tackles": "14",
+      "Average Sack Yards": "5.4",
+      "Sacks": "3.5",
+      "Sack Yards": "19",
+      "Solo Tackles": "21",
+      "Team Games Played": "1",
+      "Total Tackles": "35"
+     }
+    },
+    {
+     "year": 2017,
+     "stats": {
+      "Assist Tackles": "14",
+      "Average Sack Yards": "6.0",
+      "Passes Defended": "3",
+      "Sacks": "1.5",
+      "Sack Yards": "9",
+      "Solo Tackles": "16",
+      "Team Games Played": "1",
+      "Total Tackles": "30"
+     }
+    },
+    {
+     "year": 2018,
+     "stats": {
+      "Assist Tackles": "30",
+      "Average Sack Yards": "8.9",
+      "Sacks": "3.5",
+      "Sack Yards": "31",
+      "Solo Tackles": "25",
+      "Team Games Played": "14",
+      "Total Tackles": "55",
+      "Interceptions": "1"
+     }
+    }
+   ],
+   "college_espn": "Washington",
+   "draft_espn": {
+    "year": 2019,
+    "round": 4,
+    "pick": 134
+   },
+   "draft_nflverse": {
+    "year": 2019,
+    "round": 4,
+    "pick": 134,
+    "team": "LAR",
+    "college": "Washington",
+    "pos": "DT"
+   }
+  },
+  {
+   "id": "4362506",
+   "name": "Greg Rousseau",
+   "depth_pos": "WLB",
+   "college_seasons": [
+    {
+     "year": 2018,
+     "stats": {
+      "Assist Tackles": "4",
+      "Solo Tackles": "1",
+      "Team Games Played": "13",
+      "Total Tackles": "5"
+     }
+    },
+    {
+     "year": 2019,
+     "stats": {
+      "Forced Fumbles": "2",
+      "Defensive Forced Fumbles": "2",
+      "Fumbles Recovered": "1",
+      "Games Played": "13",
+      "Assist Tackles": "20",
+      "Average Sack Yards": "6.1",
+      "Passes Defended": "1",
+      "Sacks": "15.5",
+      "Sack Yards": "94",
+      "Solo Tackles": "34",
+      "Team Games Played": "13",
+      "Total Tackles": "54"
+     }
+    }
+   ],
+   "college_espn": "Miami",
+   "draft_espn": {
+    "year": 2021,
+    "round": 1,
+    "pick": 30
+   },
+   "draft_nflverse": null
+  },
+  {
+   "id": "4573699",
+   "name": "Jackson Hawes",
+   "depth_pos": "TE",
+   "college_seasons": [
+    {
+     "year": 2021,
+     "stats": {
+      "Games Played": "7",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "10",
+      "Total Touchdowns": "1",
+      "Total Yards From Scrimmage": "135",
+      "Yards From Scrimmage Per Game": "19.3",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "235.00",
+      "Long Reception": "41",
+      "Receiving Touchdowns": "1",
+      "Receiving Yards": "135",
+      "Receiving Yards At Catch": "135",
+      "Receiving Yards Per Game": "19.3",
+      "Receptions": "13",
+      "Yards Per Reception": "10.4",
+      "Solo Tackles": "1",
+      "Total Tackles": "1",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0"
+     }
+    },
+    {
+     "year": 2022,
+     "stats": {
+      "Games Played": "8",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "10",
+      "Total Touchdowns": "4",
+      "Total Yards From Scrimmage": "139",
+      "Yards From Scrimmage Per Game": "17.4",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "344.00",
+      "Long Reception": "34",
+      "Receiving Touchdowns": "4",
+      "Receiving Yards": "139",
+      "Receiving Yards At Catch": "139",
+      "Receiving Yards Per Game": "17.4",
+      "Receptions": "13",
+      "Yards Per Reception": "10.7",
+      "Solo Tackles": "1",
+      "Total Tackles": "1",
+      "Total Points": "24",
+      "Total Points Per Game": "6.0"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Games Played": "7",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "10",
+      "Total Touchdowns": "1",
+      "Total Yards From Scrimmage": "97",
+      "Yards From Scrimmage Per Game": "13.9",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "177.00",
+      "Long Reception": "28",
+      "Receiving Touchdowns": "1",
+      "Receiving Yards": "97",
+      "Receiving Yards At Catch": "97",
+      "Receiving Yards Per Game": "13.9",
+      "Receptions": "9",
+      "Yards Per Reception": "10.8",
+      "Solo Tackles": "1",
+      "Total Tackles": "1",
+      "Passing Touchdowns": "1"
+     }
+    },
+    {
+     "year": 2024,
+     "stats": {
+      "Games Played": "10",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Total Yards From Scrimmage": "195",
+      "Yards From Scrimmage Per Game": "19.5",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "275.00",
+      "Long Reception": "33",
+      "Receiving Yards": "195",
+      "Receiving Yards At Catch": "195",
+      "Receiving Yards Per Game": "19.5",
+      "Receptions": "16",
+      "Two Point Reception Attempts": "1",
+      "Yards Per Reception": "12.2",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Kick Returns": "1",
+      "Kick Return Yards": "17",
+      "Long Kick Return": "17",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Yards Per Kick Return": "17.0",
+      "Yards Per Return": "17.0"
+     }
+    }
+   ],
+   "college_espn": "Georgia Tech",
+   "draft_espn": {
+    "year": 2025,
+    "round": 5,
+    "pick": 173
+   },
+   "draft_nflverse": {
+    "year": 2025,
+    "round": 5,
+    "pick": 173,
+    "team": "BUF",
+    "college": "Georgia Tech",
+    "pos": "TE"
+   }
+  },
+  {
+   "id": "5076951",
+   "name": "Jalon Kilgore",
+   "depth_pos": "SS",
+   "college_seasons": [
+    {
+     "year": 2023,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Games Played": "12",
+      "Assist Tackles": "30",
+      "Passes Defended": "6",
+      "Solo Tackles": "46",
+      "Team Games Played": "12",
+      "Total Tackles": "76",
+      "Interceptions": "1",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Long Punt Return": "15",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Punt Returns": "9",
+      "Punt Return Yards": "49",
+      "Yards Per Punt Return": "5.4",
+      "Yards Per Return": "5.4"
+     }
+    },
+    {
+     "year": 2024,
+     "stats": {
+      "Games Played": "13",
+      "Assist Tackles": "17",
+      "Average Interception Yards": "13.6",
+      "Long Interception": "31",
+      "Passes Defended": "5",
+      "Solo Tackles": "31",
+      "Team Games Played": "13",
+      "Total Tackles": "48",
+      "Interceptions": "5",
+      "Interception Yards": "68",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Long Punt Return": "28",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Punt Returns": "1",
+      "Punt Return Yards": "28",
+      "Yards Per Punt Return": "28.0",
+      "Yards Per Return": "28.0"
+     }
+    },
+    {
+     "year": 2025,
+     "stats": {
+      "Fumbles Recovered": "2",
+      "Games Played": "11",
+      "Assist Tackles": "22",
+      "Average Interception Yards": "0.5",
+      "Long Interception": "1",
+      "Passes Defended": "10",
+      "Solo Tackles": "32",
+      "Team Games Played": "12",
+      "Total Tackles": "54",
+      "Interceptions": "2",
+      "Interception Yards": "1",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Punt Return Fair Catches": "1",
+      "Punt Return Fair Catch Percentage": "25.00",
+      "Punt Returns": "3",
+      "Punt Return Yards": "-3",
+      "Yards Per Punt Return": "-1.0",
+      "Yards Per Return": "-1.0"
+     }
+    }
+   ],
+   "college_espn": "South Carolina",
+   "draft_espn": {
+    "year": 2026,
+    "round": 5,
+    "pick": 167
+   },
+   "draft_nflverse": {
+    "year": 2026,
+    "round": 5,
+    "pick": 167,
+    "team": "BUF",
+    "college": "South Carolina",
+    "pos": "CB"
+   }
+  },
+  {
+   "id": "4379399",
+   "name": "James Cook III",
+   "depth_pos": "RB",
+   "college_seasons": [
+    {
+     "year": 2018,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "284",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "14",
+      "Total Offensive Plays": "41",
+      "Total Touchdowns": "2",
+      "Total Yards": "284",
+      "Total Yards From Scrimmage": "373",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "36",
+      "Rushing Attempts": "41",
+      "Rushing Touchdowns": "2",
+      "Rushing Yards": "284",
+      "Yards Per Rush Attempt": "6.9",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "24",
+      "Receiving Yards": "89",
+      "Receiving Yards At Catch": "89",
+      "Receptions": "8",
+      "Yards Per Reception": "11.1",
+      "Assist Tackles": "1",
+      "Total Tackles": "1",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Kick Returns": "1",
+      "Kick Return Yards": "34",
+      "Long Kick Return": "34",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Yards Per Kick Return": "34.0",
+      "Yards Per Return": "34.0",
+      "Total Points": "12",
+      "Total Points Per Game": "12.0"
+     }
+    },
+    {
+     "year": 2019,
+     "stats": {
+      "Games Played": "13",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "188",
+      "Net Yards Per Game": "14.5",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "14",
+      "Total Offensive Plays": "31",
+      "Total Touchdowns": "2",
+      "Total Yards": "188",
+      "Total Yards From Scrimmage": "320",
+      "Yards From Scrimmage Per Game": "24.6",
+      "Yards Per Game": "14.5",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "258.00",
+      "Long Rushing": "37",
+      "Rushing Attempts": "31",
+      "Rushing Touchdowns": "2",
+      "Rushing Yards": "188",
+      "Rushing Yards Per Game": "14.5",
+      "Yards Per Rush Attempt": "6.1",
+      "ESPN Widereceiver Rating": "212.00",
+      "Long Reception": "19",
+      "Receiving Yards": "132",
+      "Receiving Yards At Catch": "132",
+      "Receiving Yards Per Game": "10.2",
+      "Receptions": "16",
+      "Two Point Receptions": "1",
+      "Two Point Reception Attempts": "1",
+      "Yards Per Reception": "8.3",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Kick Returns": "4",
+      "Kick Return Yards": "57",
+      "Long Kick Return": "22",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Yards Per Kick Return": "14.3",
+      "Yards Per Return": "14.3",
+      "Total Points": "14",
+      "Total Points Per Game": "4.0",
+      "Total Two Point Conversions": "1",
+      "Two Point Receiving Conversion": "1"
+     }
+    },
+    {
+     "year": 2020,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "303",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "10",
+      "Total Offensive Plays": "45",
+      "Total Touchdowns": "5",
+      "Total Yards": "303",
+      "Total Yards From Scrimmage": "528",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "44",
+      "Rushing Attempts": "45",
+      "Rushing Touchdowns": "3",
+      "Rushing Yards": "303",
+      "Yards Per Rush Attempt": "6.7",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "82",
+      "Receiving Touchdowns": "2",
+      "Receiving Yards": "225",
+      "Receiving Yards At Catch": "225",
+      "Receptions": "16",
+      "Yards Per Reception": "14.1"
+     }
+    },
+    {
+     "year": 2021,
+     "stats": {
+      "Games Played": "15",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "728",
+      "Net Yards Per Game": "48.5",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "15",
+      "Total Offensive Plays": "113",
+      "Total Touchdowns": "1",
+      "Total Yards": "728",
+      "Total Yards From Scrimmage": "1012",
+      "Yards From Scrimmage Per Game": "67.5",
+      "Yards Per Game": "48.5",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "973.00",
+      "Long Rushing": "67",
+      "Rushing Attempts": "113",
+      "Rushing Touchdowns": "7",
+      "Rushing Yards": "728",
+      "Rushing Yards Per Game": "48.5",
+      "Two Point Rush Attempts": "1",
+      "Yards Per Rush Attempt": "6.4",
+      "ESPN Widereceiver Rating": "559.00",
+      "Long Reception": "53",
+      "Receiving Touchdowns": "1",
+      "Receiving Yards": "284",
+      "Receiving Yards At Catch": "284",
+      "Receiving Yards Per Game": "18.9",
+      "Receptions": "27",
+      "Yards Per Reception": "10.5",
+      "Total Points": "8",
+      "Total Points Per Game": "4.0",
+      "Two Point Rush Conversion": "1"
+     }
+    }
+   ],
+   "college_espn": "Georgia",
+   "draft_espn": {
+    "year": 2022,
+    "round": 2,
+    "pick": 63
+   },
+   "draft_nflverse": {
+    "year": 2022,
+    "round": 2,
+    "pick": 63,
+    "team": "BUF",
+    "college": "Georgia",
+    "pos": "RB"
+   }
+  },
+  {
+   "id": "4428548",
+   "name": "Javon Solomon",
+   "depth_pos": "SLB",
+   "college_seasons": [
+    {
+     "year": 2019,
+     "stats": {
+      "Games Played": "3",
+      "Assist Tackles": "1",
+      "Solo Tackles": "3",
+      "Team Games Played": "12",
+      "Total Tackles": "4"
+     }
+    },
+    {
+     "year": 2020,
+     "stats": {
+      "Forced Fumbles": "2",
+      "Defensive Forced Fumbles": "2",
+      "Assist Tackles": "16",
+      "Average Sack Yards": "8.7",
+      "Passes Defended": "1",
+      "Sacks": "1.5",
+      "Sack Yards": "13",
+      "Solo Tackles": "14",
+      "Team Games Played": "11",
+      "Total Tackles": "30"
+     }
+    },
+    {
+     "year": 2021,
+     "stats": {
+      "Fumbles Recovered": "2",
+      "Games Played": "12",
+      "Assist Tackles": "25",
+      "Average Sack Yards": "6.1",
+      "Passes Defended": "1",
+      "Sacks": "11",
+      "Sack Yards": "67",
+      "Solo Tackles": "25",
+      "Team Games Played": "12",
+      "Total Tackles": "50",
+      "Interceptions": "1"
+     }
+    },
+    {
+     "year": 2022,
+     "stats": {
+      "Games Played": "13",
+      "Assist Tackles": "24",
+      "Average Sack Yards": "8.9",
+      "Sacks": "4.5",
+      "Sack Yards": "40",
+      "Solo Tackles": "20",
+      "Team Games Played": "14",
+      "Total Tackles": "44"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Forced Fumbles": "3",
+      "Defensive Forced Fumbles": "3",
+      "Fumbles Recovered": "2",
+      "Games Played": "14",
+      "Assist Tackles": "29",
+      "Average Sack Yards": "6.4",
+      "Sacks": "16",
+      "Sack Yards": "102",
+      "Solo Tackles": "26",
+      "Team Games Played": "14",
+      "Total Tackles": "55"
+     }
+    }
+   ],
+   "college_espn": "Troy",
+   "draft_espn": {
+    "year": 2024,
+    "round": 5,
+    "pick": 168
+   },
+   "draft_nflverse": {
+    "year": 2024,
+    "round": 5,
+    "pick": 168,
+    "team": "BUF",
+    "college": "Troy",
+    "pos": "DE"
+   }
+  },
+  {
+   "id": "4366349",
+   "name": "Joe Andreessen",
+   "depth_pos": "RILB",
+   "college_seasons": [
+    {
+     "year": 2019,
+     "stats": {
+      "Games Played": "1",
+      "Team Games Played": "12",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Kick Returns": "1",
+      "Kick Return Yards": "3",
+      "Long Kick Return": "3",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Yards Per Kick Return": "3.0",
+      "Yards Per Return": "3.0"
+     }
+    },
+    {
+     "year": 2021,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Games Played": "4",
+      "Assist Tackles": "6",
+      "Average Interception Yards": "-0.3",
+      "Long Interception": "-1",
+      "Team Games Played": "11",
+      "Total Tackles": "6",
+      "Interceptions": "3",
+      "Interception Yards": "-1"
+     }
+    },
+    {
+     "year": 2022,
+     "stats": {
+      "Fumbles Recovered": "2",
+      "Games Played": "10",
+      "Assist Tackles": "32",
+      "Average Interception Yards": "24.0",
+      "Average Sack Yards": "8.7",
+      "Long Interception": "28",
+      "Passes Defended": "5",
+      "Sacks": "3",
+      "Sack Yards": "26",
+      "Solo Tackles": "70",
+      "Team Games Played": "11",
+      "Total Tackles": "102",
+      "Interceptions": "2",
+      "Interception Yards": "48"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Games Played": "12",
+      "Assist Tackles": "36",
+      "Average Sack Yards": "8.0",
+      "Passes Defended": "2",
+      "Sacks": "1",
+      "Sack Yards": "8",
+      "Solo Tackles": "53",
+      "Team Games Played": "12",
+      "Total Tackles": "89"
+     }
+    }
+   ],
+   "college_espn": "Buffalo",
+   "draft_nflverse": null
+  },
+  {
+   "id": "4596480",
+   "name": "Jordan Hancock",
+   "depth_pos": "NB",
+   "college_seasons": [
+    {
+     "year": 2021,
+     "stats": {
+      "Games Played": "4",
+      "Assist Tackles": "3",
+      "Passes Defended": "1",
+      "Solo Tackles": "1",
+      "Team Games Played": "13",
+      "Total Tackles": "4"
+     }
+    },
+    {
+     "year": 2022,
+     "stats": {
+      "Games Played": "3",
+      "Assist Tackles": "1",
+      "Solo Tackles": "4",
+      "Team Games Played": "13",
+      "Total Tackles": "5"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Forced Fumbles": "2",
+      "Defensive Forced Fumbles": "2",
+      "Games Played": "13",
+      "Assist Tackles": "13",
+      "Average Interception Yards": "66.5",
+      "Average Sack Yards": "8.0",
+      "Long Interception": "93",
+      "Passes Defended": "4",
+      "Sacks": "2",
+      "Sack Yards": "16",
+      "Solo Tackles": "28",
+      "Team Games Played": "13",
+      "Total Tackles": "41",
+      "Interceptions": "2",
+      "Interception Touchdowns": "1",
+      "Interception Yards": "133",
+      "Passing Touchdowns": "1",
+      "Return Touchdowns": "1",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0",
+      "Total Touchdowns": "1"
+     }
+    },
+    {
+     "year": 2024,
+     "stats": {
+      "Forced Fumbles": "2",
+      "Defensive Forced Fumbles": "2",
+      "Games Played": "15",
+      "Assist Tackles": "19",
+      "Average Sack Yards": "6.0",
+      "Passes Defended": "8",
+      "Sacks": "0.5",
+      "Sack Yards": "3",
+      "Solo Tackles": "29",
+      "Team Games Played": "16",
+      "Total Tackles": "48",
+      "Interceptions": "1"
+     }
+    }
+   ],
+   "college_espn": "Ohio State",
+   "draft_espn": {
+    "year": 2025,
+    "round": 5,
+    "pick": 170
+   },
+   "draft_nflverse": {
+    "year": 2025,
+    "round": 5,
+    "pick": 170,
+    "team": "BUF",
+    "college": "Ohio St.",
+    "pos": "SAF"
+   }
+  },
+  {
+   "id": "3918298",
+   "name": "Josh Allen",
+   "depth_pos": "QB",
+   "college_seasons": [
+    {
+     "year": 2015,
+     "stats": {
+      "Completion Percentage": "66.7",
+      "Completions": "4",
+      "Interception Percentage": "0.00",
+      "Longest Pass": "19",
+      "Net Passing Yards": "51",
+      "Net Total Yards": "91",
+      "Passing Attempts": "6",
+      "Passing Touchdown %": "0.00",
+      "Passing Yards": "51",
+      "Passing Yards At Catch": "51",
+      "Passer Rating": "138.1",
+      "Team Games Played": "12",
+      "Total Offensive Plays": "9",
+      "Total Yards": "91",
+      "Total Yards From Scrimmage": "40",
+      "Yards Per Completion": "12.8",
+      "Yards Per Pass Attempt": "8.5",
+      "Net Yards Per Pass Attempt": "8.5",
+      "Quarterback Rating": "60.4",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "24",
+      "Rushing Attempts": "3",
+      "Rushing Yards": "40",
+      "Yards Per Rush Attempt": "13.3",
+      "ESPN Widereceiver Rating": "0.00"
+     }
+    },
+    {
+     "year": 2016,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Games Played": "13",
+      "Completion Percentage": "56.0",
+      "Completions": "209",
+      "Interception Percentage": "4.02",
+      "Interceptions": "15",
+      "Longest Pass": "54",
+      "Net Passing Yards": "3,203",
+      "Net Total Yards": "3,715",
+      "Passing Attempts": "373",
+      "Passing Touchdown %": "7.51",
+      "Passing Touchdowns": "28",
+      "Passing Yards": "3,203",
+      "Passing Yards At Catch": "3,203",
+      "Passer Rating": "144.9",
+      "Total Sacks": "27",
+      "Sack Yards Lost": "-200",
+      "Team Games Played": "1",
+      "Total Offensive Plays": "543",
+      "Total Touchdowns": "8",
+      "Total Yards": "3,715",
+      "Total Yards From Scrimmage": "516",
+      "Two Point Pass": "1",
+      "Two Point Pass Attempts": "1",
+      "Yards Per Completion": "15.3",
+      "Yards Per Pass Attempt": "8.6",
+      "Net Yards Per Pass Attempt": "8.0",
+      "Total QBR": "74.2",
+      "Adjusted QBR": "73.8",
+      "Quarterback Rating": "60.4",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "38",
+      "Rushing Attempts": "143",
+      "Rushing Touchdowns": "7",
+      "Rushing Yards": "512",
+      "Yards Per Rush Attempt": "3.6",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "4",
+      "Receiving Touchdowns": "1",
+      "Receiving Yards": "4",
+      "Receiving Yards At Catch": "4",
+      "Receptions": "1",
+      "Yards Per Reception": "4.0",
+      "Solo Tackles": "3",
+      "Total Tackles": "3",
+      "Total Points": "48",
+      "Total Points Per Game": "3.0",
+      "Two Point Pass Conversions": "1"
+     }
+    },
+    {
+     "year": 2017,
+     "stats": {
+      "Games Played": "9",
+      "Completion Percentage": "56.3",
+      "Completions": "152",
+      "Interception Percentage": "2.22",
+      "Interceptions": "6",
+      "Longest Pass": "47",
+      "Net Passing Yards": "1,812",
+      "Net Total Yards": "2,016",
+      "Passing Attempts": "270",
+      "Passing Touchdown %": "5.93",
+      "Passing Touchdowns": "16",
+      "Passing Yards": "1,812",
+      "Passing Yards At Catch": "1,812",
+      "Passer Rating": "127.8",
+      "Total Sacks": "22",
+      "Sack Yards Lost": "-154",
+      "Team Games Played": "1",
+      "Total Offensive Plays": "384",
+      "Total Touchdowns": "5",
+      "Total Yards": "2,016",
+      "Total Yards From Scrimmage": "206",
+      "Yards Per Completion": "11.9",
+      "Yards Per Pass Attempt": "6.7",
+      "Net Yards Per Pass Attempt": "6.2",
+      "Total QBR": "64.6",
+      "Adjusted QBR": "60.1",
+      "Quarterback Rating": "52.1",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "22",
+      "Rushing Attempts": "92",
+      "Rushing Touchdowns": "5",
+      "Rushing Yards": "204",
+      "Yards Per Rush Attempt": "2.2",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "2",
+      "Receiving Yards": "2",
+      "Receiving Yards At Catch": "2",
+      "Receptions": "1",
+      "Yards Per Reception": "2.0",
+      "Assist Tackles": "1",
+      "Total Tackles": "1",
+      "Total Points": "30",
+      "Total Points Per Game": "3.0"
+     }
+    }
+   ],
+   "college_espn": "Wyoming",
+   "draft_espn": {
+    "year": 2018,
+    "round": 1,
+    "pick": 7
+   },
+   "draft_nflverse": {
+    "year": 2018,
+    "round": 1,
+    "pick": 7,
+    "team": "BUF",
+    "college": "Wyoming",
+    "pos": "QB"
+   }
+  },
+  {
+   "id": "4242433",
+   "name": "Joshua Palmer",
+   "depth_pos": "WR1",
+   "college_seasons": [
+    {
+     "year": 2017,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "6",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Total Offensive Plays": "1",
+      "Total Yards": "6",
+      "Total Yards From Scrimmage": "104",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "6",
+      "Rushing Attempts": "1",
+      "Rushing Yards": "6",
+      "Yards Per Rush Attempt": "6.0",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "18",
+      "Receiving Yards": "98",
+      "Receiving Yards At Catch": "98",
+      "Receptions": "9",
+      "Yards Per Reception": "10.9",
+      "Assist Tackles": "1",
+      "Solo Tackles": "1",
+      "Total Tackles": "2"
+     }
+    },
+    {
+     "year": 2018,
+     "stats": {
+      "Games Played": "3",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "27",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Total Offensive Plays": "5",
+      "Total Touchdowns": "3",
+      "Total Yards": "27",
+      "Total Yards From Scrimmage": "511",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "20",
+      "Rushing Attempts": "5",
+      "Rushing Touchdowns": "1",
+      "Rushing Yards": "27",
+      "Yards Per Rush Attempt": "5.4",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "53",
+      "Receiving Touchdowns": "2",
+      "Receiving Yards": "484",
+      "Receiving Yards At Catch": "484",
+      "Receptions": "23",
+      "Yards Per Reception": "21.0",
+      "Total Points": "18",
+      "Total Points Per Game": "6.0"
+     }
+    },
+    {
+     "year": 2019,
+     "stats": {
+      "Games Played": "12",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "4",
+      "Net Yards Per Game": "0.3",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Total Offensive Plays": "2",
+      "Total Touchdowns": "1",
+      "Total Yards": "4",
+      "Total Yards From Scrimmage": "461",
+      "Yards From Scrimmage Per Game": "38.4",
+      "Yards Per Game": "0.3",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "4.00",
+      "Long Rushing": "4",
+      "Rushing Attempts": "2",
+      "Rushing Yards": "4",
+      "Rushing Yards Per Game": "0.3",
+      "Yards Per Rush Attempt": "2.0",
+      "ESPN Widereceiver Rating": "662.00",
+      "Long Reception": "33",
+      "Receiving Touchdowns": "1",
+      "Receiving Yards": "457",
+      "Receiving Yards At Catch": "457",
+      "Receiving Yards Per Game": "38.1",
+      "Receptions": "34",
+      "Yards Per Reception": "13.4",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0"
+     }
+    },
+    {
+     "year": 2020,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "10",
+      "Total Touchdowns": "4",
+      "Total Yards From Scrimmage": "475",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "36",
+      "Receiving Touchdowns": "4",
+      "Receiving Yards": "475",
+      "Receiving Yards At Catch": "475",
+      "Receptions": "33",
+      "Yards Per Reception": "14.4"
+     }
+    }
+   ],
+   "college_espn": "Tennessee",
+   "draft_espn": {
+    "year": 2021,
+    "round": 3,
+    "pick": 77
+   },
+   "draft_nflverse": null
+  },
+  {
+   "id": "4869533",
+   "name": "Jude Bowry",
+   "depth_pos": "LT",
+   "college_seasons": [
+    {
+     "year": 2024,
+     "stats": {
+      "Games Played": "1",
+      "Solo Tackles": "1",
+      "Team Games Played": "13",
+      "Total Tackles": "1"
+     }
+    }
+   ],
+   "college_espn": "Boston College",
+   "draft_espn": {
+    "year": 2026,
+    "round": 4,
+    "pick": 102
+   },
+   "draft_nflverse": {
+    "year": 2026,
+    "round": 4,
+    "pick": 102,
+    "team": "BUF",
+    "college": "Boston Col.",
+    "pos": "OT"
+   }
+  },
+  {
+   "id": "4594321",
+   "name": "Kaleb Elarms-Orr",
+   "depth_pos": "LILB",
+   "college_seasons": [
+    {
+     "year": 2023,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Fumbles Recovered": "1",
+      "Games Played": "11",
+      "Assist Tackles": "38",
+      "Average Interception Yards": "1.0",
+      "Average Sack Yards": "2.0",
+      "Long Interception": "1",
+      "Passes Defended": "6",
+      "Sacks": "1",
+      "Sack Yards": "2",
+      "Solo Tackles": "49",
+      "Team Games Played": "13",
+      "Total Tackles": "87",
+      "Interceptions": "1",
+      "Interception Yards": "1"
+     }
+    },
+    {
+     "year": 2024,
+     "stats": {
+      "Fumbles Recovered": "1",
+      "Games Played": "13",
+      "Assist Tackles": "28",
+      "Average Sack Yards": "10.0",
+      "Sacks": "2",
+      "Sack Yards": "20",
+      "Solo Tackles": "26",
+      "Team Games Played": "13",
+      "Total Tackles": "54"
+     }
+    },
+    {
+     "year": 2025,
+     "stats": {
+      "Games Played": "13",
+      "Assist Tackles": "70",
+      "Average Sack Yards": "7.8",
+      "Passes Defended": "2",
+      "Sacks": "4",
+      "Sack Yards": "31",
+      "Solo Tackles": "60",
+      "Team Games Played": "13",
+      "Total Tackles": "130"
+     }
+    }
+   ],
+   "college_espn": "TCU",
+   "draft_espn": {
+    "year": 2026,
+    "round": 4,
+    "pick": 126
+   },
+   "draft_nflverse": {
+    "year": 2026,
+    "round": 4,
+    "pick": 126,
+    "team": "BUF",
+    "college": "TCU",
+    "pos": "LB"
+   }
+  },
+  {
+   "id": "4688552",
+   "name": "Keleki Latu",
+   "depth_pos": "TE",
+   "college_seasons": [
+    {
+     "year": 2021,
+     "stats": {
+      "Games Played": "5",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Total Touchdowns": "1",
+      "Total Yards From Scrimmage": "48",
+      "Yards From Scrimmage Per Game": "9.6",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "103.00",
+      "Long Reception": "24",
+      "Receiving Touchdowns": "1",
+      "Receiving Yards": "48",
+      "Receiving Yards At Catch": "48",
+      "Receiving Yards Per Game": "9.6",
+      "Receptions": "4",
+      "Yards Per Reception": "12.0",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0"
+     }
+    },
+    {
+     "year": 2022,
+     "stats": {
+      "Games Played": "9",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Total Touchdowns": "1",
+      "Total Yards From Scrimmage": "207",
+      "Yards From Scrimmage Per Game": "23.0",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "332.00",
+      "Long Reception": "29",
+      "Receiving Touchdowns": "1",
+      "Receiving Yards": "207",
+      "Receiving Yards At Catch": "207",
+      "Receiving Yards Per Game": "23.0",
+      "Receptions": "18",
+      "Yards Per Reception": "11.5",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Games Played": "6",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Total Yards From Scrimmage": "179",
+      "Yards From Scrimmage Per Game": "29.8",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "249.00",
+      "Long Reception": "30",
+      "Receiving Yards": "179",
+      "Receiving Yards At Catch": "179",
+      "Receiving Yards Per Game": "29.8",
+      "Receptions": "14",
+      "Yards Per Reception": "12.8"
+     }
+    },
+    {
+     "year": 2024,
+     "stats": {
+      "Games Played": "11",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Total Touchdowns": "1",
+      "Total Yards From Scrimmage": "371",
+      "Yards From Scrimmage Per Game": "33.7",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "606.00",
+      "Long Reception": "36",
+      "Receiving Touchdowns": "1",
+      "Receiving Yards": "371",
+      "Receiving Yards At Catch": "371",
+      "Receiving Yards Per Game": "33.7",
+      "Receptions": "40",
+      "Two Point Receptions": "1",
+      "Two Point Reception Attempts": "1",
+      "Yards Per Reception": "9.3",
+      "Total Points": "8",
+      "Total Points Per Game": "4.0",
+      "Total Two Point Conversions": "1",
+      "Two Point Receiving Conversion": "1"
+     }
+    }
+   ],
+   "college_espn": "Washington",
+   "draft_nflverse": null
+  },
+  {
+   "id": "4635008",
+   "name": "Keon Coleman",
+   "depth_pos": "WR3",
+   "college_seasons": [
+    {
+     "year": 2021,
+     "stats": {
+      "Games Played": "4",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Total Touchdowns": "1",
+      "Total Yards From Scrimmage": "50",
+      "Yards From Scrimmage Per Game": "12.5",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "120.00",
+      "Long Reception": "12",
+      "Receiving Touchdowns": "1",
+      "Receiving Yards": "50",
+      "Receiving Yards At Catch": "50",
+      "Receiving Yards Per Game": "12.5",
+      "Receptions": "7",
+      "Yards Per Reception": "7.1",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0"
+     }
+    },
+    {
+     "year": 2022,
+     "stats": {
+      "Games Played": "12",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Total Touchdowns": "7",
+      "Total Yards From Scrimmage": "798",
+      "Yards From Scrimmage Per Game": "66.5",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "1333.00",
+      "Long Reception": "51",
+      "Receiving Touchdowns": "7",
+      "Receiving Yards": "798",
+      "Receiving Yards At Catch": "798",
+      "Receiving Yards Per Game": "66.5",
+      "Receptions": "58",
+      "Two Point Receptions": "2",
+      "Two Point Reception Attempts": "2",
+      "Yards Per Reception": "13.8",
+      "Solo Tackles": "1",
+      "Total Tackles": "1",
+      "Total Points": "46",
+      "Total Points Per Game": "9.2",
+      "Total Two Point Conversions": "2",
+      "Two Point Receiving Conversion": "2"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Games Played": "12",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "2",
+      "Net Yards Per Game": "0.2",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "14",
+      "Total Offensive Plays": "1",
+      "Total Touchdowns": "11",
+      "Total Yards": "2",
+      "Total Yards From Scrimmage": "660",
+      "Yards From Scrimmage Per Game": "55.0",
+      "Yards Per Game": "0.2",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "2.00",
+      "Long Rushing": "2",
+      "Rushing Attempts": "1",
+      "Rushing Yards": "2",
+      "Rushing Yards Per Game": "0.2",
+      "Yards Per Rush Attempt": "2.0",
+      "ESPN Widereceiver Rating": "1293.00",
+      "Long Reception": "58",
+      "Receiving Touchdowns": "11",
+      "Receiving Yards": "658",
+      "Receiving Yards At Catch": "658",
+      "Receiving Yards Per Game": "54.8",
+      "Receptions": "50",
+      "Yards Per Reception": "13.2",
+      "Solo Tackles": "1",
+      "Total Tackles": "1",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Long Punt Return": "72",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Punt Returns": "25",
+      "Punt Return Yards": "300",
+      "Yards Per Punt Return": "12.0",
+      "Yards Per Return": "12.0",
+      "Total Points": "66",
+      "Total Points Per Game": "9.4"
+     }
+    }
+   ],
+   "college_espn": "Florida State",
+   "draft_espn": {
+    "year": 2024,
+    "round": 2,
+    "pick": 33
+   },
+   "draft_nflverse": {
+    "year": 2024,
+    "round": 2,
+    "pick": 33,
+    "team": "BUF",
+    "college": "Florida St.",
+    "pos": "WR"
+   }
+  },
+  {
+   "id": "4373678",
+   "name": "Khalil Shakir",
+   "depth_pos": "WR2",
+   "college_seasons": [
+    {
+     "year": 2018,
+     "stats": {
+      "Completion Percentage": "100.0",
+      "Completions": "2",
+      "Interception Percentage": "0.00",
+      "Longest Pass": "8",
+      "Net Passing Yards": "10",
+      "Net Total Yards": "80",
+      "Passing Attempts": "2",
+      "Passing Touchdown %": "0.00",
+      "Passing Yards": "10",
+      "Passing Yards At Catch": "10",
+      "Passer Rating": "142.0",
+      "Team Games Played": "13",
+      "Total Offensive Plays": "16",
+      "Total Touchdowns": "2",
+      "Total Yards": "80",
+      "Total Yards From Scrimmage": "240",
+      "Yards Per Completion": "5.0",
+      "Yards Per Pass Attempt": "5.0",
+      "Net Yards Per Pass Attempt": "5.0",
+      "Quarterback Rating": "87.5",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "28",
+      "Rushing Attempts": "14",
+      "Rushing Touchdowns": "1",
+      "Rushing Yards": "70",
+      "Yards Per Rush Attempt": "5.0",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "49",
+      "Receiving Touchdowns": "1",
+      "Receiving Yards": "170",
+      "Receiving Yards At Catch": "170",
+      "Receptions": "16",
+      "Yards Per Reception": "10.6",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Kick Returns": "4",
+      "Kick Return Yards": "100",
+      "Long Kick Return": "29",
+      "Long Punt Return": "22",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Punt Returns": "11",
+      "Punt Return Yards": "58",
+      "Yards Per Kick Return": "25.0",
+      "Yards Per Punt Return": "5.3",
+      "Yards Per Return": "10.5",
+      "Total Points": "12",
+      "Total Points Per Game": "6.0"
+     }
+    },
+    {
+     "year": 2019,
+     "stats": {
+      "Games Played": "14",
+      "Completion Percentage": "100.0",
+      "Completions": "2",
+      "ESPN Quarterback Rating": "80.0",
+      "Interception Percentage": "0.00",
+      "Longest Pass": "8",
+      "Net Passing Yards": "10",
+      "Net Passing Yards Per Game": "0.7",
+      "Net Total Yards": "76",
+      "Net Yards Per Game": "5.4",
+      "Passing Attempts": "2",
+      "Passing Touchdown %": "50.00",
+      "Passing Touchdowns": "1",
+      "Passing Yards": "10",
+      "Passing Yards At Catch": "10",
+      "Passing Yards Per Game": "0.7",
+      "Passer Rating": "307.0",
+      "Team Games Played": "14",
+      "Total Offensive Plays": "21",
+      "Total Touchdowns": "9",
+      "Total Yards": "76",
+      "Total Yards From Scrimmage": "938",
+      "Yards From Scrimmage Per Game": "67.0",
+      "Yards Per Completion": "5.0",
+      "Yards Per Game": "5.4",
+      "Yards Per Pass Attempt": "5.0",
+      "Net Yards Per Pass Attempt": "5.0",
+      "Quarterback Rating": "87.5",
+      "ESPN RB Rating": "171.00",
+      "Long Rushing": "14",
+      "Rushing Attempts": "19",
+      "Rushing Touchdowns": "3",
+      "Rushing Yards": "66",
+      "Rushing Yards Per Game": "4.7",
+      "Yards Per Rush Attempt": "3.5",
+      "ESPN Widereceiver Rating": "1397.00",
+      "Long Reception": "50",
+      "Receiving Touchdowns": "6",
+      "Receiving Yards": "872",
+      "Receiving Yards At Catch": "872",
+      "Receiving Yards Per Game": "62.3",
+      "Receptions": "63",
+      "Yards Per Reception": "13.8",
+      "Solo Tackles": "3",
+      "Total Tackles": "3",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Kick Returns": "1",
+      "Kick Return Yards": "10",
+      "Long Kick Return": "10",
+      "Long Punt Return": "5",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Punt Returns": "3",
+      "Punt Return Yards": "11",
+      "Yards Per Kick Return": "10.0",
+      "Yards Per Punt Return": "3.7",
+      "Yards Per Return": "5.3",
+      "Total Points": "54",
+      "Total Points Per Game": "7.0"
+     }
+    },
+    {
+     "year": 2020,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "148",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "7",
+      "Total Offensive Plays": "17",
+      "Total Touchdowns": "6",
+      "Total Yards": "148",
+      "Total Yards From Scrimmage": "867",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "28",
+      "Rushing Attempts": "17",
+      "Rushing Yards": "148",
+      "Yards Per Rush Attempt": "8.7",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "52",
+      "Receiving Touchdowns": "6",
+      "Receiving Yards": "719",
+      "Receiving Yards At Catch": "719",
+      "Receptions": "52",
+      "Yards Per Reception": "13.8",
+      "Solo Tackles": "2",
+      "Total Tackles": "2"
+     }
+    },
+    {
+     "year": 2021,
+     "stats": {
+      "Games Played": "12",
+      "ESPN Quarterback Rating": "-30.0",
+      "Interception Percentage": "100.00",
+      "Interceptions": "1",
+      "Net Total Yards": "130",
+      "Net Yards Per Game": "10.8",
+      "Passing Attempts": "1",
+      "Passing Touchdown %": "0.00",
+      "Passer Rating": "-200.0",
+      "Team Games Played": "12",
+      "Total Offensive Plays": "22",
+      "Total Touchdowns": "7",
+      "Total Yards": "130",
+      "Total Yards From Scrimmage": "1247",
+      "Yards From Scrimmage Per Game": "103.9",
+      "Yards Per Game": "10.8",
+      "ESPN RB Rating": "130.00",
+      "Long Rushing": "33",
+      "Rushing Attempts": "21",
+      "Rushing Yards": "130",
+      "Rushing Yards Per Game": "10.8",
+      "Yards Per Rush Attempt": "6.2",
+      "ESPN Widereceiver Rating": "1747.00",
+      "Long Reception": "69",
+      "Receiving Touchdowns": "7",
+      "Receiving Yards": "1,117",
+      "Receiving Yards At Catch": "1117",
+      "Receiving Yards Per Game": "93.1",
+      "Receptions": "77",
+      "Yards Per Reception": "14.5",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Kick Returns": "3",
+      "Kick Return Yards": "80",
+      "Long Kick Return": "35",
+      "Long Punt Return": "40",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Punt Returns": "9",
+      "Punt Return Yards": "115",
+      "Yards Per Kick Return": "26.7",
+      "Yards Per Punt Return": "12.8",
+      "Yards Per Return": "16.3",
+      "Total Points": "42",
+      "Total Points Per Game": "7.0"
+     }
+    }
+   ],
+   "college_espn": "Boise State",
+   "draft_espn": {
+    "year": 2022,
+    "round": 5,
+    "pick": 148
+   },
+   "draft_nflverse": {
+    "year": 2022,
+    "round": 5,
+    "pick": 148,
+    "team": "BUF",
+    "college": "Boise St.",
+    "pos": "WR"
+   }
+  },
+  {
+   "id": "3115293",
+   "name": "Kyle Allen",
+   "depth_pos": "QB",
+   "college_seasons": [],
+   "college_espn": "Houston",
+   "college_stats_error": "HTTP Error 404: Not Found",
+   "draft_nflverse": null
+  },
+  {
+   "id": "4432715",
+   "name": "Landon Jackson",
+   "depth_pos": "LDE",
+   "college_seasons": [
+    {
+     "year": 2022,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Games Played": "9",
+      "Assist Tackles": "14",
+      "Average Sack Yards": "9.7",
+      "Passes Defended": "1",
+      "Sacks": "3",
+      "Sack Yards": "29",
+      "Solo Tackles": "9",
+      "Team Games Played": "13",
+      "Total Tackles": "23"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Games Played": "12",
+      "Assist Tackles": "22",
+      "Average Sack Yards": "8.3",
+      "Passes Defended": "1",
+      "Sacks": "6.5",
+      "Sack Yards": "54",
+      "Solo Tackles": "22",
+      "Team Games Played": "12",
+      "Total Tackles": "44",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Kick Returns": "1",
+      "Punt Return Fair Catch Percentage": "0.00"
+     }
+    },
+    {
+     "year": 2024,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Fumbles Recovered": "1",
+      "Games Played": "12",
+      "Assist Tackles": "21",
+      "Average Sack Yards": "6.9",
+      "Passes Defended": "3",
+      "Sacks": "6.5",
+      "Sack Yards": "45",
+      "Solo Tackles": "28",
+      "Team Games Played": "13",
+      "Total Tackles": "49"
+     }
+    }
+   ],
+   "college_espn": "Arkansas",
+   "draft_espn": {
+    "year": 2025,
+    "round": 3,
+    "pick": 72
+   },
+   "draft_nflverse": {
+    "year": 2025,
+    "round": 3,
+    "pick": 72,
+    "team": "BUF",
+    "college": "Arkansas",
+    "pos": "DE"
+   }
+  },
+  {
+   "id": "4035448",
+   "name": "Lloyd Cushenberry III",
+   "depth_pos": "C",
+   "college_seasons": [],
+   "college_espn": "LSU",
+   "draft_espn": {
+    "year": 2020,
+    "round": 3,
+    "pick": 83
+   },
+   "college_stats_error": "HTTP Error 404: Not Found",
+   "draft_nflverse": {
+    "year": 2020,
+    "round": 3,
+    "pick": 83,
+    "team": "DEN",
+    "college": "LSU",
+    "pos": "C"
+   }
+  },
+  {
+   "id": "4688931",
+   "name": "Maxwell Hairston",
+   "depth_pos": "RCB",
+   "college_seasons": [
+    {
+     "year": 2022,
+     "stats": {
+      "Games Played": "1",
+      "Assist Tackles": "1",
+      "Solo Tackles": "1",
+      "Team Games Played": "13",
+      "Total Tackles": "2"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Games Played": "13",
+      "Assist Tackles": "13",
+      "Average Interception Yards": "26.2",
+      "Long Interception": "83",
+      "Passes Defended": "6",
+      "Solo Tackles": "53",
+      "Team Games Played": "13",
+      "Total Tackles": "66",
+      "Interceptions": "5",
+      "Interception Touchdowns": "2",
+      "Interception Yards": "131",
+      "Passing Touchdowns": "2",
+      "Return Touchdowns": "2",
+      "Total Points": "12",
+      "Total Points Per Game": "12.0",
+      "Total Touchdowns": "2"
+     }
+    },
+    {
+     "year": 2024,
+     "stats": {
+      "Forced Fumbles": "2",
+      "Defensive Forced Fumbles": "2",
+      "Games Played": "5",
+      "Assist Tackles": "4",
+      "Average Interception Yards": "25.0",
+      "Average Sack Yards": "12.0",
+      "Long Interception": "25",
+      "Passes Defended": "4",
+      "Sacks": "1",
+      "Sack Yards": "12",
+      "Solo Tackles": "15",
+      "Team Games Played": "12",
+      "Total Tackles": "19",
+      "Interceptions": "1",
+      "Interception Touchdowns": "1",
+      "Interception Yards": "25",
+      "Passing Touchdowns": "1",
+      "Return Touchdowns": "1",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0",
+      "Total Touchdowns": "1"
+     }
+    }
+   ],
+   "college_espn": "Kentucky",
+   "draft_espn": {
+    "year": 2025,
+    "round": 1,
+    "pick": 30
+   },
+   "draft_nflverse": {
+    "year": 2025,
+    "round": 1,
+    "pick": 30,
+    "team": "BUF",
+    "college": "Kentucky",
+    "pos": "CB"
+   }
+  },
+  {
+   "id": "4033234",
+   "name": "Michael Hoecht",
+   "depth_pos": "WLB",
+   "college_seasons": [
+    {
+     "year": 2017,
+     "stats": {
+      "Team Games Played": "10",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Kick Returns": "1",
+      "Kick Return Yards": "6",
+      "Long Kick Return": "6",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Yards Per Kick Return": "6.0",
+      "Yards Per Return": "6.0"
+     }
+    },
+    {
+     "year": 2018,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Team Games Played": "10"
+     }
+    }
+   ],
+   "college_espn": "Brown",
+   "draft_nflverse": null
+  },
+  {
+   "id": "3915487",
+   "name": "Mike Danna",
+   "depth_pos": "WLB",
+   "college_seasons": [
+    {
+     "year": 2016,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Assist Tackles": "7",
+      "Average Sack Yards": "10.7",
+      "Sacks": "1.5",
+      "Sack Yards": "16",
+      "Solo Tackles": "24",
+      "Team Games Played": "1",
+      "Total Tackles": "31"
+     }
+    },
+    {
+     "year": 2017,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Assist Tackles": "23",
+      "Average Sack Yards": "8.8",
+      "Sacks": "4",
+      "Sack Yards": "35",
+      "Solo Tackles": "31",
+      "Team Games Played": "1",
+      "Total Tackles": "54"
+     }
+    },
+    {
+     "year": 2018,
+     "stats": {
+      "Forced Fumbles": "2",
+      "Defensive Forced Fumbles": "2",
+      "Games Played": "2",
+      "Assist Tackles": "29",
+      "Average Sack Yards": "7.8",
+      "Passes Defended": "1",
+      "Sacks": "9.5",
+      "Sack Yards": "74",
+      "Solo Tackles": "37",
+      "Team Games Played": "12",
+      "Total Tackles": "66",
+      "Return Touchdowns": "2",
+      "Total Points": "12",
+      "Total Points Per Game": "6.0",
+      "Total Touchdowns": "2"
+     }
+    },
+    {
+     "year": 2019,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Games Played": "12",
+      "Assist Tackles": "18",
+      "Average Sack Yards": "6.7",
+      "Sacks": "3",
+      "Sack Yards": "20",
+      "Solo Tackles": "20",
+      "Team Games Played": "13",
+      "Total Tackles": "38"
+     }
+    }
+   ],
+   "college_espn": "Michigan",
+   "draft_espn": {
+    "year": 2020,
+    "round": 5,
+    "pick": 177
+   },
+   "draft_nflverse": null
+  },
+  {
+   "id": "4428696",
+   "name": "O'Cyrus Torrence",
+   "depth_pos": "RG",
+   "college_seasons": [
+    {
+     "year": 2019,
+     "stats": {
+      "Games Played": "1",
+      "Solo Tackles": "1",
+      "Team Games Played": "14",
+      "Total Tackles": "1"
+     }
+    }
+   ],
+   "college_espn": "Florida",
+   "draft_espn": {
+    "year": 2023,
+    "round": 2,
+    "pick": 59
+   },
+   "draft_nflverse": {
+    "year": 2023,
+    "round": 2,
+    "pick": 59,
+    "team": "BUF",
+    "college": "Florida",
+    "pos": "OL"
+   }
+  },
+  {
+   "id": "4429501",
+   "name": "Ray Davis",
+   "depth_pos": "RB",
+   "college_seasons": [
+    {
+     "year": 2019,
+     "stats": {
+      "Games Played": "12",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "936",
+      "Net Yards Per Game": "78.0",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Total Offensive Plays": "193",
+      "Total Touchdowns": "10",
+      "Total Yards": "936",
+      "Total Yards From Scrimmage": "1117",
+      "Yards From Scrimmage Per Game": "93.1",
+      "Yards Per Game": "78.0",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "1216.00",
+      "Long Rushing": "55",
+      "Rushing Attempts": "193",
+      "Rushing Touchdowns": "8",
+      "Rushing Yards": "936",
+      "Rushing Yards Per Game": "78.0",
+      "Yards Per Rush Attempt": "4.8",
+      "ESPN Widereceiver Rating": "326.00",
+      "Long Reception": "51",
+      "Receiving Touchdowns": "2",
+      "Receiving Yards": "181",
+      "Receiving Yards At Catch": "181",
+      "Receiving Yards Per Game": "15.1",
+      "Receptions": "15",
+      "Yards Per Reception": "12.1",
+      "Total Points": "60",
+      "Total Points Per Game": "8.0"
+     }
+    },
+    {
+     "year": 2020,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "308",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "7",
+      "Total Offensive Plays": "78",
+      "Total Touchdowns": "1",
+      "Total Yards": "308",
+      "Total Yards From Scrimmage": "370",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "30",
+      "Rushing Attempts": "78",
+      "Rushing Touchdowns": "1",
+      "Rushing Yards": "308",
+      "Two Point Rush Attempts": "1",
+      "Yards Per Rush Attempt": "3.9",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "14",
+      "Receiving Yards": "62",
+      "Receiving Yards At Catch": "62",
+      "Receptions": "12",
+      "Yards Per Reception": "5.2",
+      "Solo Tackles": "1",
+      "Total Tackles": "1"
+     }
+    },
+    {
+     "year": 2021,
+     "stats": {
+      "Games Played": "3",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "211",
+      "Net Yards Per Game": "70.3",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Total Offensive Plays": "44",
+      "Total Touchdowns": "1",
+      "Total Yards": "211",
+      "Total Yards From Scrimmage": "238",
+      "Yards From Scrimmage Per Game": "79.3",
+      "Yards Per Game": "70.3",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "246.00",
+      "Long Rushing": "26",
+      "Rushing Attempts": "44",
+      "Rushing Touchdowns": "1",
+      "Rushing Yards": "211",
+      "Rushing Yards Per Game": "70.3",
+      "Yards Per Rush Attempt": "4.8",
+      "ESPN Widereceiver Rating": "52.00",
+      "Long Reception": "11",
+      "Receiving Yards": "27",
+      "Receiving Yards At Catch": "27",
+      "Receiving Yards Per Game": "9.0",
+      "Receptions": "5",
+      "Yards Per Reception": "5.4",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0"
+     }
+    },
+    {
+     "year": 2022,
+     "stats": {
+      "Games Played": "12",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "1,042",
+      "Net Yards Per Game": "86.8",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Total Offensive Plays": "232",
+      "Total Touchdowns": "8",
+      "Total Yards": "1,042",
+      "Total Yards From Scrimmage": "1211",
+      "Yards From Scrimmage Per Game": "100.9",
+      "Yards Per Game": "86.8",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "1217.00",
+      "Long Rushing": "45",
+      "Rushing Attempts": "232",
+      "Rushing Touchdowns": "5",
+      "Rushing Yards": "1,042",
+      "Rushing Yards Per Game": "86.8",
+      "Yards Per Rush Attempt": "4.5",
+      "ESPN Widereceiver Rating": "419.00",
+      "Long Reception": "24",
+      "Receiving Touchdowns": "3",
+      "Receiving Yards": "169",
+      "Receiving Yards At Catch": "169",
+      "Receiving Yards Per Game": "14.1",
+      "Receptions": "29",
+      "Yards Per Reception": "5.8",
+      "Total Points": "48",
+      "Total Points Per Game": "6.8"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Games Played": "13",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "1,129",
+      "Net Yards Per Game": "86.8",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Total Offensive Plays": "199",
+      "Total Touchdowns": "21",
+      "Total Yards": "1,129",
+      "Total Yards From Scrimmage": "1452",
+      "Yards From Scrimmage Per Game": "111.7",
+      "Yards Per Game": "86.8",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "1619.00",
+      "Long Rushing": "75",
+      "Rushing Attempts": "199",
+      "Rushing Touchdowns": "14",
+      "Rushing Yards": "1,129",
+      "Rushing Yards Per Game": "86.8",
+      "Two Point Rush Attempts": "1",
+      "Yards Per Rush Attempt": "5.7",
+      "ESPN Widereceiver Rating": "733.00",
+      "Long Reception": "58",
+      "Receiving Touchdowns": "7",
+      "Receiving Yards": "323",
+      "Receiving Yards At Catch": "323",
+      "Receiving Yards Per Game": "24.8",
+      "Receptions": "33",
+      "Yards Per Reception": "9.8",
+      "Solo Tackles": "1",
+      "Total Tackles": "1",
+      "Total Points": "126",
+      "Total Points Per Game": "10.5"
+     }
+    }
+   ],
+   "college_espn": "Kentucky",
+   "draft_espn": {
+    "year": 2024,
+    "round": 4,
+    "pick": 128
+   },
+   "draft_nflverse": {
+    "year": 2024,
+    "round": 4,
+    "pick": 128,
+    "team": "BUF",
+    "college": "Kentucky",
+    "pos": "RB"
+   }
+  },
+  {
+   "id": "2976549",
+   "name": "Reid Ferguson",
+   "depth_pos": "LS",
+   "college_seasons": [],
+   "college_espn": "LSU",
+   "college_stats_error": "HTTP Error 404: Not Found",
+   "draft_nflverse": null
+  },
+  {
+   "id": "4044133",
+   "name": "Sam Franklin Jr.",
+   "depth_pos": "FS",
+   "college_seasons": [
+    {
+     "year": 2016,
+     "stats": {
+      "Assist Tackles": "1",
+      "Solo Tackles": "3",
+      "Team Games Played": "1",
+      "Total Tackles": "4"
+     }
+    },
+    {
+     "year": 2017,
+     "stats": {
+      "Assist Tackles": "16",
+      "Average Sack Yards": "6.8",
+      "Passes Defended": "6",
+      "Sacks": "4",
+      "Sack Yards": "27",
+      "Solo Tackles": "43",
+      "Team Games Played": "1",
+      "Total Tackles": "59"
+     }
+    },
+    {
+     "year": 2018,
+     "stats": {
+      "Forced Fumbles": "1",
+      "Defensive Forced Fumbles": "1",
+      "Assist Tackles": "18",
+      "Average Interception Yards": "15.0",
+      "Average Sack Yards": "3.0",
+      "Long Interception": "15",
+      "Sacks": "3",
+      "Sack Yards": "9",
+      "Solo Tackles": "45",
+      "Team Games Played": "13",
+      "Total Tackles": "63",
+      "Interceptions": "1",
+      "Interception Yards": "15"
+     }
+    },
+    {
+     "year": 2019,
+     "stats": {
+      "Fumbles Recovered": "2",
+      "Fumbles Touchdowns": "1",
+      "Games Played": "13",
+      "Assist Tackles": "19",
+      "Average Interception Yards": "29.0",
+      "Average Sack Yards": "14.0",
+      "Long Interception": "29",
+      "Passes Defended": "2",
+      "Sacks": "1",
+      "Sack Yards": "14",
+      "Solo Tackles": "49",
+      "Team Games Played": "13",
+      "Total Tackles": "68",
+      "Interceptions": "1",
+      "Interception Touchdowns": "1",
+      "Interception Yards": "29",
+      "Passing Touchdowns": "1",
+      "Return Touchdowns": "2",
+      "Total Points": "12",
+      "Total Points Per Game": "6.0",
+      "Total Touchdowns": "2"
+     }
+    }
+   ],
+   "college_espn": "Temple",
+   "draft_nflverse": null
+  },
+  {
+   "id": "4683153",
+   "name": "Skyler Bell",
+   "depth_pos": "WR3",
+   "college_seasons": [
+    {
+     "year": 2021,
+     "stats": {
+      "Games Played": "1",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Total Yards From Scrimmage": "15",
+      "Yards From Scrimmage Per Game": "15.0",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "20.00",
+      "Long Reception": "15",
+      "Receiving Yards": "15",
+      "Receiving Yards At Catch": "15",
+      "Receiving Yards Per Game": "15.0",
+      "Receptions": "1",
+      "Yards Per Reception": "15.0"
+     }
+    },
+    {
+     "year": 2022,
+     "stats": {
+      "Games Played": "13",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "160",
+      "Net Yards Per Game": "12.3",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Total Offensive Plays": "13",
+      "Total Touchdowns": "5",
+      "Total Yards": "160",
+      "Total Yards From Scrimmage": "604",
+      "Yards From Scrimmage Per Game": "46.5",
+      "Yards Per Game": "12.3",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "160.00",
+      "Long Rushing": "44",
+      "Rushing Attempts": "13",
+      "Rushing Yards": "160",
+      "Rushing Yards Per Game": "12.3",
+      "Yards Per Rush Attempt": "12.3",
+      "ESPN Widereceiver Rating": "769.00",
+      "Long Reception": "49",
+      "Receiving Touchdowns": "5",
+      "Receiving Yards": "444",
+      "Receiving Yards At Catch": "444",
+      "Receiving Yards Per Game": "34.2",
+      "Receptions": "30",
+      "Two Point Reception Attempts": "1",
+      "Yards Per Reception": "14.8",
+      "Total Points": "30",
+      "Total Points Per Game": "7.5"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Games Played": "12",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Total Touchdowns": "1",
+      "Total Yards From Scrimmage": "296",
+      "Yards From Scrimmage Per Game": "24.7",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "521.00",
+      "Long Reception": "30",
+      "Receiving Touchdowns": "1",
+      "Receiving Yards": "296",
+      "Receiving Yards At Catch": "296",
+      "Receiving Yards Per Game": "24.7",
+      "Receptions": "38",
+      "Yards Per Reception": "7.8",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0"
+     }
+    },
+    {
+     "year": 2024,
+     "stats": {
+      "Games Played": "13",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "4",
+      "Net Yards Per Game": "0.3",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Total Touchdowns": "5",
+      "Total Yards": "4",
+      "Total Yards From Scrimmage": "864",
+      "Yards From Scrimmage Per Game": "66.5",
+      "Yards Per Game": "0.3",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "4.00",
+      "Long Rushing": "4",
+      "Rushing Yards": "4",
+      "Rushing Yards Per Game": "0.3",
+      "ESPN Widereceiver Rating": "1285.00",
+      "Long Reception": "70",
+      "Receiving Touchdowns": "5",
+      "Receiving Yards": "860",
+      "Receiving Yards At Catch": "860",
+      "Receiving Yards Per Game": "66.2",
+      "Receptions": "50",
+      "Yards Per Reception": "17.2",
+      "Total Points": "30",
+      "Total Points Per Game": "10.0"
+     }
+    },
+    {
+     "year": 2025,
+     "stats": {
+      "Games Played": "13",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "-2",
+      "Net Yards Per Game": "-0.2",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Total Offensive Plays": "2",
+      "Total Touchdowns": "13",
+      "Total Yards": "-2",
+      "Total Yards From Scrimmage": "1276",
+      "Yards From Scrimmage Per Game": "98.2",
+      "Yards Per Game": "-0.2",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "-2.00",
+      "Rushing Attempts": "2",
+      "Rushing Yards": "-2",
+      "Rushing Yards Per Game": "-0.2",
+      "Yards Per Rush Attempt": "-1.0",
+      "ESPN Widereceiver Rating": "2238.00",
+      "Long Reception": "80",
+      "Receiving Touchdowns": "13",
+      "Receiving Yards": "1,278",
+      "Receiving Yards At Catch": "1278",
+      "Receiving Yards Per Game": "98.3",
+      "Receptions": "101",
+      "Yards Per Reception": "12.7",
+      "Total Points": "78",
+      "Total Points Per Game": "9.7"
+     }
+    }
+   ],
+   "college_espn": "UConn",
+   "draft_espn": {
+    "year": 2026,
+    "round": 4,
+    "pick": 125
+   },
+   "draft_nflverse": {
+    "year": 2026,
+    "round": 4,
+    "pick": 125,
+    "team": "BUF",
+    "college": "Connecticut",
+    "pos": "WR"
+   }
+  },
+  {
+   "id": "4030899",
+   "name": "Spencer Brown",
+   "depth_pos": "RT",
+   "college_seasons": [],
+   "college_espn": "Northern Iowa",
+   "draft_espn": {
+    "year": 2021,
+    "round": 3,
+    "pick": 93
+   },
+   "college_stats_error": "HTTP Error 404: Not Found",
+   "draft_nflverse": {
+    "year": 2021,
+    "round": 3,
+    "pick": 93,
+    "team": "BUF",
+    "college": "Northern Iowa",
+    "pos": "OL"
+   }
+  },
+  {
+   "id": "4684527",
+   "name": "T.J. Sanders",
+   "depth_pos": "LDE",
+   "college_seasons": [
+    {
+     "year": 2021,
+     "stats": {
+      "Games Played": "1",
+      "Team Games Played": "13"
+     }
+    },
+    {
+     "year": 2022,
+     "stats": {
+      "Games Played": "10",
+      "Assist Tackles": "10",
+      "Average Sack Yards": "6.0",
+      "Passes Defended": "1",
+      "Sacks": "1",
+      "Sack Yards": "6",
+      "Solo Tackles": "6",
+      "Team Games Played": "13",
+      "Total Tackles": "16"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Games Played": "12",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "0.00",
+      "Two Point Reception Attempts": "1",
+      "Assist Tackles": "15",
+      "Average Sack Yards": "5.1",
+      "Passes Defended": "4",
+      "Sacks": "4.5",
+      "Sack Yards": "23",
+      "Solo Tackles": "28",
+      "Total Tackles": "43"
+     }
+    },
+    {
+     "year": 2024,
+     "stats": {
+      "Games Played": "13",
+      "Assist Tackles": "22",
+      "Average Sack Yards": "7.8",
+      "Passes Defended": "1",
+      "Sacks": "4",
+      "Sack Yards": "31",
+      "Solo Tackles": "29",
+      "Team Games Played": "13",
+      "Total Tackles": "51"
+     }
+    }
+   ],
+   "college_espn": "South Carolina",
+   "draft_espn": {
+    "year": 2025,
+    "round": 2,
+    "pick": 41
+   },
+   "draft_nflverse": {
+    "year": 2025,
+    "round": 2,
+    "pick": 41,
+    "team": "BUF",
+    "college": "South Carolina",
+    "pos": "DT"
+   }
+  },
+  {
+   "id": "4870886",
+   "name": "TJ Parker",
+   "depth_pos": "SLB",
+   "college_seasons": [
+    {
+     "year": 2023,
+     "stats": {
+      "Fumbles Recovered": "1",
+      "Games Played": "11",
+      "Assist Tackles": "17",
+      "Average Sack Yards": "7.1",
+      "Passes Defended": "1",
+      "Sacks": "5.5",
+      "Sack Yards": "39",
+      "Solo Tackles": "16",
+      "Team Games Played": "13",
+      "Total Tackles": "33"
+     }
+    },
+    {
+     "year": 2024,
+     "stats": {
+      "Forced Fumbles": "6",
+      "Defensive Forced Fumbles": "6",
+      "Fumbles Recovered": "2",
+      "Games Played": "14",
+      "Assist Tackles": "23",
+      "Average Sack Yards": "6.2",
+      "Passes Defended": "1",
+      "Sacks": "11",
+      "Sack Yards": "68",
+      "Solo Tackles": "34",
+      "Team Games Played": "14",
+      "Total Tackles": "57"
+     }
+    },
+    {
+     "year": 2025,
+     "stats": {
+      "Fumbles Recovered": "3",
+      "Games Played": "12",
+      "Assist Tackles": "19",
+      "Average Sack Yards": "5.8",
+      "Passes Defended": "1",
+      "Sacks": "5",
+      "Sack Yards": "29",
+      "Solo Tackles": "18",
+      "Team Games Played": "13",
+      "Total Tackles": "37"
+     }
+    }
+   ],
+   "college_espn": "Clemson",
+   "draft_espn": {
+    "year": 2026,
+    "round": 2,
+    "pick": 35
+   },
+   "draft_nflverse": {
+    "year": 2026,
+    "round": 2,
+    "pick": 35,
+    "team": "BUF",
+    "college": "Clemson",
+    "pos": "DE"
+   }
+  },
+  {
+   "id": "4259166",
+   "name": "Terrel Bernard",
+   "depth_pos": "RILB",
+   "college_seasons": [
+    {
+     "year": 2018,
+     "stats": {
+      "Assist Tackles": "22",
+      "Average Interception Yards": "28.0",
+      "Average Sack Yards": "12.0",
+      "Long Interception": "28",
+      "Sacks": "1",
+      "Sack Yards": "12",
+      "Solo Tackles": "25",
+      "Team Games Played": "13",
+      "Total Tackles": "47",
+      "Interceptions": "1",
+      "Interception Yards": "28"
+     }
+    },
+    {
+     "year": 2019,
+     "stats": {
+      "Fumbles Recovered": "3",
+      "Fumbles Touchdowns": "1",
+      "Games Played": "14",
+      "Assist Tackles": "59",
+      "Average Interception Yards": "20.0",
+      "Average Sack Yards": "7.3",
+      "Long Interception": "20",
+      "Passes Defended": "2",
+      "Sacks": "4.5",
+      "Sack Yards": "33",
+      "Solo Tackles": "53",
+      "Team Games Played": "14",
+      "Total Tackles": "112",
+      "Interceptions": "1",
+      "Interception Yards": "20",
+      "Return Touchdowns": "1",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0",
+      "Total Touchdowns": "1"
+     }
+    },
+    {
+     "year": 2020,
+     "stats": {
+      "Assist Tackles": "21",
+      "Average Sack Yards": "4.3",
+      "Passes Defended": "2",
+      "Sacks": "3.5",
+      "Sack Yards": "15",
+      "Solo Tackles": "34",
+      "Team Games Played": "9",
+      "Total Tackles": "55",
+      "Interceptions": "1"
+     }
+    },
+    {
+     "year": 2021,
+     "stats": {
+      "Games Played": "13",
+      "Assist Tackles": "42",
+      "Average Sack Yards": "7.1",
+      "Passes Defended": "4",
+      "Sacks": "7.5",
+      "Sack Yards": "53",
+      "Solo Tackles": "61",
+      "Team Games Played": "14",
+      "Total Tackles": "103"
+     }
+    }
+   ],
+   "college_espn": "Baylor",
+   "draft_espn": {
+    "year": 2022,
+    "round": 3,
+    "pick": 89
+   },
+   "draft_nflverse": {
+    "year": 2022,
+    "round": 3,
+    "pick": 89,
+    "team": "BUF",
+    "college": "Baylor",
+    "pos": "LB"
+   }
+  },
+  {
+   "id": "4682758",
+   "name": "Tommy Doman Jr.",
+   "depth_pos": "H",
+   "college_seasons": [
+    {
+     "year": 2022,
+     "stats": {
+      "Games Played": "4",
+      "Extra Point Attempts": "2",
+      "Extra Point Percentage": "100.0",
+      "Extra Points Made": "2",
+      "Team Games Played": "14",
+      "Total Kicking Points": "2",
+      "Gross Average Punt Yards": "41.0",
+      "Long Punt": "41",
+      "Net Average Punt Yards": "41.0",
+      "Punts": "1",
+      "Punts Blocked Percentage": "0.00",
+      "Punts Inside 10 Percentage": "0.00",
+      "Punts Inside 20 Percentage": "0.00",
+      "Punt Yards": "41",
+      "Touchback Percentage": "0.00",
+      "Kick Extra Points": "2",
+      "Kick Extra Points Made": "2",
+      "Total Points": "2",
+      "Total Points Per Game": "1.0"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Games Played": "15",
+      "Gross Average Punt Yards": "44.3",
+      "Long Punt": "71",
+      "Net Average Punt Yards": "41.2",
+      "Punts": "53",
+      "Punts Blocked Percentage": "0.00",
+      "Punts Inside 10 Percentage": "0.00",
+      "Punts Inside 20": "2",
+      "Punts Inside 20 Percentage": "3.77",
+      "Punt Yards": "2,346",
+      "Team Games Played": "15",
+      "Touchback Percentage": "1.89",
+      "Touchbacks": "1"
+     }
+    },
+    {
+     "year": 2024,
+     "stats": {
+      "Games Played": "12",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Two Point Pass Attempts": "1",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "0.00",
+      "Solo Tackles": "3",
+      "Total Tackles": "3",
+      "Gross Average Punt Yards": "42.6",
+      "Long Punt": "68",
+      "Net Average Punt Yards": "37.3",
+      "Punts": "49",
+      "Punts Blocked Percentage": "0.00",
+      "Punts Inside 10 Percentage": "0.00",
+      "Punts Inside 20": "15",
+      "Punts Inside 20 Percentage": "30.61",
+      "Punt Yards": "2,088",
+      "Touchback Percentage": "6.12",
+      "Touchbacks": "3",
+      "Two Point Pass Conversions": "1"
+     }
+    },
+    {
+     "year": 2025,
+     "stats": {
+      "Games Played": "12",
+      "Gross Average Punt Yards": "44.0",
+      "Long Punt": "71",
+      "Net Average Punt Yards": "40.7",
+      "Punts": "50",
+      "Punts Blocked Percentage": "0.00",
+      "Punts Inside 10 Percentage": "0.00",
+      "Punts Inside 20": "17",
+      "Punts Inside 20 Percentage": "34.00",
+      "Punt Yards": "2,202",
+      "Team Games Played": "12",
+      "Touchback Percentage": "12.00",
+      "Touchbacks": "6"
+     }
+    }
+   ],
+   "college_espn": "Florida",
+   "draft_espn": {
+    "year": 2026,
+    "round": 7,
+    "pick": 239
+   },
+   "draft_nflverse": {
+    "year": 2026,
+    "round": 7,
+    "pick": 239,
+    "team": "BUF",
+    "college": "Florida",
+    "pos": "P"
+   }
+  },
+  {
+   "id": "3915411",
+   "name": "Ty Johnson",
+   "depth_pos": "RB",
+   "college_seasons": [
+    {
+     "year": 2015,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "250",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Total Offensive Plays": "35",
+      "Total Touchdowns": "3",
+      "Total Yards": "250",
+      "Total Yards From Scrimmage": "280",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "44",
+      "Rushing Attempts": "35",
+      "Rushing Touchdowns": "3",
+      "Rushing Yards": "250",
+      "Yards Per Rush Attempt": "7.1",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "23",
+      "Receiving Yards": "30",
+      "Receiving Yards At Catch": "30",
+      "Receptions": "2",
+      "Yards Per Reception": "15.0",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Kick Returns": "5",
+      "Kick Return Yards": "125",
+      "Long Kick Return": "45",
+      "Long Punt Return": "33",
+      "Punt Return Fair Catches": "1",
+      "Punt Return Fair Catch Percentage": "20.00",
+      "Punt Returns": "4",
+      "Punt Return Yards": "41",
+      "Yards Per Kick Return": "25.0",
+      "Yards Per Punt Return": "10.3",
+      "Yards Per Return": "18.4",
+      "Total Points": "18",
+      "Total Points Per Game": "9.0"
+     }
+    },
+    {
+     "year": 2016,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "1,004",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Total Offensive Plays": "110",
+      "Total Touchdowns": "7",
+      "Total Yards": "1,004",
+      "Total Yards From Scrimmage": "1210",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "76",
+      "Rushing Attempts": "110",
+      "Rushing Touchdowns": "6",
+      "Rushing Yards": "1,004",
+      "Yards Per Rush Attempt": "9.1",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "66",
+      "Receiving Touchdowns": "1",
+      "Receiving Yards": "206",
+      "Receiving Yards At Catch": "206",
+      "Receptions": "16",
+      "Yards Per Reception": "12.9",
+      "Solo Tackles": "1",
+      "Total Tackles": "1",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Kick Returns": "2",
+      "Kick Return Yards": "31",
+      "Long Kick Return": "22",
+      "Long Punt Return": "8",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Punt Returns": "1",
+      "Punt Return Yards": "8",
+      "Yards Per Kick Return": "15.5",
+      "Yards Per Punt Return": "8.0",
+      "Yards Per Return": "13.0",
+      "Total Points": "42",
+      "Total Points Per Game": "8.0"
+     }
+    },
+    {
+     "year": 2017,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "875",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Total Offensive Plays": "137",
+      "Total Touchdowns": "7",
+      "Total Yards": "875",
+      "Total Yards From Scrimmage": "935",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "74",
+      "Rushing Attempts": "137",
+      "Rushing Touchdowns": "5",
+      "Rushing Yards": "875",
+      "Yards Per Rush Attempt": "6.4",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "24",
+      "Receiving Touchdowns": "1",
+      "Receiving Yards": "60",
+      "Receiving Yards At Catch": "60",
+      "Receptions": "5",
+      "Yards Per Reception": "12.0",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Kick Returns": "27",
+      "Kick Return Touchdowns": "1",
+      "Kick Return Yards": "657",
+      "Long Kick Return": "100",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Yards Per Kick Return": "24.3",
+      "Yards Per Return": "24.3",
+      "Return Touchdowns": "1",
+      "Total Points": "42",
+      "Total Points Per Game": "8.0"
+     }
+    },
+    {
+     "year": 2018,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "506",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Total Offensive Plays": "66",
+      "Total Touchdowns": "4",
+      "Total Yards": "506",
+      "Total Yards From Scrimmage": "528",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "Long Rushing": "81",
+      "Rushing Attempts": "66",
+      "Rushing Touchdowns": "3",
+      "Rushing Yards": "506",
+      "Yards Per Rush Attempt": "7.7",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "18",
+      "Receiving Yards": "22",
+      "Receiving Yards At Catch": "22",
+      "Receptions": "6",
+      "Yards Per Reception": "3.7",
+      "Assist Tackles": "3",
+      "Solo Tackles": "2",
+      "Total Tackles": "5",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Kick Returns": "14",
+      "Kick Return Touchdowns": "1",
+      "Kick Return Yards": "381",
+      "Long Kick Return": "98",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Yards Per Kick Return": "27.2",
+      "Yards Per Return": "27.2",
+      "Return Touchdowns": "1",
+      "Total Points": "24",
+      "Total Points Per Game": "6.0"
+     }
+    }
+   ],
+   "college_espn": "Maryland",
+   "draft_espn": {
+    "year": 2019,
+    "round": 6,
+    "pick": 186
+   },
+   "draft_nflverse": {
+    "year": 2019,
+    "round": 6,
+    "pick": 186,
+    "team": "DET",
+    "college": "Maryland",
+    "pos": "RB"
+   }
+  },
+  {
+   "id": "4368828",
+   "name": "Tylan Grable",
+   "depth_pos": "RT",
+   "college_seasons": [
+    {
+     "year": 2022,
+     "stats": {
+      "Games Played": "1",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "5",
+      "Net Yards Per Game": "5.0",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "14",
+      "Total Offensive Plays": "1",
+      "Total Yards": "5",
+      "Total Yards From Scrimmage": "5",
+      "Yards From Scrimmage Per Game": "5.0",
+      "Yards Per Game": "5.0",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "5.00",
+      "Long Rushing": "5",
+      "Rushing Attempts": "1",
+      "Rushing Yards": "5",
+      "Rushing Yards Per Game": "5.0",
+      "Yards Per Rush Attempt": "5.0",
+      "ESPN Widereceiver Rating": "0.00"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Games Played": "1",
+      "Solo Tackles": "1",
+      "Team Games Played": "13",
+      "Total Tackles": "1"
+     }
+    }
+   ],
+   "college_espn": "UCF",
+   "draft_espn": {
+    "year": 2024,
+    "round": 6,
+    "pick": 204
+   },
+   "draft_nflverse": {
+    "year": 2024,
+    "round": 6,
+    "pick": 204,
+    "team": "BUF",
+    "college": "Central Florida",
+    "pos": "OL"
+   }
+  },
+  {
+   "id": "3917232",
+   "name": "Tyler Bass",
+   "depth_pos": "PK",
+   "college_seasons": [
+    {
+     "year": 2016,
+     "stats": {
+      "Games Played": "1",
+      "Assist Tackles": "1",
+      "Team Games Played": "12",
+      "Total Tackles": "1",
+      "Extra Point Attempts": "7",
+      "Extra Point Percentage": "85.7",
+      "Extra Points Made": "6",
+      "Total Kicking Points": "6",
+      "Kick Extra Points": "6",
+      "Kick Extra Points Made": "6",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0"
+     }
+    },
+    {
+     "year": 2017,
+     "stats": {
+      "Games Played": "12",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "-4",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "12",
+      "Total Offensive Plays": "1",
+      "Total Yards": "-4",
+      "Total Yards From Scrimmage": "-4",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "Rushing Attempts": "1",
+      "Rushing Yards": "-4",
+      "Yards Per Rush Attempt": "-4.0",
+      "ESPN Widereceiver Rating": "0.00",
+      "Assist Tackles": "2",
+      "Total Tackles": "2",
+      "Extra Point Attempts": "28",
+      "Extra Point Percentage": "96.4",
+      "Extra Points Made": "27",
+      "Field Goal Attempts": "19",
+      "Field Goal Attempts 20-29": "3",
+      "Field Goal Attempts 30-39": "5",
+      "Field Goal Attempts 40-49": "11",
+      "Field Goal Attempt Yards": "38",
+      "Field Goal Percentage": "78.9",
+      "Field Goal Made": "15",
+      "Field Goals Made 20-29": "3",
+      "Field Goals Made 30-39": "3",
+      "Field Goals Made 40-49": "9",
+      "Field Goals Made Yards": "38",
+      "Field Goals Missed Yards": "40",
+      "Long Field Goal Made": "48",
+      "Total Kicking Points": "72",
+      "Gross Average Punt Yards": "49.5",
+      "Long Punt": "61",
+      "Net Average Punt Yards": "49.5",
+      "Punts": "2",
+      "Punts Blocked Percentage": "0.00",
+      "Punts Inside 10 Percentage": "0.00",
+      "Punts Inside 20 Percentage": "0.00",
+      "Punt Yards": "99",
+      "Touchback Percentage": "0.00",
+      "Field Goals": "15",
+      "Kick Extra Points": "27",
+      "Kick Extra Points Made": "27",
+      "Total Points": "72",
+      "Total Points Per Game": "6.0"
+     }
+    },
+    {
+     "year": 2018,
+     "stats": {
+      "Games Played": "13",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Two Point Pass": "1",
+      "Two Point Pass Attempts": "2",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "0.00",
+      "Two Point Reception Attempts": "1",
+      "Solo Tackles": "6",
+      "Total Tackles": "6",
+      "Extra Point Attempts": "45",
+      "Extra Point Percentage": "100.0",
+      "Extra Points Made": "45",
+      "Field Goal Attempts": "21",
+      "Field Goal Attempts 1-19": "1",
+      "Field Goal Attempts 20-29": "5",
+      "Field Goal Attempts 30-39": "4",
+      "Field Goal Attempts 40-49": "8",
+      "Field Goal Attempts 50-59": "3",
+      "Field Goal Attempts 50+": "3",
+      "Field Goal Attempt Yards": "37",
+      "Field Goal Percentage": "90.5",
+      "Field Goal Made": "19",
+      "Field Goals Made 1-19": "1",
+      "Field Goals Made 20-29": "4",
+      "Field Goals Made 30-39": "4",
+      "Field Goals Made 40-49": "8",
+      "Field Goals Made 50-59": "2",
+      "Field Goals Made 50+": "2",
+      "Field Goals Made Yards": "36",
+      "Field Goals Missed Yards": "41",
+      "Long Field Goal Made": "50",
+      "Total Kicking Points": "102",
+      "Gross Average Punt Yards": "47.0",
+      "Long Punt": "58",
+      "Net Average Punt Yards": "30.3",
+      "Punts": "3",
+      "Punts Blocked Percentage": "0.00",
+      "Punts Inside 10 Percentage": "0.00",
+      "Punts Inside 20 Percentage": "0.00",
+      "Punt Yards": "141",
+      "Touchback Percentage": "0.00",
+      "Field Goals": "19",
+      "Kick Extra Points": "45",
+      "Kick Extra Points Made": "45",
+      "Total Points": "102",
+      "Total Points Per Game": "7.0",
+      "Two Point Pass Conversions": "2"
+     }
+    },
+    {
+     "year": 2019,
+     "stats": {
+      "Games Played": "13",
+      "Completion Percentage": "100.0",
+      "Completions": "1",
+      "ESPN Quarterback Rating": "7.0",
+      "Interception Percentage": "0.00",
+      "Longest Pass": "7",
+      "Net Passing Yards": "7",
+      "Net Passing Yards Per Game": "0.5",
+      "Net Total Yards": "7",
+      "Net Yards Per Game": "0.5",
+      "Passing Attempts": "1",
+      "Passing Touchdown %": "0.00",
+      "Passing Yards": "7",
+      "Passing Yards At Catch": "7",
+      "Passing Yards Per Game": "0.5",
+      "Passer Rating": "158.8",
+      "Team Games Played": "13",
+      "Total Offensive Plays": "1",
+      "Total Yards": "7",
+      "Yards Per Completion": "7.0",
+      "Yards Per Game": "0.5",
+      "Yards Per Pass Attempt": "7.0",
+      "Net Yards Per Pass Attempt": "7.0",
+      "Quarterback Rating": "95.8",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "0.00",
+      "Assist Tackles": "2",
+      "Total Tackles": "2",
+      "Extra Point Attempts": "36",
+      "Extra Point Percentage": "100.0",
+      "Extra Points Made": "36",
+      "Field Goal Attempts": "28",
+      "Field Goal Attempts 20-29": "6",
+      "Field Goal Attempts 30-39": "8",
+      "Field Goal Attempts 40-49": "13",
+      "Field Goal Attempts 50-59": "1",
+      "Field Goal Attempts 50+": "1",
+      "Field Goal Attempt Yards": "38",
+      "Field Goal Percentage": "71.4",
+      "Field Goal Made": "20",
+      "Field Goals Made 20-29": "6",
+      "Field Goals Made 30-39": "6",
+      "Field Goals Made 40-49": "8",
+      "Field Goals Made Yards": "36",
+      "Field Goals Missed Yards": "43",
+      "Long Field Goal Made": "49",
+      "Total Kicking Points": "96",
+      "Field Goals": "20",
+      "Kick Extra Points": "36",
+      "Kick Extra Points Made": "36",
+      "Total Points": "96",
+      "Total Points Per Game": "7.0"
+     }
+    }
+   ],
+   "college_espn": "Georgia Southern",
+   "draft_espn": {
+    "year": 2020,
+    "round": 6,
+    "pick": 188
+   },
+   "draft_nflverse": {
+    "year": 2020,
+    "round": 6,
+    "pick": 188,
+    "team": "BUF",
+    "college": "Georgia Southern",
+    "pos": "K"
+   }
+  },
+  {
+   "id": "4241476",
+   "name": "Tyrell Shavers",
+   "depth_pos": "WR1",
+   "college_seasons": [
+    {
+     "year": 2018,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "15",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "0.00"
+     }
+    },
+    {
+     "year": 2019,
+     "stats": {
+      "Games Played": "5",
+      "Interception Percentage": "0.00",
+      "Net Total Yards": "14",
+      "Net Yards Per Game": "2.8",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Total Offensive Plays": "1",
+      "Total Yards": "14",
+      "Total Yards From Scrimmage": "34",
+      "Yards From Scrimmage Per Game": "6.8",
+      "Yards Per Game": "2.8",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "14.00",
+      "Long Rushing": "14",
+      "Rushing Attempts": "1",
+      "Rushing Yards": "14",
+      "Rushing Yards Per Game": "2.8",
+      "Yards Per Rush Attempt": "14.0",
+      "ESPN Widereceiver Rating": "25.00",
+      "Long Reception": "20",
+      "Receiving Yards": "20",
+      "Receiving Yards At Catch": "20",
+      "Receiving Yards Per Game": "4.0",
+      "Receptions": "1",
+      "Yards Per Reception": "20.0",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Long Punt Return": "2",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Punt Returns": "1",
+      "Punt Return Touchdowns": "1",
+      "Punt Return Yards": "2",
+      "Yards Per Punt Return": "2.0",
+      "Yards Per Return": "2.0",
+      "Return Touchdowns": "1",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0",
+      "Total Touchdowns": "1"
+     }
+    },
+    {
+     "year": 2020,
+     "stats": {
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "11",
+      "Total Touchdowns": "1",
+      "Total Yards From Scrimmage": "107",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "0.00",
+      "Long Reception": "37",
+      "Receiving Touchdowns": "1",
+      "Receiving Yards": "107",
+      "Receiving Yards At Catch": "107",
+      "Receptions": "9",
+      "Yards Per Reception": "11.9",
+      "Solo Tackles": "1",
+      "Total Tackles": "1"
+     }
+    },
+    {
+     "year": 2021,
+     "stats": {
+      "Games Played": "12",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "14",
+      "Total Touchdowns": "1",
+      "Total Yards From Scrimmage": "213",
+      "Yards From Scrimmage Per Game": "17.8",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "373.00",
+      "Long Reception": "24",
+      "Receiving Touchdowns": "1",
+      "Receiving Yards": "213",
+      "Receiving Yards At Catch": "213",
+      "Receiving Yards Per Game": "17.8",
+      "Receptions": "18",
+      "Yards Per Reception": "11.8",
+      "Assist Tackles": "1",
+      "Total Tackles": "1",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Long Punt Return": "27",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Punt Returns": "2",
+      "Punt Return Touchdowns": "1",
+      "Punt Return Yards": "40",
+      "Yards Per Punt Return": "20.0",
+      "Yards Per Return": "20.0",
+      "Total Points": "6",
+      "Total Points Per Game": "6.0"
+     }
+    },
+    {
+     "year": 2022,
+     "stats": {
+      "Games Played": "13",
+      "Interception Percentage": "0.00",
+      "Passing Touchdown %": "0.00",
+      "Team Games Played": "13",
+      "Total Touchdowns": "4",
+      "Total Yards From Scrimmage": "643",
+      "Yards From Scrimmage Per Game": "49.5",
+      "Quarterback Rating": "39.6",
+      "ESPN RB Rating": "0.00",
+      "ESPN Widereceiver Rating": "938.00",
+      "Long Reception": "66",
+      "Receiving Touchdowns": "3",
+      "Receiving Yards": "643",
+      "Receiving Yards At Catch": "643",
+      "Receiving Yards Per Game": "49.5",
+      "Receptions": "38",
+      "Yards Per Reception": "16.9",
+      "Solo Tackles": "2",
+      "Total Tackles": "2",
+      "Kick Return Fair Catch Percentage": "0.00",
+      "Long Punt Return": "36",
+      "Punt Return Fair Catch Percentage": "0.00",
+      "Punt Returns": "2",
+      "Punt Return Touchdowns": "1",
+      "Punt Return Yards": "50",
+      "Yards Per Punt Return": "25.0",
+      "Yards Per Return": "25.0",
+      "Return Touchdowns": "1",
+      "Total Points": "24",
+      "Total Points Per Game": "6.0"
+     }
+    }
+   ],
+   "college_espn": "San Diego State",
+   "draft_nflverse": null
+  },
+  {
+   "id": "4685347",
+   "name": "Zane Durant",
+   "depth_pos": "RDE",
+   "college_seasons": [
+    {
+     "year": 2022,
+     "stats": {
+      "Games Played": "3",
+      "Assist Tackles": "4",
+      "Average Sack Yards": "8.0",
+      "Sacks": "1",
+      "Sack Yards": "8",
+      "Solo Tackles": "1",
+      "Team Games Played": "13",
+      "Total Tackles": "5"
+     }
+    },
+    {
+     "year": 2023,
+     "stats": {
+      "Fumbles Recovered": "1",
+      "Games Played": "9",
+      "Assist Tackles": "5",
+      "Average Sack Yards": "8.5",
+      "Sacks": "2",
+      "Sack Yards": "17",
+      "Solo Tackles": "12",
+      "Team Games Played": "13",
+      "Total Tackles": "17"
+     }
+    },
+    {
+     "year": 2024,
+     "stats": {
+      "Games Played": "15",
+      "Assist Tackles": "20",
+      "Average Sack Yards": "9.0",
+      "Passes Defended": "1",
+      "Sacks": "3",
+      "Sack Yards": "27",
+      "Solo Tackles": "22",
+      "Team Games Played": "16",
+      "Total Tackles": "42"
+     }
+    },
+    {
+     "year": 2025,
+     "stats": {
+      "Games Played": "10",
+      "Assist Tackles": "11",
+      "Average Interception Yards": "14.0",
+      "Average Sack Yards": "4.8",
+      "Long Interception": "14",
+      "Passes Defended": "2",
+      "Sacks": "4",
+      "Sack Yards": "19",
+      "Solo Tackles": "14",
+      "Team Games Played": "13",
+      "Total Tackles": "25",
+      "Interceptions": "1",
+      "Interception Yards": "14"
+     }
+    }
+   ],
+   "college_espn": "Penn State",
+   "draft_espn": {
+    "year": 2026,
+    "round": 5,
+    "pick": 181
+   },
+   "draft_nflverse": {
+    "year": 2026,
+    "round": 5,
+    "pick": 181,
+    "team": "BUF",
+    "college": "Penn St.",
+    "pos": "DT"
+   }
+  }
+ ],
+ "coverage": {
+  "depth_players": 57,
+  "with_college_name": 57,
+  "with_college_season_stats": 48,
+  "draft_espn_nflverse_exact_match": 44
+ }
+}
