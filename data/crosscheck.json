@@ -1,0 +1,117 @@
+{
+ "draft_first_round": {
+  "nflverse_count": 44,
+  "wikipedia_first_round_entries": 44,
+  "exact_player_pick_matches": 36,
+  "disagreements": [
+   [
+    {
+     "year": 1986,
+     "round": 1,
+     "pick": 15,
+     "player": "John Williams",
+     "pos": "FB",
+     "college": "Florida"
+    },
+    "John L. Williams"
+   ],
+   [
+    {
+     "year": 2019,
+     "round": 1,
+     "pick": 29,
+     "player": "L.J. Collier",
+     "pos": "DE",
+     "college": "TCU"
+    },
+    "L. J. Collier"
+   ],
+   [
+    {
+     "year": 2024,
+     "round": 1,
+     "pick": 16,
+     "player": "Byron Murphy",
+     "pos": "DL",
+     "college": "Texas"
+    },
+    "Byron Murphy II"
+   ]
+  ],
+  "missing_in_wiki": [
+   [
+    {
+     "year": 1997,
+     "round": 1,
+     "pick": 6,
+     "player": "Walter Jones",
+     "pos": "T",
+     "college": "Florida St."
+    },
+    null
+   ],
+   [
+    {
+     "year": 2000,
+     "round": 1,
+     "pick": 22,
+     "player": "Chris McIntosh",
+     "pos": "T",
+     "college": "Wisconsin"
+    },
+    null
+   ],
+   [
+    {
+     "year": 2001,
+     "round": 1,
+     "pick": 17,
+     "player": "Steve Hutchinson",
+     "pos": "G",
+     "college": "Michigan"
+    },
+    null
+   ],
+   [
+    {
+     "year": 2010,
+     "round": 1,
+     "pick": 14,
+     "player": "Earl Thomas",
+     "pos": "DB",
+     "college": "Texas"
+    },
+    null
+   ],
+   [
+    {
+     "year": 2023,
+     "round": 1,
+     "pick": 20,
+     "player": "Jaxon Smith-Njigba",
+     "pos": "WR",
+     "college": "Ohio St."
+    },
+    null
+   ]
+  ],
+  "note": "Exact name+pick match between nflverse draft_picks (PFR-sourced) and Wikipedia List of Seattle Seahawks first-round draft picks. Position/college naming can differ in abbreviation, not counted as disagreement if player+pick match.",
+  "interpretation": "36 exact + 3 formatting-variant matches (John L. Williams, L. J. Collier spacing, Byron Murphy II suffix) = 39/44 first-rounders matched on player+pick. Remaining 5 (Walter Jones 1997, Chris McIntosh 2000, Steve Hutchinson 2001, Earl Thomas 2010, Jaxon Smith-Njigba 2023) were not parsed from the Wikipedia table due to multi-pick-year row structure in the parser, NOT because sources disagreed; those 5 are therefore treated as single-source pending manual parse, not as disagreements. No true player/pick disagreements found."
+ },
+ "depth_roster": {
+  "method": "All 69 depth-chart last names found on official seahawks.com roster page text at fetch time (69/69). This cross-checks player is on official roster, NOT depth order or injury status.",
+  "result": "69/69"
+ },
+ "records_key_spot_checks": {
+  "method": "Key records in Wikipedia List of Seattle Seahawks team records compared to search-indexed reputable reporting: Russell Wilson 452 passing yards game (Field Gulls/ESPN reporting), Shaun Alexander 266 rushing game, Steve Largent 261 receiving game - all matched the records list values.",
+  "result": "matched for spot-checked key records; full records list remains Wikipedia/PFR-cited as source 1, with most individual records NOT independently re-fetched from PFR (blocked by Cloudflare 403 on this box) - therefore labeled single-source pending in app except spot-checked items"
+ },
+ "games_h2h_playoffs": {
+  "method": "Computed from nflverse games file. Cross-check: 2025 season W-L 14-3 and Super Bowl LX result in Wikipedia season table matches computed regular-season record from games file (14-3). ESPN schedule endpoint was probed but its season parameter response was ambiguous, so it was NOT used as a confirming W-L count - labeled single-source (computed) pending a clean second count.",
+  "result": "2025: Wikipedia 14-3 == computed 14-3"
+ },
+ "injuries": {
+  "method": "ESPN league injuries + ESPN roster injuries (same publisher, counts as ONE source). No independent second injury source successfully parsed (NFL.com injuries page returned 404). Therefore injuries are labeled SINGLE-SOURCE (ESPN) in app.",
+  "result": "single-source"
+ }
+}
