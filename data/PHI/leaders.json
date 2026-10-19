@@ -1,0 +1,1489 @@
+{
+ "source": "Computed from nflverse stats_player regular-season files (1999\u20132025), github.com/nflverse/nflverse-data releases/stats_player \u2014 SINGLE-SOURCE computed. Coverage: regular season 1999\u20132025 only; NOT all-time (pre-1999 excluded), NOT playoffs. Franchise mapping for relocated teams applied by season/code.",
+ "season_leaders": {
+  "Passing yards": [
+   {
+    "player": "Carson Wentz",
+    "year": 2019,
+    "value": 4039.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Donovan McNabb",
+    "year": 2008,
+    "value": 3914.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Donovan McNabb",
+    "year": 2004,
+    "value": 3875.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jalen Hurts",
+    "year": 2023,
+    "value": 3858.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Carson Wentz",
+    "year": 2016,
+    "value": 3782.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Sam Bradford",
+    "year": 2015,
+    "value": 3725.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jalen Hurts",
+    "year": 2022,
+    "value": 3701.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Donovan McNabb",
+    "year": 2009,
+    "value": 3553.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Donovan McNabb",
+    "year": 2000,
+    "value": 3365.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Donovan McNabb",
+    "year": 2007,
+    "value": 3324.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Carson Wentz",
+    "year": 2017,
+    "value": 33.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Donovan McNabb",
+    "year": 2004,
+    "value": 31.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Nick Foles",
+    "year": 2013,
+    "value": 27.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Carson Wentz",
+    "year": 2019,
+    "value": 27.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jalen Hurts",
+    "year": 2025,
+    "value": 25.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Donovan McNabb",
+    "year": 2001,
+    "value": 25.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Donovan McNabb",
+    "year": 2008,
+    "value": 23.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jalen Hurts",
+    "year": 2023,
+    "value": 23.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jalen Hurts",
+    "year": 2022,
+    "value": 22.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Donovan McNabb",
+    "year": 2009,
+    "value": 22.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "Saquon Barkley",
+    "year": 2024,
+    "value": 2005.0,
+    "pos": "RB"
+   },
+   {
+    "player": "LeSean McCoy",
+    "year": 2013,
+    "value": 1607.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Brian Westbrook",
+    "year": 2007,
+    "value": 1333.0,
+    "pos": "RB"
+   },
+   {
+    "player": "LeSean McCoy",
+    "year": 2014,
+    "value": 1319.0,
+    "pos": "RB"
+   },
+   {
+    "player": "LeSean McCoy",
+    "year": 2011,
+    "value": 1309.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Duce Staley",
+    "year": 1999,
+    "value": 1273.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Miles Sanders",
+    "year": 2022,
+    "value": 1269.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Brian Westbrook",
+    "year": 2006,
+    "value": 1217.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Saquon Barkley",
+    "year": 2025,
+    "value": 1140.0,
+    "pos": "RB"
+   },
+   {
+    "player": "LeSean McCoy",
+    "year": 2010,
+    "value": 1080.0,
+    "pos": "RB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "LeSean McCoy",
+    "year": 2011,
+    "value": 17.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jalen Hurts",
+    "year": 2023,
+    "value": 15.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jalen Hurts",
+    "year": 2024,
+    "value": 14.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Saquon Barkley",
+    "year": 2024,
+    "value": 13.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jalen Hurts",
+    "year": 2022,
+    "value": 13.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Miles Sanders",
+    "year": 2022,
+    "value": 11.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jalen Hurts",
+    "year": 2021,
+    "value": 10.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Brian Westbrook",
+    "year": 2008,
+    "value": 9.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Mike Vick",
+    "year": 2010,
+    "value": 9.0,
+    "pos": "QB"
+   },
+   {
+    "player": "LeSean McCoy",
+    "year": 2013,
+    "value": 9.0,
+    "pos": "RB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Zach Ertz",
+    "year": 2018,
+    "value": 116.0,
+    "pos": "TE"
+   },
+   {
+    "player": "A.J. Brown",
+    "year": 2023,
+    "value": 106.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeVonta Smith",
+    "year": 2022,
+    "value": 95.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Brian Westbrook",
+    "year": 2007,
+    "value": 90.0,
+    "pos": "RB"
+   },
+   {
+    "player": "A.J. Brown",
+    "year": 2022,
+    "value": 88.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Zach Ertz",
+    "year": 2019,
+    "value": 88.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Jordan Matthews",
+    "year": 2015,
+    "value": 85.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Jeremy Maclin",
+    "year": 2014,
+    "value": 85.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeSean Jackson",
+    "year": 2013,
+    "value": 82.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeVonta Smith",
+    "year": 2023,
+    "value": 81.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "A.J. Brown",
+    "year": 2022,
+    "value": 1496.0,
+    "pos": "WR"
+   },
+   {
+    "player": "A.J. Brown",
+    "year": 2023,
+    "value": 1456.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeSean Jackson",
+    "year": 2013,
+    "value": 1332.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jeremy Maclin",
+    "year": 2014,
+    "value": 1318.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Terrell Owens",
+    "year": 2004,
+    "value": 1200.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeVonta Smith",
+    "year": 2022,
+    "value": 1196.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeSean Jackson",
+    "year": 2009,
+    "value": 1167.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Zach Ertz",
+    "year": 2018,
+    "value": 1163.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Kevin Curtis",
+    "year": 2007,
+    "value": 1110.0,
+    "pos": "WR"
+   },
+   {
+    "player": "A.J. Brown",
+    "year": 2024,
+    "value": 1079.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Terrell Owens",
+    "year": 2004,
+    "value": 14.0,
+    "pos": "WR"
+   },
+   {
+    "player": "A.J. Brown",
+    "year": 2022,
+    "value": 11.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dallas Goedert",
+    "year": 2025,
+    "value": 11.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Jeremy Maclin",
+    "year": 2010,
+    "value": 10.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jeremy Maclin",
+    "year": 2014,
+    "value": 10.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeSean Jackson",
+    "year": 2009,
+    "value": 9.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeSean Jackson",
+    "year": 2013,
+    "value": 9.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Alshon Jeffery",
+    "year": 2017,
+    "value": 9.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Brent Celek",
+    "year": 2009,
+    "value": 8.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Jordan Matthews",
+    "year": 2014,
+    "value": 8.0,
+    "pos": "TE"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "Jason Babin",
+    "year": 2011,
+    "value": 18.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Haason Reddick",
+    "year": 2022,
+    "value": 16.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Hugh Douglas",
+    "year": 2000,
+    "value": 15.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Connor Barwin",
+    "year": 2014,
+    "value": 14.5,
+    "pos": "ILB"
+   },
+   {
+    "player": "Trent Cole",
+    "year": 2009,
+    "value": 12.5,
+    "pos": "OLB"
+   },
+   {
+    "player": "Hugh Douglas",
+    "year": 2002,
+    "value": 12.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Trent Cole",
+    "year": 2007,
+    "value": 12.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Haason Reddick",
+    "year": 2023,
+    "value": 11.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Javon Hargrave",
+    "year": 2022,
+    "value": 11.0,
+    "pos": "NT"
+   },
+   {
+    "player": "Trent Cole",
+    "year": 2011,
+    "value": 11.0,
+    "pos": "OLB"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Asante Samuel",
+    "year": 2009,
+    "value": 9.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Troy Vincent",
+    "year": 1999,
+    "value": 7.0,
+    "pos": "S"
+   },
+   {
+    "player": "Asante Samuel",
+    "year": 2010,
+    "value": 7.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Brandon Boykin",
+    "year": 2013,
+    "value": 6.0,
+    "pos": "DB"
+   },
+   {
+    "player": "C.J. Gardner-Johnson",
+    "year": 2024,
+    "value": 6.0,
+    "pos": "SAF"
+   },
+   {
+    "player": "Lito Sheppard",
+    "year": 2006,
+    "value": 6.0,
+    "pos": "CB"
+   },
+   {
+    "player": "C.J. Gardner-Johnson",
+    "year": 2022,
+    "value": 6.0,
+    "pos": "SAF"
+   },
+   {
+    "player": "Bobby Taylor",
+    "year": 2002,
+    "value": 5.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Jordan Hicks",
+    "year": 2016,
+    "value": 5.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Sheldon Brown",
+    "year": 2009,
+    "value": 5.0,
+    "pos": "CB"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "Jeremiah Trotter",
+    "year": 2005,
+    "value": 96.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "DeMeco Ryans",
+    "year": 2013,
+    "value": 96.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Michael Lewis",
+    "year": 2005,
+    "value": 89.0,
+    "pos": "S"
+   },
+   {
+    "player": "Jeremiah Trotter",
+    "year": 2000,
+    "value": 89.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Jeremiah Trotter",
+    "year": 2001,
+    "value": 88.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Malcolm Jenkins",
+    "year": 2015,
+    "value": 84.0,
+    "pos": "S"
+   },
+   {
+    "player": "T.J. Edwards",
+    "year": 2022,
+    "value": 83.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Zack Baun",
+    "year": 2024,
+    "value": 82.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Jeremiah Trotter",
+    "year": 1999,
+    "value": 81.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "DeMeco Ryans",
+    "year": 2012,
+    "value": 79.0,
+    "pos": "ILB"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "Caleb Sturgis",
+    "year": 2016,
+    "value": 35.0,
+    "pos": "K"
+   },
+   {
+    "player": "David Akers",
+    "year": 2008,
+    "value": 33.0,
+    "pos": "K"
+   },
+   {
+    "player": "David Akers",
+    "year": 2010,
+    "value": 32.0,
+    "pos": "K"
+   },
+   {
+    "player": "David Akers",
+    "year": 2009,
+    "value": 32.0,
+    "pos": "K"
+   },
+   {
+    "player": "Cody Parkey",
+    "year": 2014,
+    "value": 32.0,
+    "pos": "K"
+   },
+   {
+    "player": "David Akers",
+    "year": 2002,
+    "value": 30.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jake Elliott",
+    "year": 2021,
+    "value": 30.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jake Elliott",
+    "year": 2023,
+    "value": 30.0,
+    "pos": "K"
+   },
+   {
+    "player": "David Akers",
+    "year": 2000,
+    "value": 29.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jake Elliott",
+    "year": 2024,
+    "value": 28.0,
+    "pos": "K"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Cody Parkey",
+    "year": 2014,
+    "value": 54.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jake Elliott",
+    "year": 2022,
+    "value": 51.0,
+    "pos": "K"
+   },
+   {
+    "player": "David Akers",
+    "year": 2006,
+    "value": 48.0,
+    "pos": "K"
+   },
+   {
+    "player": "David Akers",
+    "year": 2010,
+    "value": 47.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jake Elliott",
+    "year": 2024,
+    "value": 47.0,
+    "pos": "K"
+   },
+   {
+    "player": "Alex Henery",
+    "year": 2011,
+    "value": 46.0,
+    "pos": "K"
+   },
+   {
+    "player": "David Akers",
+    "year": 2008,
+    "value": 45.0,
+    "pos": "K"
+   },
+   {
+    "player": "Alex Henery",
+    "year": 2013,
+    "value": 45.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jake Elliott",
+    "year": 2023,
+    "value": 45.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jake Elliott",
+    "year": 2021,
+    "value": 44.0,
+    "pos": "K"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "T.J. Edwards",
+    "year": 2022,
+    "value": 143.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Zack Baun",
+    "year": 2024,
+    "value": 140.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Alex Singleton",
+    "year": 2021,
+    "value": 129.0,
+    "pos": "LB"
+   },
+   {
+    "player": "T.J. Edwards",
+    "year": 2021,
+    "value": 125.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Zack Baun",
+    "year": 2025,
+    "value": 122.0,
+    "pos": "LB"
+   },
+   {
+    "player": "DeMeco Ryans",
+    "year": 2013,
+    "value": 121.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Nakobe Dean",
+    "year": 2024,
+    "value": 120.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Jeremiah Trotter",
+    "year": 2005,
+    "value": 115.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Alex Singleton",
+    "year": 2020,
+    "value": 114.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Jeremiah Trotter",
+    "year": 1999,
+    "value": 112.0,
+    "pos": "MLB"
+   }
+  ]
+ },
+ "career_leaders_1999_2025": {
+  "Passing yards": [
+   {
+    "player": "Donovan McNabb",
+    "value": 32843.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jalen Hurts",
+    "value": 17891.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Carson Wentz",
+    "value": 16811.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Mike Vick",
+    "value": 9984.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Nick Foles",
+    "value": 8703.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Sam Bradford",
+    "value": 3725.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Mark Sanchez",
+    "value": 3034.0,
+    "pos": "QB"
+   },
+   {
+    "player": "A.J. Feeley",
+    "value": 2177.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kevin Kolb",
+    "value": 2082.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jeff Garcia",
+    "value": 1309.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Donovan McNabb",
+    "value": 215.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Carson Wentz",
+    "value": 113.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jalen Hurts",
+    "value": 110.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Nick Foles",
+    "value": 58.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Mike Vick",
+    "value": 57.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Sam Bradford",
+    "value": 19.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Mark Sanchez",
+    "value": 18.0,
+    "pos": "QB"
+   },
+   {
+    "player": "A.J. Feeley",
+    "value": 16.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kevin Kolb",
+    "value": 11.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jeff Garcia",
+    "value": 10.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "LeSean McCoy",
+    "value": 6792.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Brian Westbrook",
+    "value": 5980.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Miles Sanders",
+    "value": 3708.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Duce Staley",
+    "value": 3707.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jalen Hurts",
+    "value": 3554.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Donovan McNabb",
+    "value": 3269.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Saquon Barkley",
+    "value": 3145.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Correll Buckhalter",
+    "value": 2155.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Mike Vick",
+    "value": 1998.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Darren Sproles",
+    "value": 1331.0,
+    "pos": "RB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "Jalen Hurts",
+    "value": 63.0,
+    "pos": "QB"
+   },
+   {
+    "player": "LeSean McCoy",
+    "value": 44.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Brian Westbrook",
+    "value": 37.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Donovan McNabb",
+    "value": 28.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Miles Sanders",
+    "value": 20.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Saquon Barkley",
+    "value": 20.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Correll Buckhalter",
+    "value": 18.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Duce Staley",
+    "value": 17.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Boston Scott",
+    "value": 16.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Mike Vick",
+    "value": 15.0,
+    "pos": "QB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Zach Ertz",
+    "value": 561.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Brian Westbrook",
+    "value": 427.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Dallas Goedert",
+    "value": 409.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Brent Celek",
+    "value": 398.0,
+    "pos": "TE"
+   },
+   {
+    "player": "DeVonta Smith",
+    "value": 385.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeSean Jackson",
+    "value": 380.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jeremy Maclin",
+    "value": 342.0,
+    "pos": "WR"
+   },
+   {
+    "player": "A.J. Brown",
+    "value": 339.0,
+    "pos": "WR"
+   },
+   {
+    "player": "LeSean McCoy",
+    "value": 300.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jason Avant",
+    "value": 297.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "DeSean Jackson",
+    "value": 6523.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Zach Ertz",
+    "value": 6078.0,
+    "pos": "TE"
+   },
+   {
+    "player": "A.J. Brown",
+    "value": 5034.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeVonta Smith",
+    "value": 5019.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Brent Celek",
+    "value": 4998.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Jeremy Maclin",
+    "value": 4760.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dallas Goedert",
+    "value": 4676.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Brian Westbrook",
+    "value": 3798.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jason Avant",
+    "value": 3646.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jordan Matthews",
+    "value": 3006.0,
+    "pos": "TE"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Zach Ertz",
+    "value": 36.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Jeremy Maclin",
+    "value": 36.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeSean Jackson",
+    "value": 35.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dallas Goedert",
+    "value": 35.0,
+    "pos": "TE"
+   },
+   {
+    "player": "A.J. Brown",
+    "value": 32.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeVonta Smith",
+    "value": 31.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Brent Celek",
+    "value": 31.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Brian Westbrook",
+    "value": 29.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jordan Matthews",
+    "value": 21.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Terrell Owens",
+    "value": 20.0,
+    "pos": "WR"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "Trent Cole",
+    "value": 85.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Brandon Graham",
+    "value": 79.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Fletcher Cox",
+    "value": 70.0,
+    "pos": "DT"
+   },
+   {
+    "player": "Josh Sweat",
+    "value": 43.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Hugh Douglas",
+    "value": 42.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Juqua Parker",
+    "value": 31.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Connor Barwin",
+    "value": 31.5,
+    "pos": "ILB"
+   },
+   {
+    "player": "Corey Simon",
+    "value": 31.0,
+    "pos": "DT"
+   },
+   {
+    "player": "Vinny Curry",
+    "value": 30.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Haason Reddick",
+    "value": 27.0,
+    "pos": "OLB"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Brian Dawkins",
+    "value": 26.0,
+    "pos": "S"
+   },
+   {
+    "player": "Asante Samuel",
+    "value": 23.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Troy Vincent",
+    "value": 20.0,
+    "pos": "S"
+   },
+   {
+    "player": "Sheldon Brown",
+    "value": 19.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Lito Sheppard",
+    "value": 18.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Bobby Taylor",
+    "value": 14.0,
+    "pos": "CB"
+   },
+   {
+    "player": "C.J. Gardner-Johnson",
+    "value": 12.0,
+    "pos": "SAF"
+   },
+   {
+    "player": "Rodney McLeod Jr.",
+    "value": 11.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Malcolm Jenkins",
+    "value": 11.0,
+    "pos": "S"
+   },
+   {
+    "player": "Nate Allen",
+    "value": 10.0,
+    "pos": "S"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "Brian Dawkins",
+    "value": 517.0,
+    "pos": "S"
+   },
+   {
+    "player": "Jeremiah Trotter",
+    "value": 502.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Trent Cole",
+    "value": 402.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Malcolm Jenkins",
+    "value": 387.0,
+    "pos": "S"
+   },
+   {
+    "player": "Brandon Graham",
+    "value": 331.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Sheldon Brown",
+    "value": 327.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Mychal Kendricks",
+    "value": 318.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Fletcher Cox",
+    "value": 318.0,
+    "pos": "DT"
+   },
+   {
+    "player": "Quintin Mikell",
+    "value": 318.0,
+    "pos": "S"
+   },
+   {
+    "player": "Michael Lewis",
+    "value": 308.0,
+    "pos": "S"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "David Akers",
+    "value": 294.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jake Elliott",
+    "value": 216.0,
+    "pos": "K"
+   },
+   {
+    "player": "Alex Henery",
+    "value": 74.0,
+    "pos": "K"
+   },
+   {
+    "player": "Caleb Sturgis",
+    "value": 56.0,
+    "pos": "K"
+   },
+   {
+    "player": "Cody Parkey",
+    "value": 35.0,
+    "pos": "K"
+   },
+   {
+    "player": "Norm Johnson",
+    "value": 18.0,
+    "pos": "K"
+   },
+   {
+    "player": "Mat McBriar",
+    "value": 0.0,
+    "pos": "P"
+   },
+   {
+    "player": "Matt Barkley",
+    "value": 0.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Nolan Carroll",
+    "value": 0.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Matt McCoy",
+    "value": 0.0,
+    "pos": "LB"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "David Akers",
+    "value": 445.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jake Elliott",
+    "value": 359.0,
+    "pos": "K"
+   },
+   {
+    "player": "Alex Henery",
+    "value": 116.0,
+    "pos": "K"
+   },
+   {
+    "player": "Caleb Sturgis",
+    "value": 66.0,
+    "pos": "K"
+   },
+   {
+    "player": "Cody Parkey",
+    "value": 61.0,
+    "pos": "K"
+   },
+   {
+    "player": "Norm Johnson",
+    "value": 21.0,
+    "pos": "K"
+   },
+   {
+    "player": "Mark Simoneau",
+    "value": 1.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Matt Barkley",
+    "value": 0.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Nolan Carroll",
+    "value": 0.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Matt McCoy",
+    "value": 0.0,
+    "pos": "LB"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "Brian Dawkins",
+    "value": 662.0,
+    "pos": "S"
+   },
+   {
+    "player": "Jeremiah Trotter",
+    "value": 633.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Trent Cole",
+    "value": 534.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Malcolm Jenkins",
+    "value": 496.0,
+    "pos": "S"
+   },
+   {
+    "player": "Fletcher Cox",
+    "value": 486.0,
+    "pos": "DT"
+   },
+   {
+    "player": "Brandon Graham",
+    "value": 463.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Mychal Kendricks",
+    "value": 434.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Quintin Mikell",
+    "value": 416.0,
+    "pos": "S"
+   },
+   {
+    "player": "Sheldon Brown",
+    "value": 409.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Michael Lewis",
+    "value": 377.0,
+    "pos": "S"
+   }
+  ]
+ }
+}

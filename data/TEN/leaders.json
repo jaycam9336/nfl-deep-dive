@@ -1,0 +1,1489 @@
+{
+ "source": "Computed from nflverse stats_player regular-season files (1999\u20132025), github.com/nflverse/nflverse-data releases/stats_player \u2014 SINGLE-SOURCE computed. Coverage: regular season 1999\u20132025 only; NOT all-time (pre-1999 excluded), NOT playoffs. Franchise mapping for relocated teams applied by season/code.",
+ "season_leaders": {
+  "Passing yards": [
+   {
+    "player": "Ryan Tannehill",
+    "year": 2020,
+    "value": 3819.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Tannehill",
+    "year": 2021,
+    "value": 3734.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Matt Hasselbeck",
+    "year": 2011,
+    "value": 3571.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Marcus Mariota",
+    "year": 2016,
+    "value": 3426.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Steve McNair",
+    "year": 2002,
+    "value": 3387.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Steve McNair",
+    "year": 2001,
+    "value": 3350.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Steve McNair",
+    "year": 2003,
+    "value": 3246.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Marcus Mariota",
+    "year": 2017,
+    "value": 3232.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Cam Ward",
+    "year": 2025,
+    "value": 3169.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Steve McNair",
+    "year": 2005,
+    "value": 3161.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Ryan Tannehill",
+    "year": 2020,
+    "value": 33.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Marcus Mariota",
+    "year": 2016,
+    "value": 26.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Steve McNair",
+    "year": 2003,
+    "value": 24.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Tannehill",
+    "year": 2019,
+    "value": 22.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Steve McNair",
+    "year": 2002,
+    "value": 22.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Steve McNair",
+    "year": 2001,
+    "value": 21.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Tannehill",
+    "year": 2021,
+    "value": 21.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Marcus Mariota",
+    "year": 2015,
+    "value": 19.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Matt Hasselbeck",
+    "year": 2011,
+    "value": 18.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Billy Volek",
+    "year": 2004,
+    "value": 18.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "Derrick Henry",
+    "year": 2020,
+    "value": 2027.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Chris Johnson",
+    "year": 2009,
+    "value": 2006.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Derrick Henry",
+    "year": 2019,
+    "value": 1540.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Derrick Henry",
+    "year": 2022,
+    "value": 1538.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Eddie George",
+    "year": 2000,
+    "value": 1509.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Chris Johnson",
+    "year": 2010,
+    "value": 1364.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Eddie George",
+    "year": 1999,
+    "value": 1304.0,
+    "pos": "RB"
+   },
+   {
+    "player": "DeMarco Murray",
+    "year": 2016,
+    "value": 1287.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Chris Johnson",
+    "year": 2012,
+    "value": 1243.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Chris Johnson",
+    "year": 2008,
+    "value": 1228.0,
+    "pos": "RB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "Derrick Henry",
+    "year": 2020,
+    "value": 17.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Derrick Henry",
+    "year": 2019,
+    "value": 16.0,
+    "pos": "RB"
+   },
+   {
+    "player": "LenDale White",
+    "year": 2008,
+    "value": 15.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Chris Johnson",
+    "year": 2009,
+    "value": 14.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Eddie George",
+    "year": 2000,
+    "value": 14.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Derrick Henry",
+    "year": 2022,
+    "value": 13.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Eddie George",
+    "year": 2002,
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Derrick Henry",
+    "year": 2018,
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Derrick Henry",
+    "year": 2023,
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Chris Johnson",
+    "year": 2010,
+    "value": 11.0,
+    "pos": "RB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Derrick Mason",
+    "year": 2004,
+    "value": 96.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Derrick Mason",
+    "year": 2003,
+    "value": 95.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Kendall Wright",
+    "year": 2013,
+    "value": 94.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Delanie Walker",
+    "year": 2015,
+    "value": 94.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Drew Bennett",
+    "year": 2004,
+    "value": 80.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Derrick Mason",
+    "year": 2002,
+    "value": 79.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeAndre Hopkins",
+    "year": 2023,
+    "value": 75.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Delanie Walker",
+    "year": 2017,
+    "value": 74.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Nate Washington",
+    "year": 2011,
+    "value": 74.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Derrick Mason",
+    "year": 2001,
+    "value": 73.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "Derrick Mason",
+    "year": 2003,
+    "value": 1303.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Drew Bennett",
+    "year": 2004,
+    "value": 1247.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Derrick Mason",
+    "year": 2004,
+    "value": 1168.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Derrick Mason",
+    "year": 2001,
+    "value": 1128.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Delanie Walker",
+    "year": 2015,
+    "value": 1088.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Kendall Wright",
+    "year": 2013,
+    "value": 1079.0,
+    "pos": "WR"
+   },
+   {
+    "player": "A.J. Brown",
+    "year": 2020,
+    "value": 1075.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeAndre Hopkins",
+    "year": 2023,
+    "value": 1057.0,
+    "pos": "WR"
+   },
+   {
+    "player": "A.J. Brown",
+    "year": 2019,
+    "value": 1051.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Nate Washington",
+    "year": 2011,
+    "value": 1023.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Drew Bennett",
+    "year": 2004,
+    "value": 11.0,
+    "pos": "WR"
+   },
+   {
+    "player": "A.J. Brown",
+    "year": 2020,
+    "value": 11.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Derrick Mason",
+    "year": 2001,
+    "value": 9.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Rishard Matthews",
+    "year": 2016,
+    "value": 9.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Nick Westbrook-Ikhine",
+    "year": 2024,
+    "value": 9.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Kenny Britt",
+    "year": 2010,
+    "value": 9.0,
+    "pos": "WR"
+   },
+   {
+    "player": "A.J. Brown",
+    "year": 2019,
+    "value": 8.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jonnu Smith",
+    "year": 2020,
+    "value": 8.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Derrick Mason",
+    "year": 2003,
+    "value": 8.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Derrick Mason",
+    "year": 2004,
+    "value": 7.0,
+    "pos": "WR"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "Jevon Kearse",
+    "year": 1999,
+    "value": 14.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Kyle Vanden Bosch",
+    "year": 2005,
+    "value": 12.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Jason Babin",
+    "year": 2010,
+    "value": 12.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Harold Landry III",
+    "year": 2021,
+    "value": 12.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Kyle Vanden Bosch",
+    "year": 2007,
+    "value": 12.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Denico Autry",
+    "year": 2023,
+    "value": 11.5,
+    "pos": "DT"
+   },
+   {
+    "player": "Jevon Kearse",
+    "year": 2000,
+    "value": 11.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Jeffery Simmons",
+    "year": 2025,
+    "value": 11.0,
+    "pos": "DT"
+   },
+   {
+    "player": "Jurrell Casey",
+    "year": 2013,
+    "value": 10.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Harold Landry III",
+    "year": 2023,
+    "value": 10.5,
+    "pos": "LB"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Kevin Byard",
+    "year": 2017,
+    "value": 8.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Samari Rolle",
+    "year": 2000,
+    "value": 7.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Michael Griffin",
+    "year": 2008,
+    "value": 7.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Andre Dyson",
+    "year": 2004,
+    "value": 6.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Samari Rolle",
+    "year": 2003,
+    "value": 6.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Lance Schulters",
+    "year": 2002,
+    "value": 6.0,
+    "pos": "S"
+   },
+   {
+    "player": "Alterraun Verner",
+    "year": 2013,
+    "value": 5.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Kevin Byard",
+    "year": 2019,
+    "value": 5.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Amani Hooker",
+    "year": 2024,
+    "value": 5.0,
+    "pos": "SAF"
+   },
+   {
+    "player": "Kevin Byard",
+    "year": 2021,
+    "value": 5.0,
+    "pos": "FS"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "Cedric Gray",
+    "year": 2025,
+    "value": 94.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Michael Griffin",
+    "year": 2014,
+    "value": 84.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Keith Bulluck",
+    "year": 2002,
+    "value": 82.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Malcolm Butler",
+    "year": 2020,
+    "value": 80.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Jason McCourty",
+    "year": 2011,
+    "value": 79.0,
+    "pos": "S"
+   },
+   {
+    "player": "Wesley Woodyard",
+    "year": 2017,
+    "value": 78.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Bernard Pollard",
+    "year": 2013,
+    "value": 77.0,
+    "pos": "S"
+   },
+   {
+    "player": "Jason McCourty",
+    "year": 2014,
+    "value": 76.0,
+    "pos": "S"
+   },
+   {
+    "player": "Stephen Tulloch",
+    "year": 2010,
+    "value": 76.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Chris Hope",
+    "year": 2006,
+    "value": 75.0,
+    "pos": "S"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "Ryan Succop",
+    "year": 2017,
+    "value": 35.0,
+    "pos": "K"
+   },
+   {
+    "player": "Rob Bironas",
+    "year": 2007,
+    "value": 35.0,
+    "pos": "K"
+   },
+   {
+    "player": "Rob Bironas",
+    "year": 2008,
+    "value": 29.0,
+    "pos": "K"
+   },
+   {
+    "player": "Rob Bironas",
+    "year": 2011,
+    "value": 29.0,
+    "pos": "K"
+   },
+   {
+    "player": "Nick Folk",
+    "year": 2023,
+    "value": 29.0,
+    "pos": "K"
+   },
+   {
+    "player": "Joey Slye",
+    "year": 2025,
+    "value": 28.0,
+    "pos": "K"
+   },
+   {
+    "player": "Rob Bironas",
+    "year": 2009,
+    "value": 27.0,
+    "pos": "K"
+   },
+   {
+    "player": "Al Del Greco",
+    "year": 2000,
+    "value": 27.0,
+    "pos": "K"
+   },
+   {
+    "player": "Gary Anderson",
+    "year": 2003,
+    "value": 27.0,
+    "pos": "K"
+   },
+   {
+    "player": "Ryan Succop",
+    "year": 2018,
+    "value": 26.0,
+    "pos": "K"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Stephen Gostkowski",
+    "year": 2020,
+    "value": 46.0,
+    "pos": "K"
+   },
+   {
+    "player": "Al Del Greco",
+    "year": 1999,
+    "value": 43.0,
+    "pos": "K"
+   },
+   {
+    "player": "Gary Anderson",
+    "year": 2003,
+    "value": 42.0,
+    "pos": "K"
+   },
+   {
+    "player": "Randy Bullock",
+    "year": 2021,
+    "value": 42.0,
+    "pos": "K"
+   },
+   {
+    "player": "Rob Bironas",
+    "year": 2013,
+    "value": 41.0,
+    "pos": "K"
+   },
+   {
+    "player": "Rob Bironas",
+    "year": 2008,
+    "value": 40.0,
+    "pos": "K"
+   },
+   {
+    "player": "Ryan Succop",
+    "year": 2016,
+    "value": 39.0,
+    "pos": "K"
+   },
+   {
+    "player": "Rob Bironas",
+    "year": 2010,
+    "value": 38.0,
+    "pos": "K"
+   },
+   {
+    "player": "Gary Anderson",
+    "year": 2004,
+    "value": 37.0,
+    "pos": "K"
+   },
+   {
+    "player": "Rob Bironas",
+    "year": 2009,
+    "value": 37.0,
+    "pos": "K"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "Cedric Gray",
+    "year": 2025,
+    "value": 161.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Azeez Al-Shaair",
+    "year": 2023,
+    "value": 141.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Stephen Tulloch",
+    "year": 2010,
+    "value": 125.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Keith Bulluck",
+    "year": 2004,
+    "value": 123.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Wesley Woodyard",
+    "year": 2017,
+    "value": 118.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Michael Griffin",
+    "year": 2014,
+    "value": 111.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Keith Bulluck",
+    "year": 2002,
+    "value": 108.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Chris Hope",
+    "year": 2006,
+    "value": 107.0,
+    "pos": "S"
+   },
+   {
+    "player": "Logan Ryan",
+    "year": 2019,
+    "value": 105.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Keith Bulluck",
+    "year": 2005,
+    "value": 103.0,
+    "pos": "OLB"
+   }
+  ]
+ },
+ "career_leaders_1999_2025": {
+  "Passing yards": [
+   {
+    "player": "Steve McNair",
+    "value": 19513.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Tannehill",
+    "value": 14447.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Marcus Mariota",
+    "value": 13207.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Vince Young",
+    "value": 8098.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kerry Collins",
+    "value": 6809.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jake Locker",
+    "value": 4967.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Matt Hasselbeck",
+    "value": 4938.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Will Levis",
+    "value": 3899.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Billy Volek",
+    "value": 3504.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Cam Ward",
+    "value": 3169.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Steve McNair",
+    "value": 118.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Tannehill",
+    "value": 93.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Marcus Mariota",
+    "value": 76.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Vince Young",
+    "value": 42.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kerry Collins",
+    "value": 33.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jake Locker",
+    "value": 27.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Billy Volek",
+    "value": 26.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Matt Hasselbeck",
+    "value": 25.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Will Levis",
+    "value": 21.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Mark Brunell",
+    "value": 17.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "Derrick Henry",
+    "value": 9502.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Chris Johnson",
+    "value": 7965.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Eddie George",
+    "value": 5948.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Chris Brown",
+    "value": 2759.0,
+    "pos": "RB"
+   },
+   {
+    "player": "LenDale White",
+    "value": 2347.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tony Pollard",
+    "value": 2161.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Steve McNair",
+    "value": 1999.0,
+    "pos": "QB"
+   },
+   {
+    "player": "DeMarco Murray",
+    "value": 1946.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Travis Henry",
+    "value": 1546.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Marcus Mariota",
+    "value": 1399.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "Derrick Henry",
+    "value": 90.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Chris Johnson",
+    "value": 50.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Eddie George",
+    "value": 45.0,
+    "pos": "RB"
+   },
+   {
+    "player": "LenDale White",
+    "value": 24.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Steve McNair",
+    "value": 22.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Tannehill",
+    "value": 21.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Chris Brown",
+    "value": 16.0,
+    "pos": "RB"
+   },
+   {
+    "player": "DeMarco Murray",
+    "value": 15.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Vince Young",
+    "value": 12.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Marcus Mariota",
+    "value": 11.0,
+    "pos": "QB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Derrick Mason",
+    "value": 414.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Delanie Walker",
+    "value": 381.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Nate Washington",
+    "value": 307.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Kendall Wright",
+    "value": 280.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Drew Bennett",
+    "value": 273.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Chris Johnson",
+    "value": 272.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Frank Wycheck",
+    "value": 256.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Bo Scaife",
+    "value": 251.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Corey Davis",
+    "value": 207.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Chig Okonkwo",
+    "value": 194.0,
+    "pos": "TE"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "Derrick Mason",
+    "value": 5595.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Nate Washington",
+    "value": 4591.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Delanie Walker",
+    "value": 4423.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Drew Bennett",
+    "value": 4033.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Kendall Wright",
+    "value": 3244.0,
+    "pos": "WR"
+   },
+   {
+    "player": "A.J. Brown",
+    "value": 2995.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Corey Davis",
+    "value": 2851.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Frank Wycheck",
+    "value": 2460.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Kenny Britt",
+    "value": 2450.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Bo Scaife",
+    "value": 2384.0,
+    "pos": "TE"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Derrick Mason",
+    "value": 34.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Nate Washington",
+    "value": 28.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Delanie Walker",
+    "value": 28.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Drew Bennett",
+    "value": 25.0,
+    "pos": "WR"
+   },
+   {
+    "player": "A.J. Brown",
+    "value": 24.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Nick Westbrook-Ikhine",
+    "value": 19.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Kenny Britt",
+    "value": 19.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Kendall Wright",
+    "value": 18.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Kevin Dyson",
+    "value": 16.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jonnu Smith",
+    "value": 16.0,
+    "pos": "TE"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "Jurrell Casey",
+    "value": 51.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Harold Landry III",
+    "value": 50.5,
+    "pos": "LB"
+   },
+   {
+    "player": "Jevon Kearse",
+    "value": 49.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Derrick Morgan",
+    "value": 44.5,
+    "pos": "OLB"
+   },
+   {
+    "player": "Jeffery Simmons",
+    "value": 42.5,
+    "pos": "DT"
+   },
+   {
+    "player": "Kyle Vanden Bosch",
+    "value": 38.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Denico Autry",
+    "value": 28.5,
+    "pos": "DT"
+   },
+   {
+    "player": "Brian Orakpo",
+    "value": 26.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Kevin Carter",
+    "value": 24.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Albert Haynesworth",
+    "value": 23.5,
+    "pos": "DT"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Kevin Byard",
+    "value": 27.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Michael Griffin",
+    "value": 25.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Samari Rolle",
+    "value": 23.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Keith Bulluck",
+    "value": 19.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Andre Dyson",
+    "value": 16.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Chris Hope",
+    "value": 16.0,
+    "pos": "S"
+   },
+   {
+    "player": "Cortland Finnegan",
+    "value": 14.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Jason McCourty",
+    "value": 13.0,
+    "pos": "S"
+   },
+   {
+    "player": "Amani Hooker",
+    "value": 12.0,
+    "pos": "SAF"
+   },
+   {
+    "player": "Alterraun Verner",
+    "value": 11.0,
+    "pos": "DB"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "Keith Bulluck",
+    "value": 551.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Michael Griffin",
+    "value": 503.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Jason McCourty",
+    "value": 393.0,
+    "pos": "S"
+   },
+   {
+    "player": "Kevin Byard",
+    "value": 376.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Cortland Finnegan",
+    "value": 321.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Jurrell Casey",
+    "value": 301.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Chris Hope",
+    "value": 293.0,
+    "pos": "S"
+   },
+   {
+    "player": "Wesley Woodyard",
+    "value": 291.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Amani Hooker",
+    "value": 278.0,
+    "pos": "SAF"
+   },
+   {
+    "player": "Avery Williamson",
+    "value": 233.0,
+    "pos": "ILB"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "Rob Bironas",
+    "value": 239.0,
+    "pos": "K"
+   },
+   {
+    "player": "Ryan Succop",
+    "value": 117.0,
+    "pos": "K"
+   },
+   {
+    "player": "Nick Folk",
+    "value": 50.0,
+    "pos": "K"
+   },
+   {
+    "player": "Al Del Greco",
+    "value": 48.0,
+    "pos": "K"
+   },
+   {
+    "player": "Joe Nedney",
+    "value": 46.0,
+    "pos": "K"
+   },
+   {
+    "player": "Gary Anderson",
+    "value": 44.0,
+    "pos": "K"
+   },
+   {
+    "player": "Randy Bullock",
+    "value": 43.0,
+    "pos": "K"
+   },
+   {
+    "player": "Joey Slye",
+    "value": 28.0,
+    "pos": "K"
+   },
+   {
+    "player": "Stephen Gostkowski",
+    "value": 18.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matthew Wright",
+    "value": 15.0,
+    "pos": "K"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Rob Bironas",
+    "value": 315.0,
+    "pos": "K"
+   },
+   {
+    "player": "Ryan Succop",
+    "value": 178.0,
+    "pos": "K"
+   },
+   {
+    "player": "Al Del Greco",
+    "value": 80.0,
+    "pos": "K"
+   },
+   {
+    "player": "Gary Anderson",
+    "value": 79.0,
+    "pos": "K"
+   },
+   {
+    "player": "Randy Bullock",
+    "value": 70.0,
+    "pos": "K"
+   },
+   {
+    "player": "Joe Nedney",
+    "value": 70.0,
+    "pos": "K"
+   },
+   {
+    "player": "Nick Folk",
+    "value": 53.0,
+    "pos": "K"
+   },
+   {
+    "player": "Stephen Gostkowski",
+    "value": 46.0,
+    "pos": "K"
+   },
+   {
+    "player": "Joey Slye",
+    "value": 26.0,
+    "pos": "K"
+   },
+   {
+    "player": "Sam Sloman",
+    "value": 23.0,
+    "pos": "K"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "Keith Bulluck",
+    "value": 840.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Michael Griffin",
+    "value": 696.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Kevin Byard",
+    "value": 569.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Wesley Woodyard",
+    "value": 481.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Jason McCourty",
+    "value": 480.0,
+    "pos": "S"
+   },
+   {
+    "player": "Jurrell Casey",
+    "value": 469.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Cortland Finnegan",
+    "value": 405.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Amani Hooker",
+    "value": 393.0,
+    "pos": "SAF"
+   },
+   {
+    "player": "Chris Hope",
+    "value": 381.0,
+    "pos": "S"
+   },
+   {
+    "player": "Avery Williamson",
+    "value": 370.0,
+    "pos": "ILB"
+   }
+  ]
+ }
+}

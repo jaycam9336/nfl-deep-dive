@@ -1,0 +1,1489 @@
+{
+ "source": "Computed from nflverse stats_player regular-season files (1999\u20132025), github.com/nflverse/nflverse-data releases/stats_player \u2014 SINGLE-SOURCE computed. Coverage: regular season 1999\u20132025 only; NOT all-time (pre-1999 excluded), NOT playoffs. Franchise mapping for relocated teams applied by season/code.",
+ "season_leaders": {
+  "Passing yards": [
+   {
+    "player": "Daunte Culpepper",
+    "year": 2004,
+    "value": 4717.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kirk Cousins",
+    "year": 2022,
+    "value": 4547.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Sam Darnold",
+    "year": 2024,
+    "value": 4319.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kirk Cousins",
+    "year": 2018,
+    "value": 4298.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kirk Cousins",
+    "year": 2020,
+    "value": 4265.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kirk Cousins",
+    "year": 2021,
+    "value": 4221.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Brett Favre",
+    "year": 2009,
+    "value": 4202.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Daunte Culpepper",
+    "year": 2000,
+    "value": 3937.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Sam Bradford",
+    "year": 2016,
+    "value": 3877.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Daunte Culpepper",
+    "year": 2002,
+    "value": 3853.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Daunte Culpepper",
+    "year": 2004,
+    "value": 39.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Sam Darnold",
+    "year": 2024,
+    "value": 35.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kirk Cousins",
+    "year": 2020,
+    "value": 35.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Brett Favre",
+    "year": 2009,
+    "value": 33.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kirk Cousins",
+    "year": 2021,
+    "value": 33.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Daunte Culpepper",
+    "year": 2000,
+    "value": 33.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kirk Cousins",
+    "year": 2018,
+    "value": 30.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kirk Cousins",
+    "year": 2022,
+    "value": 29.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kirk Cousins",
+    "year": 2019,
+    "value": 26.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Daunte Culpepper",
+    "year": 2003,
+    "value": 25.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "Adrian Peterson",
+    "year": 2012,
+    "value": 2097.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Adrian Peterson",
+    "year": 2008,
+    "value": 1757.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Dalvin Cook",
+    "year": 2020,
+    "value": 1557.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Robert Smith",
+    "year": 2000,
+    "value": 1521.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Adrian Peterson",
+    "year": 2015,
+    "value": 1485.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Adrian Peterson",
+    "year": 2009,
+    "value": 1389.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Adrian Peterson",
+    "year": 2007,
+    "value": 1341.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Adrian Peterson",
+    "year": 2010,
+    "value": 1298.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Michael Bennett",
+    "year": 2002,
+    "value": 1296.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Adrian Peterson",
+    "year": 2013,
+    "value": 1266.0,
+    "pos": "RB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "Adrian Peterson",
+    "year": 2009,
+    "value": 18.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Dalvin Cook",
+    "year": 2020,
+    "value": 16.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Dalvin Cook",
+    "year": 2019,
+    "value": 13.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Adrian Peterson",
+    "year": 2012,
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Adrian Peterson",
+    "year": 2011,
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Adrian Peterson",
+    "year": 2007,
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Adrian Peterson",
+    "year": 2010,
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Moe Williams",
+    "year": 2002,
+    "value": 11.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Adrian Peterson",
+    "year": 2015,
+    "value": 11.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Daunte Culpepper",
+    "year": 2002,
+    "value": 10.0,
+    "pos": "QB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Justin Jefferson",
+    "year": 2022,
+    "value": 128.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Adam Thielen",
+    "year": 2018,
+    "value": 113.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Randy Moss",
+    "year": 2003,
+    "value": 111.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Justin Jefferson",
+    "year": 2021,
+    "value": 108.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Randy Moss",
+    "year": 2002,
+    "value": 106.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Justin Jefferson",
+    "year": 2024,
+    "value": 103.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Stefon Diggs",
+    "year": 2018,
+    "value": 102.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Cris Carter",
+    "year": 2000,
+    "value": 96.0,
+    "pos": "WR"
+   },
+   {
+    "player": "T.J. Hockenson",
+    "year": 2023,
+    "value": 95.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Adam Thielen",
+    "year": 2017,
+    "value": 91.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "Justin Jefferson",
+    "year": 2022,
+    "value": 1809.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Randy Moss",
+    "year": 2003,
+    "value": 1632.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Justin Jefferson",
+    "year": 2021,
+    "value": 1616.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Justin Jefferson",
+    "year": 2024,
+    "value": 1533.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Randy Moss",
+    "year": 2000,
+    "value": 1437.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Randy Moss",
+    "year": 1999,
+    "value": 1413.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Justin Jefferson",
+    "year": 2020,
+    "value": 1400.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Adam Thielen",
+    "year": 2018,
+    "value": 1373.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Randy Moss",
+    "year": 2002,
+    "value": 1347.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Sidney Rice",
+    "year": 2009,
+    "value": 1312.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Randy Moss",
+    "year": 2003,
+    "value": 17.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Randy Moss",
+    "year": 2000,
+    "value": 15.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Adam Thielen",
+    "year": 2020,
+    "value": 14.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Cris Carter",
+    "year": 1999,
+    "value": 13.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Randy Moss",
+    "year": 2004,
+    "value": 13.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Visanthe Shiancoe",
+    "year": 2009,
+    "value": 11.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Randy Moss",
+    "year": 1999,
+    "value": 11.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Randy Moss",
+    "year": 2001,
+    "value": 10.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Justin Jefferson",
+    "year": 2021,
+    "value": 10.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Adam Thielen",
+    "year": 2021,
+    "value": 10.0,
+    "pos": "WR"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "Jared Allen",
+    "year": 2011,
+    "value": 22.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Danielle Hunter",
+    "year": 2023,
+    "value": 16.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Jared Allen",
+    "year": 2008,
+    "value": 15.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Danielle Hunter",
+    "year": 2019,
+    "value": 14.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Jared Allen",
+    "year": 2009,
+    "value": 14.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Danielle Hunter",
+    "year": 2018,
+    "value": 14.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Everson Griffen",
+    "year": 2017,
+    "value": 13.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Danielle Hunter",
+    "year": 2016,
+    "value": 12.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Everson Griffen",
+    "year": 2014,
+    "value": 12.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Jared Allen",
+    "year": 2012,
+    "value": 12.0,
+    "pos": "DE"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Darren Sharper",
+    "year": 2005,
+    "value": 9.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Brian Russell",
+    "year": 2003,
+    "value": 9.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Corey Chavous",
+    "year": 2003,
+    "value": 8.0,
+    "pos": "S"
+   },
+   {
+    "player": "Byron Murphy",
+    "year": 2024,
+    "value": 6.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Anthony Harris",
+    "year": 2019,
+    "value": 6.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Harrison Smith",
+    "year": 2014,
+    "value": 5.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Patrick Peterson",
+    "year": 2022,
+    "value": 5.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Harrison Smith",
+    "year": 2020,
+    "value": 5.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Xavier Rhodes",
+    "year": 2016,
+    "value": 5.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Harrison Smith",
+    "year": 2017,
+    "value": 5.0,
+    "pos": "FS"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "Chad Greenway",
+    "year": 2012,
+    "value": 88.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Chad Greenway",
+    "year": 2010,
+    "value": 88.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Robert Griffith",
+    "year": 1999,
+    "value": 83.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Ed McDaniel",
+    "year": 2000,
+    "value": 83.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "E.J. Henderson",
+    "year": 2007,
+    "value": 82.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Antoine Winfield",
+    "year": 2006,
+    "value": 80.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Cedric Griffin",
+    "year": 2007,
+    "value": 79.0,
+    "pos": "S"
+   },
+   {
+    "player": "Chad Greenway",
+    "year": 2011,
+    "value": 78.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Camryn Bynum",
+    "year": 2023,
+    "value": 78.0,
+    "pos": "SAF"
+   },
+   {
+    "player": "Chad Greenway",
+    "year": 2013,
+    "value": 76.0,
+    "pos": "OLB"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "Blair Walsh",
+    "year": 2012,
+    "value": 35.0,
+    "pos": "K"
+   },
+   {
+    "player": "Blair Walsh",
+    "year": 2015,
+    "value": 34.0,
+    "pos": "K"
+   },
+   {
+    "player": "Greg Joseph",
+    "year": 2021,
+    "value": 33.0,
+    "pos": "K"
+   },
+   {
+    "player": "Will Reichard",
+    "year": 2025,
+    "value": 33.0,
+    "pos": "K"
+   },
+   {
+    "player": "Kai Forbath",
+    "year": 2017,
+    "value": 32.0,
+    "pos": "K"
+   },
+   {
+    "player": "Ryan Longwell",
+    "year": 2008,
+    "value": 29.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Bailey",
+    "year": 2019,
+    "value": 27.0,
+    "pos": "K"
+   },
+   {
+    "player": "Ryan Longwell",
+    "year": 2009,
+    "value": 26.0,
+    "pos": "K"
+   },
+   {
+    "player": "Blair Walsh",
+    "year": 2013,
+    "value": 26.0,
+    "pos": "K"
+   },
+   {
+    "player": "Blair Walsh",
+    "year": 2014,
+    "value": 26.0,
+    "pos": "K"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Ryan Longwell",
+    "year": 2009,
+    "value": 54.0,
+    "pos": "K"
+   },
+   {
+    "player": "Aaron Elling",
+    "year": 2003,
+    "value": 48.0,
+    "pos": "K"
+   },
+   {
+    "player": "Gary Anderson",
+    "year": 1999,
+    "value": 46.0,
+    "pos": "K"
+   },
+   {
+    "player": "Morten Andersen",
+    "year": 2004,
+    "value": 45.0,
+    "pos": "K"
+   },
+   {
+    "player": "Gary Anderson",
+    "year": 2000,
+    "value": 45.0,
+    "pos": "K"
+   },
+   {
+    "player": "Blair Walsh",
+    "year": 2013,
+    "value": 43.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Bailey",
+    "year": 2019,
+    "value": 40.0,
+    "pos": "K"
+   },
+   {
+    "player": "Ryan Longwell",
+    "year": 2008,
+    "value": 40.0,
+    "pos": "K"
+   },
+   {
+    "player": "Greg Joseph",
+    "year": 2022,
+    "value": 40.0,
+    "pos": "K"
+   },
+   {
+    "player": "Ryan Longwell",
+    "year": 2007,
+    "value": 39.0,
+    "pos": "K"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "Blake Cashman",
+    "year": 2025,
+    "value": 143.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Chad Greenway",
+    "year": 2011,
+    "value": 143.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Chad Greenway",
+    "year": 2012,
+    "value": 138.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Chad Greenway",
+    "year": 2013,
+    "value": 127.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Eric Kendricks",
+    "year": 2021,
+    "value": 125.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Eric Kendricks",
+    "year": 2022,
+    "value": 124.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Chad Greenway",
+    "year": 2010,
+    "value": 123.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Camryn Bynum",
+    "year": 2023,
+    "value": 121.0,
+    "pos": "SAF"
+   },
+   {
+    "player": "Eric Wilson",
+    "year": 2020,
+    "value": 118.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Jordan Hicks",
+    "year": 2022,
+    "value": 112.0,
+    "pos": "MLB"
+   }
+  ]
+ },
+ "career_leaders_1999_2025": {
+  "Passing yards": [
+   {
+    "player": "Kirk Cousins",
+    "value": 23265.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Daunte Culpepper",
+    "value": 20162.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Brett Favre",
+    "value": 6711.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Christian Ponder",
+    "value": 6658.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Teddy Bridgewater",
+    "value": 6150.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Brad Johnson",
+    "value": 4635.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Sam Darnold",
+    "value": 4319.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Sam Bradford",
+    "value": 4259.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tarvaris Jackson",
+    "value": 3984.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Case Keenum",
+    "value": 3547.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Kirk Cousins",
+    "value": 171.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Daunte Culpepper",
+    "value": 135.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Brett Favre",
+    "value": 44.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Christian Ponder",
+    "value": 38.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Sam Darnold",
+    "value": 35.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Teddy Bridgewater",
+    "value": 28.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tarvaris Jackson",
+    "value": 24.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Sam Bradford",
+    "value": 23.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jeff George",
+    "value": 23.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Case Keenum",
+    "value": 22.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "Adrian Peterson",
+    "value": 11750.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Dalvin Cook",
+    "value": 5993.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Michael Bennett",
+    "value": 3174.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Chester Taylor",
+    "value": 2789.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Robert Smith",
+    "value": 2536.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Daunte Culpepper",
+    "value": 2470.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Alexander Mattison",
+    "value": 2370.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jerick McKinnon",
+    "value": 1918.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Aaron Jones",
+    "value": 1686.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Moe Williams",
+    "value": 1476.0,
+    "pos": "RB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "Adrian Peterson",
+    "value": 97.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Dalvin Cook",
+    "value": 47.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Daunte Culpepper",
+    "value": 29.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Moe Williams",
+    "value": 20.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Chester Taylor",
+    "value": 18.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Matt Asiata",
+    "value": 18.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Latavius Murray",
+    "value": 14.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Michael Bennett",
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Alexander Mattison",
+    "value": 11.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Leroy Hoard",
+    "value": 10.0,
+    "pos": "RB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Justin Jefferson",
+    "value": 579.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Adam Thielen",
+    "value": 534.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Randy Moss",
+    "value": 505.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Kyle Rudolph",
+    "value": 453.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Stefon Diggs",
+    "value": 365.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Percy Harvin",
+    "value": 280.0,
+    "pos": "WR"
+   },
+   {
+    "player": "T.J. Hockenson",
+    "value": 273.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Cris Carter",
+    "value": 259.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Adrian Peterson",
+    "value": 241.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Dalvin Cook",
+    "value": 221.0,
+    "pos": "RB"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "Justin Jefferson",
+    "value": 8480.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Randy Moss",
+    "value": 7829.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Adam Thielen",
+    "value": 6682.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Stefon Diggs",
+    "value": 4623.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Kyle Rudolph",
+    "value": 4488.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Cris Carter",
+    "value": 3386.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Percy Harvin",
+    "value": 3302.0,
+    "pos": "WR"
+   },
+   {
+    "player": "T.J. Hockenson",
+    "value": 2767.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Visanthe Shiancoe",
+    "value": 2424.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Jordan Addison",
+    "value": 2396.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Randy Moss",
+    "value": 73.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Adam Thielen",
+    "value": 55.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Kyle Rudolph",
+    "value": 48.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Justin Jefferson",
+    "value": 42.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Stefon Diggs",
+    "value": 30.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Cris Carter",
+    "value": 28.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Visanthe Shiancoe",
+    "value": 24.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Jordan Addison",
+    "value": 22.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Percy Harvin",
+    "value": 20.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Sidney Rice",
+    "value": 18.0,
+    "pos": "WR"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "Danielle Hunter",
+    "value": 87.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Jared Allen",
+    "value": 86.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Everson Griffen",
+    "value": 79.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Brian Robison",
+    "value": 60.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Kevin Williams",
+    "value": 57.0,
+    "pos": "DT"
+   },
+   {
+    "player": "Lance Johnstone",
+    "value": 40.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Ray Edwards",
+    "value": 28.5,
+    "pos": "DE"
+   },
+   {
+    "player": "D.J. Wonnum",
+    "value": 23.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Harrison Smith",
+    "value": 21.5,
+    "pos": "FS"
+   },
+   {
+    "player": "Tom Johnson",
+    "value": 20.5,
+    "pos": "DT"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Harrison Smith",
+    "value": 39.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Antoine Winfield",
+    "value": 21.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Darren Sharper",
+    "value": 18.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Corey Chavous",
+    "value": 14.0,
+    "pos": "S"
+   },
+   {
+    "player": "Brian Williams",
+    "value": 12.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Byron Murphy",
+    "value": 11.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Chad Greenway",
+    "value": 11.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Brian Russell",
+    "value": 11.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Xavier Rhodes",
+    "value": 10.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Andrew Sendejo",
+    "value": 9.0,
+    "pos": "FS"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "Harrison Smith",
+    "value": 796.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Chad Greenway",
+    "value": 654.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Antoine Winfield",
+    "value": 554.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Eric Kendricks",
+    "value": 517.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "E.J. Henderson",
+    "value": 477.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Anthony Barr",
+    "value": 305.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Xavier Rhodes",
+    "value": 303.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Cedric Griffin",
+    "value": 295.0,
+    "pos": "S"
+   },
+   {
+    "player": "Danielle Hunter",
+    "value": 282.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Kevin Williams",
+    "value": 282.0,
+    "pos": "DT"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "Ryan Longwell",
+    "value": 135.0,
+    "pos": "K"
+   },
+   {
+    "player": "Blair Walsh",
+    "value": 133.0,
+    "pos": "K"
+   },
+   {
+    "player": "Greg Joseph",
+    "value": 83.0,
+    "pos": "K"
+   },
+   {
+    "player": "Gary Anderson",
+    "value": 74.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Bailey",
+    "value": 63.0,
+    "pos": "K"
+   },
+   {
+    "player": "Will Reichard",
+    "value": 57.0,
+    "pos": "K"
+   },
+   {
+    "player": "Kai Forbath",
+    "value": 47.0,
+    "pos": "K"
+   },
+   {
+    "player": "Paul Edinger",
+    "value": 25.0,
+    "pos": "K"
+   },
+   {
+    "player": "Aaron Elling",
+    "value": 19.0,
+    "pos": "K"
+   },
+   {
+    "player": "Morten Andersen",
+    "value": 18.0,
+    "pos": "K"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Ryan Longwell",
+    "value": 228.0,
+    "pos": "K"
+   },
+   {
+    "player": "Blair Walsh",
+    "value": 156.0,
+    "pos": "K"
+   },
+   {
+    "player": "Gary Anderson",
+    "value": 156.0,
+    "pos": "K"
+   },
+   {
+    "player": "Greg Joseph",
+    "value": 112.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Bailey",
+    "value": 107.0,
+    "pos": "K"
+   },
+   {
+    "player": "Will Reichard",
+    "value": 69.0,
+    "pos": "K"
+   },
+   {
+    "player": "Aaron Elling",
+    "value": 50.0,
+    "pos": "K"
+   },
+   {
+    "player": "Morten Andersen",
+    "value": 45.0,
+    "pos": "K"
+   },
+   {
+    "player": "Kai Forbath",
+    "value": 45.0,
+    "pos": "K"
+   },
+   {
+    "player": "Paul Edinger",
+    "value": 31.0,
+    "pos": "K"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "Harrison Smith",
+    "value": 1117.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Chad Greenway",
+    "value": 996.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Eric Kendricks",
+    "value": 857.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "E.J. Henderson",
+    "value": 676.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Antoine Winfield",
+    "value": 670.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Anthony Barr",
+    "value": 465.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Danielle Hunter",
+    "value": 428.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Kevin Williams",
+    "value": 412.0,
+    "pos": "DT"
+   },
+   {
+    "player": "Andrew Sendejo",
+    "value": 398.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Xavier Rhodes",
+    "value": 357.0,
+    "pos": "CB"
+   }
+  ]
+ }
+}

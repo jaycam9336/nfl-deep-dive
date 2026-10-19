@@ -1,0 +1,1489 @@
+{
+ "source": "Computed from nflverse stats_player regular-season files (1999\u20132025), github.com/nflverse/nflverse-data releases/stats_player \u2014 SINGLE-SOURCE computed. Coverage: regular season 1999\u20132025 only; NOT all-time (pre-1999 excluded), NOT playoffs. Franchise mapping for relocated teams applied by season/code.",
+ "season_leaders": {
+  "Passing yards": [
+   {
+    "player": "Andrew Luck",
+    "year": 2014,
+    "value": 4761.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Peyton Manning",
+    "year": 2010,
+    "value": 4700.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Andrew Luck",
+    "year": 2018,
+    "value": 4593.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Peyton Manning",
+    "year": 2004,
+    "value": 4557.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Peyton Manning",
+    "year": 2009,
+    "value": 4500.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Peyton Manning",
+    "year": 2000,
+    "value": 4413.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Peyton Manning",
+    "year": 2006,
+    "value": 4397.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Andrew Luck",
+    "year": 2012,
+    "value": 4374.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Peyton Manning",
+    "year": 2003,
+    "value": 4267.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Andrew Luck",
+    "year": 2016,
+    "value": 4240.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Peyton Manning",
+    "year": 2004,
+    "value": 49.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Andrew Luck",
+    "year": 2014,
+    "value": 40.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Andrew Luck",
+    "year": 2018,
+    "value": 39.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Peyton Manning",
+    "year": 2000,
+    "value": 33.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Peyton Manning",
+    "year": 2010,
+    "value": 33.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Peyton Manning",
+    "year": 2009,
+    "value": 33.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Peyton Manning",
+    "year": 2006,
+    "value": 31.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Peyton Manning",
+    "year": 2007,
+    "value": 31.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Andrew Luck",
+    "year": 2016,
+    "value": 31.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Peyton Manning",
+    "year": 2003,
+    "value": 29.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "Jonathan Taylor",
+    "year": 2021,
+    "value": 1811.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Edgerrin James",
+    "year": 2000,
+    "value": 1709.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jonathan Taylor",
+    "year": 2025,
+    "value": 1585.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Edgerrin James",
+    "year": 1999,
+    "value": 1553.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Edgerrin James",
+    "year": 2004,
+    "value": 1548.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Edgerrin James",
+    "year": 2005,
+    "value": 1506.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jonathan Taylor",
+    "year": 2024,
+    "value": 1431.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Edgerrin James",
+    "year": 2003,
+    "value": 1257.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jonathan Taylor",
+    "year": 2020,
+    "value": 1169.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Dominic Rhodes",
+    "year": 2001,
+    "value": 1104.0,
+    "pos": "RB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "Jonathan Taylor",
+    "year": 2025,
+    "value": 18.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jonathan Taylor",
+    "year": 2021,
+    "value": 18.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Edgerrin James",
+    "year": 2005,
+    "value": 13.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Edgerrin James",
+    "year": 2000,
+    "value": 13.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Edgerrin James",
+    "year": 1999,
+    "value": 13.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Joseph Addai",
+    "year": 2007,
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jonathan Taylor",
+    "year": 2020,
+    "value": 11.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jonathan Taylor",
+    "year": 2024,
+    "value": 11.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Edgerrin James",
+    "year": 2003,
+    "value": 11.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Joseph Addai",
+    "year": 2009,
+    "value": 10.0,
+    "pos": "RB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Marvin Harrison",
+    "year": 2002,
+    "value": 143.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marvin Harrison",
+    "year": 1999,
+    "value": 115.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Reggie Wayne",
+    "year": 2010,
+    "value": 111.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Michael Pittman",
+    "year": 2023,
+    "value": 109.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marvin Harrison",
+    "year": 2001,
+    "value": 109.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Reggie Wayne",
+    "year": 2012,
+    "value": 106.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Reggie Wayne",
+    "year": 2007,
+    "value": 104.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marvin Harrison",
+    "year": 2000,
+    "value": 102.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dallas Clark",
+    "year": 2009,
+    "value": 100.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Reggie Wayne",
+    "year": 2009,
+    "value": 100.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "Marvin Harrison",
+    "year": 2002,
+    "value": 1722.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marvin Harrison",
+    "year": 1999,
+    "value": 1663.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marvin Harrison",
+    "year": 2001,
+    "value": 1524.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Reggie Wayne",
+    "year": 2007,
+    "value": 1510.0,
+    "pos": "WR"
+   },
+   {
+    "player": "T.Y. Hilton",
+    "year": 2016,
+    "value": 1448.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marvin Harrison",
+    "year": 2000,
+    "value": 1413.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marvin Harrison",
+    "year": 2006,
+    "value": 1366.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Reggie Wayne",
+    "year": 2012,
+    "value": 1355.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Reggie Wayne",
+    "year": 2010,
+    "value": 1355.0,
+    "pos": "WR"
+   },
+   {
+    "player": "T.Y. Hilton",
+    "year": 2014,
+    "value": 1345.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Marvin Harrison",
+    "year": 2001,
+    "value": 15.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marvin Harrison",
+    "year": 2004,
+    "value": 15.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marvin Harrison",
+    "year": 2000,
+    "value": 14.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Eric Ebron",
+    "year": 2018,
+    "value": 13.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Reggie Wayne",
+    "year": 2004,
+    "value": 12.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marvin Harrison",
+    "year": 2006,
+    "value": 12.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marvin Harrison",
+    "year": 2005,
+    "value": 12.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marvin Harrison",
+    "year": 1999,
+    "value": 12.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marvin Harrison",
+    "year": 2002,
+    "value": 11.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dallas Clark",
+    "year": 2007,
+    "value": 11.0,
+    "pos": "TE"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "Robert Mathis",
+    "year": 2013,
+    "value": 19.5,
+    "pos": "OLB"
+   },
+   {
+    "player": "Dwight Freeney",
+    "year": 2004,
+    "value": 16.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Dwight Freeney",
+    "year": 2009,
+    "value": 13.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Dwight Freeney",
+    "year": 2002,
+    "value": 13.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Chad Bratzke",
+    "year": 1999,
+    "value": 12.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Robert Mathis",
+    "year": 2004,
+    "value": 11.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Dwight Freeney",
+    "year": 2003,
+    "value": 11.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Robert Mathis",
+    "year": 2008,
+    "value": 11.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Erik Walden",
+    "year": 2016,
+    "value": 11.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Robert Mathis",
+    "year": 2005,
+    "value": 11.0,
+    "pos": "OLB"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Cato June",
+    "year": 2005,
+    "value": 5.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Mike Adams",
+    "year": 2014,
+    "value": 5.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Mike Adams",
+    "year": 2015,
+    "value": 5.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Shaquille Leonard",
+    "year": 2019,
+    "value": 5.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Antoine Bethea",
+    "year": 2007,
+    "value": 4.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Jeff Burris",
+    "year": 2000,
+    "value": 4.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Antoine Bethea",
+    "year": 2009,
+    "value": 4.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Darius Butler",
+    "year": 2012,
+    "value": 4.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Darius Butler",
+    "year": 2013,
+    "value": 4.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Vontae Davis",
+    "year": 2014,
+    "value": 4.0,
+    "pos": "CB"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "Shaquille Leonard",
+    "year": 2018,
+    "value": 93.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Jerrell Freeman",
+    "year": 2012,
+    "value": 90.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Zaire Franklin",
+    "year": 2023,
+    "value": 87.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Bobby Okereke",
+    "year": 2022,
+    "value": 85.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "David Thornton",
+    "year": 2003,
+    "value": 84.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Zaire Franklin",
+    "year": 2022,
+    "value": 83.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "E.J. Speed",
+    "year": 2024,
+    "value": 82.0,
+    "pos": "LB"
+   },
+   {
+    "player": "D'Qwell Jackson",
+    "year": 2015,
+    "value": 79.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Jerrell Freeman",
+    "year": 2013,
+    "value": 77.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Shaquille Leonard",
+    "year": 2020,
+    "value": 76.0,
+    "pos": "OLB"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "Mike Vanderjagt",
+    "year": 2003,
+    "value": 37.0,
+    "pos": "K"
+   },
+   {
+    "player": "Adam Vinatieri",
+    "year": 2013,
+    "value": 35.0,
+    "pos": "K"
+   },
+   {
+    "player": "Mike Vanderjagt",
+    "year": 1999,
+    "value": 34.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Gay",
+    "year": 2023,
+    "value": 33.0,
+    "pos": "K"
+   },
+   {
+    "player": "Rodrigo Blankenship",
+    "year": 2020,
+    "value": 32.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Gay",
+    "year": 2024,
+    "value": 31.0,
+    "pos": "K"
+   },
+   {
+    "player": "Chase McLaughlin",
+    "year": 2022,
+    "value": 30.0,
+    "pos": "K"
+   },
+   {
+    "player": "Adam Vinatieri",
+    "year": 2014,
+    "value": 30.0,
+    "pos": "K"
+   },
+   {
+    "player": "Adam Vinatieri",
+    "year": 2017,
+    "value": 29.0,
+    "pos": "K"
+   },
+   {
+    "player": "Blake Grupe",
+    "year": 2025,
+    "value": 29.0,
+    "pos": "K"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Mike Vanderjagt",
+    "year": 2004,
+    "value": 59.0,
+    "pos": "K"
+   },
+   {
+    "player": "Mike Vanderjagt",
+    "year": 2005,
+    "value": 52.0,
+    "pos": "K"
+   },
+   {
+    "player": "Adam Vinatieri",
+    "year": 2010,
+    "value": 51.0,
+    "pos": "K"
+   },
+   {
+    "player": "Adam Vinatieri",
+    "year": 2014,
+    "value": 50.0,
+    "pos": "K"
+   },
+   {
+    "player": "Adam Vinatieri",
+    "year": 2007,
+    "value": 49.0,
+    "pos": "K"
+   },
+   {
+    "player": "Mike Vanderjagt",
+    "year": 2003,
+    "value": 46.0,
+    "pos": "K"
+   },
+   {
+    "player": "Mike Vanderjagt",
+    "year": 2000,
+    "value": 46.0,
+    "pos": "K"
+   },
+   {
+    "player": "Adam Vinatieri",
+    "year": 2018,
+    "value": 44.0,
+    "pos": "K"
+   },
+   {
+    "player": "Adam Vinatieri",
+    "year": 2016,
+    "value": 44.0,
+    "pos": "K"
+   },
+   {
+    "player": "Mike Vanderjagt",
+    "year": 1999,
+    "value": 43.0,
+    "pos": "K"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "Zaire Franklin",
+    "year": 2023,
+    "value": 159.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Zaire Franklin",
+    "year": 2024,
+    "value": 155.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Zaire Franklin",
+    "year": 2022,
+    "value": 148.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Jerrell Freeman",
+    "year": 2012,
+    "value": 145.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Shaquille Leonard",
+    "year": 2018,
+    "value": 145.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Pat Angerer",
+    "year": 2011,
+    "value": 141.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "D'Qwell Jackson",
+    "year": 2015,
+    "value": 140.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Bobby Okereke",
+    "year": 2022,
+    "value": 137.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Antoine Bethea",
+    "year": 2011,
+    "value": 134.0,
+    "pos": "FS"
+   },
+   {
+    "player": "D'Qwell Jackson",
+    "year": 2014,
+    "value": 133.0,
+    "pos": "ILB"
+   }
+  ]
+ },
+ "career_leaders_1999_2025": {
+  "Passing yards": [
+   {
+    "player": "Peyton Manning",
+    "value": 51089.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Andrew Luck",
+    "value": 23671.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jacoby Brissett",
+    "value": 6059.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Philip Rivers",
+    "value": 4713.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Carson Wentz",
+    "value": 3563.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Gardner Minshew",
+    "value": 3305.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Daniel Jones",
+    "value": 3101.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Matt Ryan",
+    "value": 3057.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Anthony Richardson",
+    "value": 2400.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Matt Hasselbeck",
+    "value": 2121.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Peyton Manning",
+    "value": 373.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Andrew Luck",
+    "value": 171.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jacoby Brissett",
+    "value": 31.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Philip Rivers",
+    "value": 28.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Carson Wentz",
+    "value": 27.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Daniel Jones",
+    "value": 19.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Gardner Minshew",
+    "value": 15.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Matt Ryan",
+    "value": 14.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Joe Flacco",
+    "value": 12.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Matt Hasselbeck",
+    "value": 11.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "Edgerrin James",
+    "value": 9224.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jonathan Taylor",
+    "value": 7598.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Joseph Addai",
+    "value": 4453.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Dominic Rhodes",
+    "value": 2984.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Frank Gore",
+    "value": 2953.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Marlon Mack",
+    "value": 2484.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Donald Brown",
+    "value": 2377.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Andrew Luck",
+    "value": 1590.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Zack Moss",
+    "value": 1250.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Nyheim Hines",
+    "value": 1169.0,
+    "pos": "RB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "Jonathan Taylor",
+    "value": 69.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Edgerrin James",
+    "value": 64.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Joseph Addai",
+    "value": 39.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Dominic Rhodes",
+    "value": 25.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Marlon Mack",
+    "value": 20.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Donald Brown",
+    "value": 17.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Peyton Manning",
+    "value": 17.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Andrew Luck",
+    "value": 14.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Frank Gore",
+    "value": 13.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jacoby Brissett",
+    "value": 11.0,
+    "pos": "QB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Reggie Wayne",
+    "value": 1070.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marvin Harrison",
+    "value": 906.0,
+    "pos": "WR"
+   },
+   {
+    "player": "T.Y. Hilton",
+    "value": 631.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Michael Pittman",
+    "value": 485.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dallas Clark",
+    "value": 427.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Edgerrin James",
+    "value": 356.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jack Doyle",
+    "value": 295.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Marcus Pollard",
+    "value": 223.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Nyheim Hines",
+    "value": 210.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Josh Downs",
+    "value": 198.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "Reggie Wayne",
+    "value": 14345.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marvin Harrison",
+    "value": 12102.0,
+    "pos": "WR"
+   },
+   {
+    "player": "T.Y. Hilton",
+    "value": 9691.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Michael Pittman",
+    "value": 5254.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dallas Clark",
+    "value": 4887.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Alec Pierce",
+    "value": 2934.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marcus Pollard",
+    "value": 2880.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Edgerrin James",
+    "value": 2839.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jack Doyle",
+    "value": 2729.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Pierre Garcon",
+    "value": 2551.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Marvin Harrison",
+    "value": 107.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Reggie Wayne",
+    "value": 82.0,
+    "pos": "WR"
+   },
+   {
+    "player": "T.Y. Hilton",
+    "value": 53.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dallas Clark",
+    "value": 46.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Marcus Pollard",
+    "value": 30.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Michael Pittman",
+    "value": 25.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jack Doyle",
+    "value": 24.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Dwayne Allen",
+    "value": 19.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Donte Moncrief",
+    "value": 18.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Alec Pierce",
+    "value": 17.0,
+    "pos": "WR"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "Robert Mathis",
+    "value": 122.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Dwight Freeney",
+    "value": 107.0,
+    "pos": "DE"
+   },
+   {
+    "player": "DeForest Buckner",
+    "value": 43.0,
+    "pos": "DT"
+   },
+   {
+    "player": "Chad Bratzke",
+    "value": 37.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Kwity Paye",
+    "value": 30.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Raheem Brock",
+    "value": 27.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Erik Walden",
+    "value": 23.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Denico Autry",
+    "value": 20.0,
+    "pos": "DT"
+   },
+   {
+    "player": "Justin Houston",
+    "value": 19.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Marcus Washington",
+    "value": 18.5,
+    "pos": "OLB"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Kenny Moore II",
+    "value": 21.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Nick Harper",
+    "value": 15.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Antoine Bethea",
+    "value": 14.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Vontae Davis",
+    "value": 13.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Shaquille Leonard",
+    "value": 12.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Darius Butler",
+    "value": 12.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Mike Adams",
+    "value": 12.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Gary Brackett",
+    "value": 12.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Cato June",
+    "value": 10.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Julian Blackmon",
+    "value": 10.0,
+    "pos": "SAF"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "Antoine Bethea",
+    "value": 472.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Kenny Moore II",
+    "value": 446.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Gary Brackett",
+    "value": 364.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Zaire Franklin",
+    "value": 347.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Robert Mathis",
+    "value": 335.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Jerrell Freeman",
+    "value": 286.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Shaquille Leonard",
+    "value": 282.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Nick Harper",
+    "value": 252.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Rob Morris",
+    "value": 246.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Bobby Okereke",
+    "value": 243.0,
+    "pos": "ILB"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "Adam Vinatieri",
+    "value": 336.0,
+    "pos": "K"
+   },
+   {
+    "player": "Mike Vanderjagt",
+    "value": 190.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Gay",
+    "value": 64.0,
+    "pos": "K"
+   },
+   {
+    "player": "Chase McLaughlin",
+    "value": 48.0,
+    "pos": "K"
+   },
+   {
+    "player": "Rodrigo Blankenship",
+    "value": 43.0,
+    "pos": "K"
+   },
+   {
+    "player": "Blake Grupe",
+    "value": 29.0,
+    "pos": "K"
+   },
+   {
+    "player": "Mike Badgley",
+    "value": 18.0,
+    "pos": "K"
+   },
+   {
+    "player": "Spencer Shrader",
+    "value": 13.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jose Cortez",
+    "value": 12.0,
+    "pos": "K"
+   },
+   {
+    "player": "Martin Gramatica",
+    "value": 11.0,
+    "pos": "K"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Adam Vinatieri",
+    "value": 507.0,
+    "pos": "K"
+   },
+   {
+    "player": "Mike Vanderjagt",
+    "value": 321.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Gay",
+    "value": 68.0,
+    "pos": "K"
+   },
+   {
+    "player": "Rodrigo Blankenship",
+    "value": 50.0,
+    "pos": "K"
+   },
+   {
+    "player": "Chase McLaughlin",
+    "value": 47.0,
+    "pos": "K"
+   },
+   {
+    "player": "Mike Badgley",
+    "value": 40.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Stover",
+    "value": 33.0,
+    "pos": "K"
+   },
+   {
+    "player": "Blake Grupe",
+    "value": 25.0,
+    "pos": "K"
+   },
+   {
+    "player": "Martin Gramatica",
+    "value": 21.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jose Cortez",
+    "value": 18.0,
+    "pos": "K"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "Antoine Bethea",
+    "value": 708.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Zaire Franklin",
+    "value": 668.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Kenny Moore II",
+    "value": 597.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Gary Brackett",
+    "value": 550.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Shaquille Leonard",
+    "value": 480.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Jerrell Freeman",
+    "value": 467.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Robert Mathis",
+    "value": 460.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Rob Morris",
+    "value": 371.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Bobby Okereke",
+    "value": 370.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Grover Stewart",
+    "value": 361.0,
+    "pos": "DT"
+   }
+  ]
+ }
+}

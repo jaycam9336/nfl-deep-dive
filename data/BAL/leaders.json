@@ -1,0 +1,1489 @@
+{
+ "source": "Computed from nflverse stats_player regular-season files (1999\u20132025), github.com/nflverse/nflverse-data releases/stats_player \u2014 SINGLE-SOURCE computed. Coverage: regular season 1999\u20132025 only; NOT all-time (pre-1999 excluded), NOT playoffs. Franchise mapping for relocated teams applied by season/code.",
+ "season_leaders": {
+  "Passing yards": [
+   {
+    "player": "Joe Flacco",
+    "year": 2016,
+    "value": 4317.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Lamar Jackson",
+    "year": 2024,
+    "value": 4172.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Joe Flacco",
+    "year": 2014,
+    "value": 3986.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Joe Flacco",
+    "year": 2013,
+    "value": 3912.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Joe Flacco",
+    "year": 2012,
+    "value": 3817.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Lamar Jackson",
+    "year": 2023,
+    "value": 3678.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Joe Flacco",
+    "year": 2010,
+    "value": 3622.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Joe Flacco",
+    "year": 2009,
+    "value": 3613.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Joe Flacco",
+    "year": 2011,
+    "value": 3610.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Joe Flacco",
+    "year": 2017,
+    "value": 3141.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Lamar Jackson",
+    "year": 2024,
+    "value": 41.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Lamar Jackson",
+    "year": 2019,
+    "value": 36.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Joe Flacco",
+    "year": 2014,
+    "value": 27.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Lamar Jackson",
+    "year": 2020,
+    "value": 26.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Joe Flacco",
+    "year": 2010,
+    "value": 25.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Lamar Jackson",
+    "year": 2023,
+    "value": 24.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Joe Flacco",
+    "year": 2012,
+    "value": 22.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Joe Flacco",
+    "year": 2009,
+    "value": 21.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Lamar Jackson",
+    "year": 2025,
+    "value": 21.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Joe Flacco",
+    "year": 2016,
+    "value": 20.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "Jamal Lewis",
+    "year": 2003,
+    "value": 2063.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Derrick Henry",
+    "year": 2024,
+    "value": 1921.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Derrick Henry",
+    "year": 2025,
+    "value": 1595.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jamal Lewis",
+    "year": 2000,
+    "value": 1364.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ray Rice",
+    "year": 2011,
+    "value": 1364.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ray Rice",
+    "year": 2009,
+    "value": 1339.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jamal Lewis",
+    "year": 2002,
+    "value": 1327.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Justin Forsett",
+    "year": 2014,
+    "value": 1266.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ray Rice",
+    "year": 2010,
+    "value": 1220.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Willis McGahee",
+    "year": 2007,
+    "value": 1207.0,
+    "pos": "RB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "Derrick Henry",
+    "year": 2024,
+    "value": 16.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Derrick Henry",
+    "year": 2025,
+    "value": 16.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jamal Lewis",
+    "year": 2003,
+    "value": 14.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Gus Edwards",
+    "year": 2023,
+    "value": 13.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Willis McGahee",
+    "year": 2009,
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ray Rice",
+    "year": 2011,
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Le'Ron McClain",
+    "year": 2008,
+    "value": 10.0,
+    "pos": "FB"
+   },
+   {
+    "player": "Mark Ingram",
+    "year": 2019,
+    "value": 10.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jamal Lewis",
+    "year": 2006,
+    "value": 9.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ray Rice",
+    "year": 2012,
+    "value": 9.0,
+    "pos": "RB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Mark Andrews",
+    "year": 2021,
+    "value": 107.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Derrick Mason",
+    "year": 2007,
+    "value": 103.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marquise Brown",
+    "year": 2021,
+    "value": 91.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Derrick Mason",
+    "year": 2005,
+    "value": 86.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Zay Flowers",
+    "year": 2025,
+    "value": 86.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dennis Pitta",
+    "year": 2016,
+    "value": 86.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Derrick Mason",
+    "year": 2008,
+    "value": 80.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Steve Smith",
+    "year": 2014,
+    "value": 79.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Ray Rice",
+    "year": 2009,
+    "value": 78.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Zay Flowers",
+    "year": 2023,
+    "value": 77.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "Mark Andrews",
+    "year": 2021,
+    "value": 1361.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Zay Flowers",
+    "year": 2025,
+    "value": 1211.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Torrey Smith",
+    "year": 2013,
+    "value": 1128.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Derrick Mason",
+    "year": 2007,
+    "value": 1087.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Derrick Mason",
+    "year": 2005,
+    "value": 1073.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Steve Smith",
+    "year": 2014,
+    "value": 1065.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Qadry Ismail",
+    "year": 1999,
+    "value": 1059.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Zay Flowers",
+    "year": 2024,
+    "value": 1059.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Qadry Ismail",
+    "year": 2001,
+    "value": 1059.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Derrick Mason",
+    "year": 2008,
+    "value": 1037.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Mark Andrews",
+    "year": 2024,
+    "value": 11.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Torrey Smith",
+    "year": 2014,
+    "value": 11.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Mark Andrews",
+    "year": 2019,
+    "value": 10.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Rashod Bateman",
+    "year": 2024,
+    "value": 9.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Mark Andrews",
+    "year": 2021,
+    "value": 9.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Torrey Smith",
+    "year": 2012,
+    "value": 8.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marquise Brown",
+    "year": 2020,
+    "value": 8.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Derrick Mason",
+    "year": 2010,
+    "value": 7.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Todd Heap",
+    "year": 2005,
+    "value": 7.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Qadry Ismail",
+    "year": 2001,
+    "value": 7.0,
+    "pos": "WR"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "Elvis Dumervil",
+    "year": 2014,
+    "value": 17.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Peter Boulware",
+    "year": 2001,
+    "value": 15.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Terrell Suggs",
+    "year": 2011,
+    "value": 14.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Nnamdi Madubuike",
+    "year": 2023,
+    "value": 13.0,
+    "pos": "DT"
+   },
+   {
+    "player": "Kyle Van Noy",
+    "year": 2024,
+    "value": 12.5,
+    "pos": "MLB"
+   },
+   {
+    "player": "Trevor Pryce",
+    "year": 2006,
+    "value": 12.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Terrell Suggs",
+    "year": 2014,
+    "value": 12.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Michael McCrary",
+    "year": 1999,
+    "value": 11.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Adalius Thomas",
+    "year": 2006,
+    "value": 11.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Terrell Suggs",
+    "year": 2010,
+    "value": 11.0,
+    "pos": "OLB"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Ed Reed",
+    "year": 2004,
+    "value": 9.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Ed Reed",
+    "year": 2008,
+    "value": 9.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Ed Reed",
+    "year": 2010,
+    "value": 8.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Ed Reed",
+    "year": 2003,
+    "value": 7.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Ed Reed",
+    "year": 2007,
+    "value": 7.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Rod Woodson",
+    "year": 1999,
+    "value": 7.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Geno Stone",
+    "year": 2023,
+    "value": 7.0,
+    "pos": "SAF"
+   },
+   {
+    "player": "Ray Lewis",
+    "year": 2003,
+    "value": 6.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Duane Starks",
+    "year": 2000,
+    "value": 6.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Eric Weddle",
+    "year": 2017,
+    "value": 6.0,
+    "pos": "FS"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "Ray Lewis",
+    "year": 1999,
+    "value": 95.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "C.J. Mosley",
+    "year": 2017,
+    "value": 94.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Ray Lewis",
+    "year": 2003,
+    "value": 94.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Ray Lewis",
+    "year": 2000,
+    "value": 90.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Zach Orr",
+    "year": 2016,
+    "value": 86.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "C.J. Mosley",
+    "year": 2014,
+    "value": 86.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Roquan Smith",
+    "year": 2022,
+    "value": 84.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Ray Lewis",
+    "year": 2001,
+    "value": 80.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Edgerton Hartwell",
+    "year": 2002,
+    "value": 79.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Roquan Smith",
+    "year": 2025,
+    "value": 74.0,
+    "pos": "ILB"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "Justin Tucker",
+    "year": 2013,
+    "value": 38.0,
+    "pos": "K"
+   },
+   {
+    "player": "Justin Tucker",
+    "year": 2016,
+    "value": 38.0,
+    "pos": "K"
+   },
+   {
+    "player": "Justin Tucker",
+    "year": 2022,
+    "value": 37.0,
+    "pos": "K"
+   },
+   {
+    "player": "Justin Tucker",
+    "year": 2018,
+    "value": 35.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Stover",
+    "year": 2000,
+    "value": 35.0,
+    "pos": "K"
+   },
+   {
+    "player": "Justin Tucker",
+    "year": 2021,
+    "value": 35.0,
+    "pos": "K"
+   },
+   {
+    "player": "Justin Tucker",
+    "year": 2017,
+    "value": 34.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Stover",
+    "year": 2003,
+    "value": 33.0,
+    "pos": "K"
+   },
+   {
+    "player": "Justin Tucker",
+    "year": 2015,
+    "value": 33.0,
+    "pos": "K"
+   },
+   {
+    "player": "Justin Tucker",
+    "year": 2023,
+    "value": 32.0,
+    "pos": "K"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Justin Tucker",
+    "year": 2024,
+    "value": 60.0,
+    "pos": "K"
+   },
+   {
+    "player": "Justin Tucker",
+    "year": 2019,
+    "value": 57.0,
+    "pos": "K"
+   },
+   {
+    "player": "Justin Tucker",
+    "year": 2020,
+    "value": 52.0,
+    "pos": "K"
+   },
+   {
+    "player": "Justin Tucker",
+    "year": 2023,
+    "value": 51.0,
+    "pos": "K"
+   },
+   {
+    "player": "Tyler Loop",
+    "year": 2025,
+    "value": 44.0,
+    "pos": "K"
+   },
+   {
+    "player": "Justin Tucker",
+    "year": 2012,
+    "value": 42.0,
+    "pos": "K"
+   },
+   {
+    "player": "Justin Tucker",
+    "year": 2014,
+    "value": 42.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Stover",
+    "year": 2008,
+    "value": 41.0,
+    "pos": "K"
+   },
+   {
+    "player": "Justin Tucker",
+    "year": 2017,
+    "value": 39.0,
+    "pos": "K"
+   },
+   {
+    "player": "Billy Cundiff",
+    "year": 2010,
+    "value": 39.0,
+    "pos": "K"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "Roquan Smith",
+    "year": 2022,
+    "value": 150.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Roquan Smith",
+    "year": 2023,
+    "value": 148.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Roquan Smith",
+    "year": 2024,
+    "value": 144.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Ray Lewis",
+    "year": 2003,
+    "value": 136.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "C.J. Mosley",
+    "year": 2014,
+    "value": 131.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "C.J. Mosley",
+    "year": 2017,
+    "value": 130.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Ray Lewis",
+    "year": 1999,
+    "value": 130.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Roquan Smith",
+    "year": 2025,
+    "value": 128.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Ray Lewis",
+    "year": 2001,
+    "value": 128.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Zach Orr",
+    "year": 2016,
+    "value": 127.0,
+    "pos": "ILB"
+   }
+  ]
+ },
+ "career_leaders_1999_2025": {
+  "Passing yards": [
+   {
+    "player": "Joe Flacco",
+    "value": 38245.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Lamar Jackson",
+    "value": 22608.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kyle Boller",
+    "value": 7846.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Steve McNair",
+    "value": 4163.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tony Banks",
+    "value": 3714.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Elvis Grbac",
+    "value": 3033.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Anthony Wright",
+    "value": 2781.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tyler Huntley",
+    "value": 2383.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jeff Blake",
+    "value": 2084.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Trent Dilfer",
+    "value": 1502.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Joe Flacco",
+    "value": 212.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Lamar Jackson",
+    "value": 187.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kyle Boller",
+    "value": 45.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tony Banks",
+    "value": 25.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Steve McNair",
+    "value": 18.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Elvis Grbac",
+    "value": 15.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Anthony Wright",
+    "value": 15.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jeff Blake",
+    "value": 13.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Trent Dilfer",
+    "value": 12.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tyler Huntley",
+    "value": 10.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "Jamal Lewis",
+    "value": 7798.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Lamar Jackson",
+    "value": 6522.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ray Rice",
+    "value": 6180.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Derrick Henry",
+    "value": 3516.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Gus Edwards",
+    "value": 3395.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Willis McGahee",
+    "value": 2802.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Justin Forsett",
+    "value": 1907.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Chester Taylor",
+    "value": 1599.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Alex Collins",
+    "value": 1384.0,
+    "pos": "RB"
+   },
+   {
+    "player": "J.K. Dobbins",
+    "value": 1347.0,
+    "pos": "RB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "Jamal Lewis",
+    "value": 45.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ray Rice",
+    "value": 37.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Lamar Jackson",
+    "value": 35.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Derrick Henry",
+    "value": 32.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Willis McGahee",
+    "value": 31.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Gus Edwards",
+    "value": 26.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Joe Flacco",
+    "value": 16.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Alex Collins",
+    "value": 13.0,
+    "pos": "RB"
+   },
+   {
+    "player": "J.K. Dobbins",
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Le'Ron McClain",
+    "value": 12.0,
+    "pos": "FB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Mark Andrews",
+    "value": 484.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Derrick Mason",
+    "value": 471.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Todd Heap",
+    "value": 467.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Ray Rice",
+    "value": 369.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Zay Flowers",
+    "value": 237.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Mark Clayton",
+    "value": 234.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dennis Pitta",
+    "value": 224.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Torrey Smith",
+    "value": 213.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Travis Taylor",
+    "value": 204.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Steve Smith",
+    "value": 195.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "Mark Andrews",
+    "value": 5952.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Derrick Mason",
+    "value": 5777.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Todd Heap",
+    "value": 5492.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Torrey Smith",
+    "value": 3591.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Zay Flowers",
+    "value": 3128.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Mark Clayton",
+    "value": 3116.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Ray Rice",
+    "value": 3034.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Qadry Ismail",
+    "value": 2773.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Travis Taylor",
+    "value": 2758.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Anquan Boldin",
+    "value": 2645.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Mark Andrews",
+    "value": 56.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Todd Heap",
+    "value": 41.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Torrey Smith",
+    "value": 30.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Derrick Mason",
+    "value": 29.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marquise Brown",
+    "value": 21.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Qadry Ismail",
+    "value": 18.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Rashod Bateman",
+    "value": 15.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Isaiah Likely",
+    "value": 15.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Travis Taylor",
+    "value": 15.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Zay Flowers",
+    "value": 14.0,
+    "pos": "WR"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "Terrell Suggs",
+    "value": 131.5,
+    "pos": "OLB"
+   },
+   {
+    "player": "Peter Boulware",
+    "value": 50.5,
+    "pos": "LB"
+   },
+   {
+    "player": "Adalius Thomas",
+    "value": 38.5,
+    "pos": "OLB"
+   },
+   {
+    "player": "Elvis Dumervil",
+    "value": 35.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Matthew Judon",
+    "value": 34.5,
+    "pos": "OLB"
+   },
+   {
+    "player": "Ray Lewis",
+    "value": 31.5,
+    "pos": "ILB"
+   },
+   {
+    "player": "Nnamdi Madubuike",
+    "value": 30.0,
+    "pos": "DT"
+   },
+   {
+    "player": "Michael McCrary",
+    "value": 27.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Trevor Pryce",
+    "value": 25.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Haloti Ngata",
+    "value": 25.5,
+    "pos": "DT"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Ed Reed",
+    "value": 61.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Ray Lewis",
+    "value": 26.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Chris McAlister",
+    "value": 25.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Marlon Humphrey",
+    "value": 23.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Duane Starks",
+    "value": 15.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Lardarius Webb",
+    "value": 15.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Jimmy Smith",
+    "value": 14.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Rod Woodson",
+    "value": 14.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Marcus Peters",
+    "value": 10.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Eric Weddle",
+    "value": 10.0,
+    "pos": "FS"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "Ray Lewis",
+    "value": 908.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Terrell Suggs",
+    "value": 463.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Ed Reed",
+    "value": 423.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Marlon Humphrey",
+    "value": 386.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Lardarius Webb",
+    "value": 378.0,
+    "pos": "FS"
+   },
+   {
+    "player": "C.J. Mosley",
+    "value": 371.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Chris McAlister",
+    "value": 359.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Jimmy Smith",
+    "value": 313.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Roquan Smith",
+    "value": 303.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Patrick Queen",
+    "value": 256.0,
+    "pos": "LB"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "Justin Tucker",
+    "value": 417.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Stover",
+    "value": 287.0,
+    "pos": "K"
+   },
+   {
+    "player": "Billy Cundiff",
+    "value": 72.0,
+    "pos": "K"
+   },
+   {
+    "player": "Tyler Loop",
+    "value": 30.0,
+    "pos": "K"
+   },
+   {
+    "player": "Steven Hauschka",
+    "value": 10.0,
+    "pos": "K"
+   },
+   {
+    "player": "Shayne Graham",
+    "value": 6.0,
+    "pos": "K"
+   },
+   {
+    "player": "Wade Richey",
+    "value": 1.0,
+    "pos": "K"
+   },
+   {
+    "player": "Marquise Brown",
+    "value": 0.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marshal Yanda",
+    "value": 0.0,
+    "pos": "G"
+   },
+   {
+    "player": "Martin Chase",
+    "value": 0.0,
+    "pos": "DT"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Justin Tucker",
+    "value": 524.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Stover",
+    "value": 311.0,
+    "pos": "K"
+   },
+   {
+    "player": "Billy Cundiff",
+    "value": 100.0,
+    "pos": "K"
+   },
+   {
+    "player": "Tyler Loop",
+    "value": 44.0,
+    "pos": "K"
+   },
+   {
+    "player": "Steven Hauschka",
+    "value": 27.0,
+    "pos": "K"
+   },
+   {
+    "player": "Shayne Graham",
+    "value": 8.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Willis",
+    "value": 0.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Matthew Judon",
+    "value": 0.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Matt Skura",
+    "value": 0.0,
+    "pos": "C"
+   },
+   {
+    "player": "Matt Schaub",
+    "value": 0.0,
+    "pos": "QB"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "Ray Lewis",
+    "value": 1335.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Terrell Suggs",
+    "value": 708.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Roquan Smith",
+    "value": 570.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "C.J. Mosley",
+    "value": 563.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Ed Reed",
+    "value": 524.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Marlon Humphrey",
+    "value": 488.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Lardarius Webb",
+    "value": 445.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Patrick Queen",
+    "value": 413.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Chris McAlister",
+    "value": 405.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Kelly Gregg",
+    "value": 377.0,
+    "pos": "NT"
+   }
+  ]
+ }
+}

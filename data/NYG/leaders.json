@@ -1,0 +1,1489 @@
+{
+ "source": "Computed from nflverse stats_player regular-season files (1999\u20132025), github.com/nflverse/nflverse-data releases/stats_player \u2014 SINGLE-SOURCE computed. Coverage: regular season 1999\u20132025 only; NOT all-time (pre-1999 excluded), NOT playoffs. Franchise mapping for relocated teams applied by season/code.",
+ "season_leaders": {
+  "Passing yards": [
+   {
+    "player": "Eli Manning",
+    "year": 2011,
+    "value": 4933.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Eli Manning",
+    "year": 2015,
+    "value": 4432.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Eli Manning",
+    "year": 2014,
+    "value": 4410.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Eli Manning",
+    "year": 2018,
+    "value": 4299.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kerry Collins",
+    "year": 2002,
+    "value": 4073.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Eli Manning",
+    "year": 2016,
+    "value": 4027.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Eli Manning",
+    "year": 2009,
+    "value": 4021.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Eli Manning",
+    "year": 2010,
+    "value": 4002.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Eli Manning",
+    "year": 2012,
+    "value": 3948.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Eli Manning",
+    "year": 2013,
+    "value": 3818.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Eli Manning",
+    "year": 2015,
+    "value": 35.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Eli Manning",
+    "year": 2010,
+    "value": 31.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Eli Manning",
+    "year": 2014,
+    "value": 30.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Eli Manning",
+    "year": 2011,
+    "value": 29.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Eli Manning",
+    "year": 2009,
+    "value": 27.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Eli Manning",
+    "year": 2016,
+    "value": 26.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Eli Manning",
+    "year": 2012,
+    "value": 26.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Eli Manning",
+    "year": 2005,
+    "value": 24.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Eli Manning",
+    "year": 2006,
+    "value": 24.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Daniel Jones",
+    "year": 2019,
+    "value": 24.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "Tiki Barber",
+    "year": 2005,
+    "value": 1860.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tiki Barber",
+    "year": 2006,
+    "value": 1662.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tiki Barber",
+    "year": 2004,
+    "value": 1518.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tiki Barber",
+    "year": 2002,
+    "value": 1387.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Saquon Barkley",
+    "year": 2022,
+    "value": 1312.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Saquon Barkley",
+    "year": 2018,
+    "value": 1307.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ahmad Bradshaw",
+    "year": 2010,
+    "value": 1235.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tiki Barber",
+    "year": 2003,
+    "value": 1215.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Brandon Jacobs",
+    "year": 2008,
+    "value": 1089.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Derrick Ward",
+    "year": 2008,
+    "value": 1025.0,
+    "pos": "RB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "Brandon Jacobs",
+    "year": 2008,
+    "value": 15.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tiki Barber",
+    "year": 2004,
+    "value": 13.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tiki Barber",
+    "year": 2002,
+    "value": 11.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Saquon Barkley",
+    "year": 2018,
+    "value": 11.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Saquon Barkley",
+    "year": 2022,
+    "value": 10.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ahmad Bradshaw",
+    "year": 2011,
+    "value": 9.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Brandon Jacobs",
+    "year": 2006,
+    "value": 9.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tiki Barber",
+    "year": 2005,
+    "value": 9.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Brandon Jacobs",
+    "year": 2010,
+    "value": 9.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jaxson Dart",
+    "year": 2025,
+    "value": 9.0,
+    "pos": "QB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Malik Nabers",
+    "year": 2024,
+    "value": 109.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Steve Smith",
+    "year": 2009,
+    "value": 107.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Odell Beckham Jr.",
+    "year": 2016,
+    "value": 101.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Odell Beckham Jr.",
+    "year": 2015,
+    "value": 96.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Wan'Dale Robinson",
+    "year": 2024,
+    "value": 93.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Wan'Dale Robinson",
+    "year": 2025,
+    "value": 92.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Odell Beckham Jr.",
+    "year": 2014,
+    "value": 91.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Saquon Barkley",
+    "year": 2018,
+    "value": 91.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Victor Cruz",
+    "year": 2012,
+    "value": 86.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Amani Toomer",
+    "year": 2002,
+    "value": 82.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "Victor Cruz",
+    "year": 2011,
+    "value": 1536.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Odell Beckham Jr.",
+    "year": 2015,
+    "value": 1450.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Odell Beckham Jr.",
+    "year": 2016,
+    "value": 1367.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Amani Toomer",
+    "year": 2002,
+    "value": 1343.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Odell Beckham Jr.",
+    "year": 2014,
+    "value": 1305.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Steve Smith",
+    "year": 2009,
+    "value": 1220.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Plaxico Burress",
+    "year": 2005,
+    "value": 1214.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Malik Nabers",
+    "year": 2024,
+    "value": 1204.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Hakeem Nicks",
+    "year": 2011,
+    "value": 1192.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Amani Toomer",
+    "year": 1999,
+    "value": 1183.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Odell Beckham Jr.",
+    "year": 2015,
+    "value": 13.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Odell Beckham Jr.",
+    "year": 2014,
+    "value": 12.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Plaxico Burress",
+    "year": 2007,
+    "value": 12.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Hakeem Nicks",
+    "year": 2010,
+    "value": 11.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Victor Cruz",
+    "year": 2012,
+    "value": 10.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Plaxico Burress",
+    "year": 2006,
+    "value": 10.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Odell Beckham Jr.",
+    "year": 2016,
+    "value": 10.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Victor Cruz",
+    "year": 2011,
+    "value": 9.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Mario Manningham",
+    "year": 2010,
+    "value": 9.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Amani Toomer",
+    "year": 2002,
+    "value": 8.0,
+    "pos": "WR"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "Michael Strahan",
+    "year": 2001,
+    "value": 22.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Michael Strahan",
+    "year": 2003,
+    "value": 18.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Brian Burns",
+    "year": 2025,
+    "value": 16.5,
+    "pos": "LB"
+   },
+   {
+    "player": "Jason Pierre-Paul",
+    "year": 2011,
+    "value": 16.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Osi Umenyiora",
+    "year": 2005,
+    "value": 14.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Osi Umenyiora",
+    "year": 2007,
+    "value": 14.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Justin Tuck",
+    "year": 2008,
+    "value": 13.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Jason Pierre-Paul",
+    "year": 2014,
+    "value": 12.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Osi Umenyiora",
+    "year": 2010,
+    "value": 11.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Justin Tuck",
+    "year": 2010,
+    "value": 11.5,
+    "pos": "DE"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Stevie Brown",
+    "year": 2012,
+    "value": 8.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Emmanuel McDaniel",
+    "year": 2000,
+    "value": 6.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Percy Ellsworth",
+    "year": 1999,
+    "value": 6.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Antrel Rolle",
+    "year": 2013,
+    "value": 6.0,
+    "pos": "S"
+   },
+   {
+    "player": "Dominique Rodgers-Cromartie",
+    "year": 2016,
+    "value": 6.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Corey Webster",
+    "year": 2011,
+    "value": 6.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Terrell Thomas",
+    "year": 2009,
+    "value": 5.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Alec Ogletree",
+    "year": 2018,
+    "value": 5.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Terrell Thomas",
+    "year": 2010,
+    "value": 5.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Landon Collins",
+    "year": 2016,
+    "value": 5.0,
+    "pos": "LB"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "Landon Collins",
+    "year": 2016,
+    "value": 86.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Bobby Okereke",
+    "year": 2023,
+    "value": 84.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Antonio Pierce",
+    "year": 2006,
+    "value": 81.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Micheal Barrow",
+    "year": 2003,
+    "value": 80.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Gibril Wilson",
+    "year": 2005,
+    "value": 75.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Blake Martinez",
+    "year": 2020,
+    "value": 75.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Bobby Okereke",
+    "year": 2025,
+    "value": 75.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Antrel Rolle",
+    "year": 2011,
+    "value": 73.0,
+    "pos": "S"
+   },
+   {
+    "player": "Antoine Bethea",
+    "year": 2019,
+    "value": 72.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Terrell Thomas",
+    "year": 2010,
+    "value": 69.0,
+    "pos": "CB"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "John Carney",
+    "year": 2008,
+    "value": 35.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jay Feely",
+    "year": 2005,
+    "value": 35.0,
+    "pos": "K"
+   },
+   {
+    "player": "Lawrence Tynes",
+    "year": 2012,
+    "value": 33.0,
+    "pos": "K"
+   },
+   {
+    "player": "Aldrick Rosas",
+    "year": 2018,
+    "value": 32.0,
+    "pos": "K"
+   },
+   {
+    "player": "Graham Gano",
+    "year": 2020,
+    "value": 31.0,
+    "pos": "K"
+   },
+   {
+    "player": "Josh Brown",
+    "year": 2015,
+    "value": 30.0,
+    "pos": "K"
+   },
+   {
+    "player": "Graham Gano",
+    "year": 2021,
+    "value": 29.0,
+    "pos": "K"
+   },
+   {
+    "player": "Graham Gano",
+    "year": 2022,
+    "value": 29.0,
+    "pos": "K"
+   },
+   {
+    "player": "Lawrence Tynes",
+    "year": 2009,
+    "value": 27.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Bryant",
+    "year": 2002,
+    "value": 26.0,
+    "pos": "K"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Lawrence Tynes",
+    "year": 2012,
+    "value": 46.0,
+    "pos": "K"
+   },
+   {
+    "player": "Lawrence Tynes",
+    "year": 2009,
+    "value": 45.0,
+    "pos": "K"
+   },
+   {
+    "player": "Josh Brown",
+    "year": 2014,
+    "value": 44.0,
+    "pos": "K"
+   },
+   {
+    "player": "Josh Brown",
+    "year": 2015,
+    "value": 44.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jay Feely",
+    "year": 2005,
+    "value": 43.0,
+    "pos": "K"
+   },
+   {
+    "player": "Lawrence Tynes",
+    "year": 2010,
+    "value": 43.0,
+    "pos": "K"
+   },
+   {
+    "player": "Lawrence Tynes",
+    "year": 2011,
+    "value": 43.0,
+    "pos": "K"
+   },
+   {
+    "player": "Lawrence Tynes",
+    "year": 2007,
+    "value": 40.0,
+    "pos": "K"
+   },
+   {
+    "player": "John Carney",
+    "year": 2008,
+    "value": 38.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jay Feely",
+    "year": 2006,
+    "value": 38.0,
+    "pos": "K"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "Bobby Okereke",
+    "year": 2023,
+    "value": 141.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Blake Martinez",
+    "year": 2020,
+    "value": 140.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Bobby Okereke",
+    "year": 2025,
+    "value": 140.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Dane Belton",
+    "year": 2025,
+    "value": 120.0,
+    "pos": "SAF"
+   },
+   {
+    "player": "Tae Crowder",
+    "year": 2021,
+    "value": 119.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Micheal Barrow",
+    "year": 2003,
+    "value": 117.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Julian Love",
+    "year": 2022,
+    "value": 112.0,
+    "pos": "SAF"
+   },
+   {
+    "player": "Antonio Pierce",
+    "year": 2006,
+    "value": 111.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Landon Collins",
+    "year": 2016,
+    "value": 111.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Micheal Barrow",
+    "year": 2001,
+    "value": 106.0,
+    "pos": "LB"
+   }
+  ]
+ },
+ "career_leaders_1999_2025": {
+  "Passing yards": [
+   {
+    "player": "Eli Manning",
+    "value": 57023.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kerry Collins",
+    "value": 16875.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Daniel Jones",
+    "value": 14582.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jaxson Dart",
+    "value": 2272.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kurt Warner",
+    "value": 2054.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kent Graham",
+    "value": 1697.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tyrod Taylor",
+    "value": 1399.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tommy DeVito",
+    "value": 1358.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Drew Lock",
+    "value": 1071.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Russell Wilson",
+    "value": 831.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Eli Manning",
+    "value": 366.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kerry Collins",
+    "value": 81.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Daniel Jones",
+    "value": 70.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jaxson Dart",
+    "value": 15.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kent Graham",
+    "value": 9.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tommy DeVito",
+    "value": 8.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tyrod Taylor",
+    "value": 6.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kurt Warner",
+    "value": 6.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Drew Lock",
+    "value": 6.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Mike Glennon",
+    "value": 4.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "Tiki Barber",
+    "value": 9771.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Saquon Barkley",
+    "value": 5211.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Brandon Jacobs",
+    "value": 5089.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ahmad Bradshaw",
+    "value": 4232.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Daniel Jones",
+    "value": 2179.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Rashad Jennings",
+    "value": 2095.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ron Dayne",
+    "value": 2067.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Derrick Ward",
+    "value": 1750.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tyrone Tracy Jr.",
+    "value": 1579.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Wayne Gallman",
+    "value": 1444.0,
+    "pos": "RB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "Brandon Jacobs",
+    "value": 60.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tiki Barber",
+    "value": 52.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Saquon Barkley",
+    "value": 35.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ahmad Bradshaw",
+    "value": 32.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ron Dayne",
+    "value": 16.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Daniel Jones",
+    "value": 15.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Andre Brown",
+    "value": 11.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Rashad Jennings",
+    "value": 10.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jaxson Dart",
+    "value": 9.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Orleans Darkwa",
+    "value": 9.0,
+    "pos": "RB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Amani Toomer",
+    "value": 624.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Tiki Barber",
+    "value": 510.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Odell Beckham Jr.",
+    "value": 390.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Sterling Shepard",
+    "value": 372.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jeremy Shockey",
+    "value": 372.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Hakeem Nicks",
+    "value": 318.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Ike Hilliard",
+    "value": 315.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Victor Cruz",
+    "value": 303.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Darius Slayton",
+    "value": 296.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Saquon Barkley",
+    "value": 288.0,
+    "pos": "RB"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "Amani Toomer",
+    "value": 8862.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Odell Beckham Jr.",
+    "value": 5476.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Hakeem Nicks",
+    "value": 4676.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Victor Cruz",
+    "value": 4549.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Tiki Barber",
+    "value": 4536.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Darius Slayton",
+    "value": 4435.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jeremy Shockey",
+    "value": 4255.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Sterling Shepard",
+    "value": 4095.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Ike Hilliard",
+    "value": 3873.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Plaxico Burress",
+    "value": 3681.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Amani Toomer",
+    "value": 48.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Odell Beckham Jr.",
+    "value": 44.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Plaxico Burress",
+    "value": 33.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Hakeem Nicks",
+    "value": 27.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jeremy Shockey",
+    "value": 27.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Victor Cruz",
+    "value": 25.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Ike Hilliard",
+    "value": 25.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Sterling Shepard",
+    "value": 23.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Darius Slayton",
+    "value": 22.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Rueben Randle",
+    "value": 20.0,
+    "pos": "WR"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "Michael Strahan",
+    "value": 94.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Osi Umenyiora",
+    "value": 75.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Justin Tuck",
+    "value": 62.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Jason Pierre-Paul",
+    "value": 58.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Mathias Kiwanuka",
+    "value": 39.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Dexter Lawrence",
+    "value": 30.5,
+    "pos": "DT"
+   },
+   {
+    "player": "Brian Burns",
+    "value": 25.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Fred Robbins",
+    "value": 23.5,
+    "pos": "DT"
+   },
+   {
+    "player": "Kayvon Thibodeaux",
+    "value": 23.5,
+    "pos": "LB"
+   },
+   {
+    "player": "Olivier Vernon",
+    "value": 22.0,
+    "pos": "DE"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Corey Webster",
+    "value": 20.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Antrel Rolle",
+    "value": 14.0,
+    "pos": "S"
+   },
+   {
+    "player": "Terrell Thomas",
+    "value": 12.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Dominique Rodgers-Cromartie",
+    "value": 11.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Shaun Williams",
+    "value": 11.0,
+    "pos": "S"
+   },
+   {
+    "player": "Aaron Ross",
+    "value": 11.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Gibril Wilson",
+    "value": 11.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Landon Collins",
+    "value": 9.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Xavier McKinney",
+    "value": 9.0,
+    "pos": "SAF"
+   },
+   {
+    "player": "Janoris Jenkins",
+    "value": 8.0,
+    "pos": "CB"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "Michael Strahan",
+    "value": 312.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Antrel Rolle",
+    "value": 311.0,
+    "pos": "S"
+   },
+   {
+    "player": "Corey Webster",
+    "value": 292.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Landon Collins",
+    "value": 282.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Antonio Pierce",
+    "value": 271.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Micheal Barrow",
+    "value": 241.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Justin Tuck",
+    "value": 237.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Will Allen",
+    "value": 231.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Shaun Williams",
+    "value": 230.0,
+    "pos": "S"
+   },
+   {
+    "player": "Gibril Wilson",
+    "value": 224.0,
+    "pos": "DB"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "Lawrence Tynes",
+    "value": 122.0,
+    "pos": "K"
+   },
+   {
+    "player": "Graham Gano",
+    "value": 118.0,
+    "pos": "K"
+   },
+   {
+    "player": "Josh Brown",
+    "value": 88.0,
+    "pos": "K"
+   },
+   {
+    "player": "Aldrick Rosas",
+    "value": 62.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jay Feely",
+    "value": 58.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Bryant",
+    "value": 37.0,
+    "pos": "K"
+   },
+   {
+    "player": "John Carney",
+    "value": 35.0,
+    "pos": "K"
+   },
+   {
+    "player": "Brad Daluiso",
+    "value": 24.0,
+    "pos": "K"
+   },
+   {
+    "player": "Morten Andersen",
+    "value": 23.0,
+    "pos": "K"
+   },
+   {
+    "player": "Steve Christie",
+    "value": 22.0,
+    "pos": "K"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Lawrence Tynes",
+    "value": 220.0,
+    "pos": "K"
+   },
+   {
+    "player": "Josh Brown",
+    "value": 128.0,
+    "pos": "K"
+   },
+   {
+    "player": "Graham Gano",
+    "value": 102.0,
+    "pos": "K"
+   },
+   {
+    "player": "Aldrick Rosas",
+    "value": 86.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jay Feely",
+    "value": 81.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Bryant",
+    "value": 47.0,
+    "pos": "K"
+   },
+   {
+    "player": "Brad Daluiso",
+    "value": 43.0,
+    "pos": "K"
+   },
+   {
+    "player": "John Carney",
+    "value": 38.0,
+    "pos": "K"
+   },
+   {
+    "player": "Steve Christie",
+    "value": 33.0,
+    "pos": "K"
+   },
+   {
+    "player": "Morten Andersen",
+    "value": 29.0,
+    "pos": "K"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "Michael Strahan",
+    "value": 434.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Landon Collins",
+    "value": 398.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Antrel Rolle",
+    "value": 393.0,
+    "pos": "S"
+   },
+   {
+    "player": "Antonio Pierce",
+    "value": 384.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Micheal Barrow",
+    "value": 381.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Justin Tuck",
+    "value": 368.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Bobby Okereke",
+    "value": 366.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Jason Pierre-Paul",
+    "value": 338.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Corey Webster",
+    "value": 333.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Mathias Kiwanuka",
+    "value": 322.0,
+    "pos": "DE"
+   }
+  ]
+ }
+}

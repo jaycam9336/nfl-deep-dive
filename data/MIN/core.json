@@ -1,0 +1,2061 @@
+{
+ "meta": {
+  "source": "ESPN public API (site.api.espn.com) \u2014 teams, depthcharts, roster, injuries",
+  "fetched_at_ct": "Oct 19, 2026 12:31 AM CT",
+  "fetched_at_utc": "2026-10-19T05:31:47.369377+00:00",
+  "season": "2026"
+ },
+ "depth": [
+  {
+   "name": "Base 3-4 D",
+   "positions": [
+    {
+     "pos": "LDE",
+     "name": "LDE",
+     "athletes": [
+      {
+       "id": "5093973",
+       "name": "Levi Drake Rodriguez",
+       "rank": null,
+       "pos": "LDE",
+       "jersey": "50",
+       "injuries": []
+      },
+      {
+       "id": "4696782",
+       "name": "Elijah Williams",
+       "rank": null,
+       "pos": "LDE",
+       "jersey": "99",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "NT",
+     "name": "NT",
+     "athletes": [
+      {
+       "id": "4602019",
+       "name": "Caleb Banks",
+       "rank": null,
+       "pos": "NT",
+       "jersey": "95",
+       "injuries": []
+      },
+      {
+       "id": "4698728",
+       "name": "Domonique Orange",
+       "rank": null,
+       "pos": "NT",
+       "jersey": "97",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "RDE",
+     "name": "RDE",
+     "athletes": [
+      {
+       "id": "4360277",
+       "name": "Jalen Redmond",
+       "rank": null,
+       "pos": "RDE",
+       "jersey": "61",
+       "injuries": []
+      },
+      {
+       "id": "4629149",
+       "name": "Tyrion Ingram-Dawkins",
+       "rank": null,
+       "pos": "RDE",
+       "jersey": "90",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "WLB",
+     "name": "WLB",
+     "athletes": [
+      {
+       "id": "3133487",
+       "name": "Andrew Van Ginkel",
+       "rank": null,
+       "pos": "WLB",
+       "jersey": "43",
+       "injuries": []
+      },
+      {
+       "id": "16772",
+       "name": "Kyle Van Noy",
+       "rank": null,
+       "pos": "WLB",
+       "jersey": "17",
+       "injuries": []
+      },
+      {
+       "id": "4875564",
+       "name": "Bo Richter",
+       "rank": null,
+       "pos": "WLB",
+       "jersey": "98",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "LILB",
+     "name": "LILB",
+     "athletes": [
+      {
+       "id": "3056916",
+       "name": "Eric Wilson",
+       "rank": null,
+       "pos": "LILB",
+       "jersey": "55",
+       "injuries": []
+      },
+      {
+       "id": "4877652",
+       "name": "Jake Golday",
+       "rank": null,
+       "pos": "LILB",
+       "jersey": "41",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "RILB",
+     "name": "RILB",
+     "athletes": [
+      {
+       "id": "3728281",
+       "name": "Blake Cashman",
+       "rank": null,
+       "pos": "RILB",
+       "jersey": "51",
+       "injuries": []
+      },
+      {
+       "id": "4430280",
+       "name": "Ivan Pace Jr.",
+       "rank": null,
+       "pos": "RILB",
+       "jersey": "0",
+       "injuries": []
+      },
+      {
+       "id": "3115373",
+       "name": "Jamal Adams",
+       "rank": null,
+       "pos": "RILB",
+       "jersey": "32",
+       "injuries": [
+        {
+         "status": "Injured Reserve",
+         "date": "2026-08-19T12:07Z"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "pos": "SLB",
+     "name": "SLB",
+     "athletes": [
+      {
+       "id": "4565190",
+       "name": "Dallas Turner",
+       "rank": null,
+       "pos": "SLB",
+       "jersey": "15",
+       "injuries": []
+      },
+      {
+       "id": "4431520",
+       "name": "Chaz Chambliss",
+       "rank": null,
+       "pos": "SLB",
+       "jersey": "32",
+       "injuries": []
+      },
+      {
+       "id": "4608794",
+       "name": "Tyler Batty",
+       "rank": null,
+       "pos": "SLB",
+       "jersey": "92",
+       "injuries": [
+        {
+         "status": "Injured Reserve",
+         "date": "2026-08-30T22:59Z"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "pos": "LCB",
+     "name": "LCB",
+     "athletes": [
+      {
+       "id": "4044540",
+       "name": "Isaiah Rodgers",
+       "rank": null,
+       "pos": "LCB",
+       "jersey": "2",
+       "injuries": []
+      },
+      {
+       "id": "5091793",
+       "name": "Charles Demmings",
+       "rank": null,
+       "pos": "LCB",
+       "jersey": "20",
+       "injuries": [
+        {
+         "status": "Questionable",
+         "date": "2026-10-13T17:10Z"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "pos": "SS",
+     "name": "SS",
+     "athletes": [
+      {
+       "id": "4046537",
+       "name": "Joshua Metellus",
+       "rank": null,
+       "pos": "SS",
+       "jersey": "44",
+       "injuries": []
+      },
+      {
+       "id": "4568007",
+       "name": "Jay Ward",
+       "rank": null,
+       "pos": "SS",
+       "jersey": "24",
+       "injuries": []
+      },
+      {
+       "id": "4710865",
+       "name": "Jakobe Thomas",
+       "rank": null,
+       "pos": "SS",
+       "jersey": "8",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "FS",
+     "name": "FS",
+     "athletes": [
+      {
+       "id": "14945",
+       "name": "Harrison Smith",
+       "rank": null,
+       "pos": "FS",
+       "jersey": "22",
+       "injuries": []
+      },
+      {
+       "id": "4242436",
+       "name": "Theo Jackson",
+       "rank": null,
+       "pos": "FS",
+       "jersey": "26",
+       "injuries": []
+      },
+      {
+       "id": "5082397",
+       "name": "Jacob Thomas",
+       "rank": null,
+       "pos": "FS",
+       "jersey": "29",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "RCB",
+     "name": "RCB",
+     "athletes": [
+      {
+       "id": "4259252",
+       "name": "James Pierre",
+       "rank": null,
+       "pos": "RCB",
+       "jersey": "23",
+       "injuries": []
+      },
+      {
+       "id": "4695609",
+       "name": "Zemaiah Vaughn",
+       "rank": null,
+       "pos": "RCB",
+       "jersey": "5",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "NB",
+     "name": "NB",
+     "athletes": [
+      {
+       "id": "4038999",
+       "name": "Byron Murphy Jr.",
+       "rank": null,
+       "pos": "NB",
+       "jersey": "7",
+       "injuries": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Special Teams",
+   "positions": [
+    {
+     "pos": "PK",
+     "name": "PK",
+     "athletes": [
+      {
+       "id": "4567104",
+       "name": "Will Reichard",
+       "rank": null,
+       "pos": "PK",
+       "jersey": "16",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "P",
+     "name": "P",
+     "athletes": [
+      {
+       "id": "4799994",
+       "name": "Brett Thorson",
+       "rank": null,
+       "pos": "P",
+       "jersey": "19",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "H",
+     "name": "H",
+     "athletes": [
+      {
+       "id": "4799994",
+       "name": "Brett Thorson",
+       "rank": null,
+       "pos": "H",
+       "jersey": "19",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "PR",
+     "name": "PR",
+     "athletes": [
+      {
+       "id": "4430656",
+       "name": "Myles Price",
+       "rank": null,
+       "pos": "PR",
+       "jersey": "4",
+       "injuries": []
+      },
+      {
+       "id": "4565185",
+       "name": "Tai Felton",
+       "rank": null,
+       "pos": "PR",
+       "jersey": "13",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "KR",
+     "name": "KR",
+     "athletes": [
+      {
+       "id": "4430656",
+       "name": "Myles Price",
+       "rank": null,
+       "pos": "KR",
+       "jersey": "4",
+       "injuries": []
+      },
+      {
+       "id": "4832846",
+       "name": "Demond Claiborne",
+       "rank": null,
+       "pos": "KR",
+       "jersey": "21",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "LS",
+     "name": "LS",
+     "athletes": [
+      {
+       "id": "15726",
+       "name": "Andrew DePaola",
+       "rank": null,
+       "pos": "LS",
+       "jersey": "42",
+       "injuries": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "3WR 1TE",
+   "positions": [
+    {
+     "pos": "WR1",
+     "name": "WR1",
+     "athletes": [
+      {
+       "id": "4262921",
+       "name": "Justin Jefferson",
+       "rank": null,
+       "pos": "WR1",
+       "jersey": "18",
+       "injuries": []
+      },
+      {
+       "id": "4565185",
+       "name": "Tai Felton",
+       "rank": null,
+       "pos": "WR1",
+       "jersey": "13",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "WR2",
+     "name": "WR2",
+     "athletes": [
+      {
+       "id": "4429205",
+       "name": "Jordan Addison",
+       "rank": null,
+       "pos": "WR2",
+       "jersey": "3",
+       "injuries": [
+        {
+         "status": "Questionable",
+         "date": "2026-10-13T17:10Z"
+        }
+       ]
+      },
+      {
+       "id": "4430656",
+       "name": "Myles Price",
+       "rank": null,
+       "pos": "WR2",
+       "jersey": "4",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "WR3",
+     "name": "WR3",
+     "athletes": [
+      {
+       "id": "3886598",
+       "name": "Jauan Jennings",
+       "rank": null,
+       "pos": "WR3",
+       "jersey": "14",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "LT",
+     "name": "LT",
+     "athletes": [
+      {
+       "id": "4361985",
+       "name": "Christian Darrisaw",
+       "rank": null,
+       "pos": "LT",
+       "jersey": "71",
+       "injuries": [
+        {
+         "status": "Questionable",
+         "date": "2026-10-13T17:10Z"
+        }
+       ]
+      },
+      {
+       "id": "4239140",
+       "name": "Ryan Van Demark",
+       "rank": null,
+       "pos": "LT",
+       "jersey": "72",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "LG",
+     "name": "LG",
+     "athletes": [
+      {
+       "id": "4690210",
+       "name": "Joe Huber",
+       "rank": null,
+       "pos": "LG",
+       "jersey": "60",
+       "injuries": []
+      },
+      {
+       "id": "4431553",
+       "name": "Donovan Jackson",
+       "rank": null,
+       "pos": "LG",
+       "jersey": "74",
+       "injuries": [
+        {
+         "status": "Injured Reserve",
+         "date": "2026-10-07T00:34Z"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "pos": "C",
+     "name": "C",
+     "athletes": [
+      {
+       "id": "3930270",
+       "name": "Blake Brandel",
+       "rank": null,
+       "pos": "C",
+       "jersey": "64",
+       "injuries": []
+      },
+      {
+       "id": "4690210",
+       "name": "Joe Huber",
+       "rank": null,
+       "pos": "C",
+       "jersey": "60",
+       "injuries": []
+      },
+      {
+       "id": "4362010",
+       "name": "Michael Jurgens",
+       "rank": null,
+       "pos": "C",
+       "jersey": "65",
+       "injuries": []
+      },
+      {
+       "id": "4428421",
+       "name": "Nick Samac",
+       "rank": null,
+       "pos": "C",
+       "jersey": "62",
+       "injuries": [
+        {
+         "status": "Injured Reserve",
+         "date": "2026-09-26T21:28Z"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "pos": "RG",
+     "name": "RG",
+     "athletes": [
+      {
+       "id": "4045176",
+       "name": "Will Fries",
+       "rank": null,
+       "pos": "RG",
+       "jersey": "76",
+       "injuries": []
+      },
+      {
+       "id": "4427140",
+       "name": "Trevor Keegan",
+       "rank": null,
+       "pos": "RG",
+       "jersey": "69",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "RT",
+     "name": "RT",
+     "athletes": [
+      {
+       "id": "3123954",
+       "name": "Brian O'Neill",
+       "rank": null,
+       "pos": "RT",
+       "jersey": "75",
+       "injuries": []
+      },
+      {
+       "id": "4592836",
+       "name": "Caleb Tiernan",
+       "rank": null,
+       "pos": "RT",
+       "jersey": "78",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "QB",
+     "name": "QB",
+     "athletes": [
+      {
+       "id": "3917315",
+       "name": "Kyler Murray",
+       "rank": null,
+       "pos": "QB",
+       "jersey": "1",
+       "injuries": []
+      },
+      {
+       "id": "2573079",
+       "name": "Carson Wentz",
+       "rank": null,
+       "pos": "QB",
+       "jersey": "11",
+       "injuries": []
+      },
+      {
+       "id": "4573398",
+       "name": "Max Brosmer",
+       "rank": null,
+       "pos": "QB",
+       "jersey": "12",
+       "injuries": []
+      }
+     ]
+    },
+    {
+     "pos": "TE",
+     "name": "TE",
+     "athletes": [
+      {
+       "id": "4036133",
+       "name": "T.J. Hockenson",
+       "rank": null,
+       "pos": "TE",
+       "jersey": "87",
+       "injuries": [
+        {
+         "status": "Questionable",
+         "date": "2026-10-11T17:42Z"
+        }
+       ]
+      },
+      {
+       "id": "4708049",
+       "name": "Gavin Bartholomew",
+       "rank": null,
+       "pos": "TE",
+       "jersey": "86",
+       "injuries": []
+      },
+      {
+       "id": "4433959",
+       "name": "Ben Yurosek",
+       "rank": null,
+       "pos": "TE",
+       "jersey": "85",
+       "injuries": []
+      },
+      {
+       "id": "3921690",
+       "name": "Josh Oliver",
+       "rank": null,
+       "pos": "TE",
+       "jersey": "84",
+       "injuries": [
+        {
+         "status": "Injured Reserve",
+         "date": "2026-09-30T00:26Z"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "pos": "RB",
+     "name": "RB",
+     "athletes": [
+      {
+       "id": "3042519",
+       "name": "Aaron Jones Sr.",
+       "rank": null,
+       "pos": "RB",
+       "jersey": "33",
+       "injuries": []
+      },
+      {
+       "id": "4240631",
+       "name": "DeeJay Dallas",
+       "rank": null,
+       "pos": "RB",
+       "jersey": "31",
+       "injuries": []
+      },
+      {
+       "id": "4832846",
+       "name": "Demond Claiborne",
+       "rank": null,
+       "pos": "RB",
+       "jersey": "21",
+       "injuries": []
+      },
+      {
+       "id": "4360569",
+       "name": "Jordan Mason",
+       "rank": null,
+       "pos": "RB",
+       "jersey": "27",
+       "injuries": [
+        {
+         "status": "Injured Reserve",
+         "date": "2026-10-15T16:29Z"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "pos": "FB",
+     "name": "FB",
+     "athletes": [
+      {
+       "id": "4878695",
+       "name": "Max Bredeson",
+       "rank": null,
+       "pos": "FB",
+       "jersey": "45",
+       "injuries": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "injuries": [
+  {
+   "id": "642561",
+   "name": "Jordan Mason",
+   "pos": "RB",
+   "status": "Injured Reserve",
+   "date": "2026-10-15T16:29Z",
+   "shortComment": "The Vikings are hopeful that Mason (thumb) will be ready to return from injured reserve for their Week 7 game versus the Colts, Jeremy Fowler of ESPN.com reports.",
+   "longComment": "Mason has already missed the required four games after landing on injured reserve following the Vikings' season-opening win over the Packers, and he'll get additional time to recover from thumb surgery while the team is on bye Week 6. Assuming that Mason's thumb has healed as expected following the five-week absence, he'll likely be designated for return from IR and resume practicing coming out of the bye. Aaron Jones has shouldered the load out of the Minnesota backfield over the past four games, but Mason should reclaim the bulk of the snaps on early downs once he's reinstated from IR.",
+   "details": {
+    "fantasyStatus": {
+     "description": "IR",
+     "abbreviation": "IR"
+    },
+    "type": "Thumb",
+    "location": "Arm",
+    "detail": "Surgery",
+    "side": "Not Specified",
+    "returnDate": "2026-10-25"
+   }
+  },
+  {
+   "id": "-2039330",
+   "name": "Christian Darrisaw",
+   "pos": "OT",
+   "status": "Questionable",
+   "date": "2026-10-13T17:10Z",
+   "shortComment": "questionable",
+   "longComment": "questionable",
+   "details": {
+    "fantasyStatus": {
+     "description": "QUESTIONABLE",
+     "abbreviation": "QUESTIONABLE"
+    },
+    "type": "Concussion",
+    "location": "Head",
+    "detail": "Concussion",
+    "side": "Not Specified",
+    "returnDate": "2026-10-25"
+   }
+  },
+  {
+   "id": "-2039333",
+   "name": "Charles Demmings",
+   "pos": "CB",
+   "status": "Questionable",
+   "date": "2026-10-13T17:10Z",
+   "shortComment": "questionable",
+   "longComment": "questionable",
+   "details": {
+    "fantasyStatus": {
+     "description": "QUESTIONABLE",
+     "abbreviation": "QUESTIONABLE"
+    },
+    "type": "Hamstring",
+    "location": "Leg",
+    "detail": "Not Specified",
+    "side": "Not Specified",
+    "returnDate": "2026-10-25"
+   }
+  },
+  {
+   "id": "-2039314",
+   "name": "Jordan Addison",
+   "pos": "WR",
+   "status": "Questionable",
+   "date": "2026-10-13T17:10Z",
+   "shortComment": "questionable",
+   "longComment": "questionable",
+   "details": {
+    "fantasyStatus": {
+     "description": "QUESTIONABLE",
+     "abbreviation": "QUESTIONABLE"
+    },
+    "type": "Hamstring",
+    "location": "Leg",
+    "detail": "Soreness",
+    "side": "Not Specified",
+    "returnDate": "2026-10-25"
+   }
+  },
+  {
+   "id": "642260",
+   "name": "Jauan Jennings",
+   "pos": "WR",
+   "status": "Active",
+   "date": "2026-10-13T00:43Z",
+   "shortComment": "Jennings did not reel in his only target during Sunday's 23-13 win at New Orleans.",
+   "longComment": "Jennings again got the second most snaps at wide receiver for the Vikings (47) in Week 5 with Jordan Addison (hamstring) out, but it only translated to one target on the afternoon. Jennings has failed to draw more than two targets in any game so far this season, and his role could be further diminished after Minnesota's bye in Week 6 if Addison is able to return to action.",
+   "details": null
+  },
+  {
+   "id": "-2038301",
+   "name": "Elijah Williams",
+   "pos": "DE",
+   "status": "Active",
+   "date": "2026-10-12T19:22Z",
+   "shortComment": "",
+   "longComment": "",
+   "details": null
+  },
+  {
+   "id": "-2038296",
+   "name": "Jakobe Thomas",
+   "pos": "S",
+   "status": "Active",
+   "date": "2026-10-12T19:22Z",
+   "shortComment": "",
+   "longComment": "",
+   "details": null
+  },
+  {
+   "id": "-2038297",
+   "name": "Max Brosmer",
+   "pos": "QB",
+   "status": "Active",
+   "date": "2026-10-12T19:22Z",
+   "shortComment": "",
+   "longComment": "",
+   "details": null
+  },
+  {
+   "id": "642168",
+   "name": "Will Reichard",
+   "pos": "PK",
+   "status": "Active",
+   "date": "2026-10-12T15:13Z",
+   "shortComment": "Reichard made all three of his field-goal attempts and both extra-point tries during the Vikings' 23-13 win over the Saints on Sunday.",
+   "longComment": "Reichard got the Vikings on the board early in the first quarter on a 40-yard field goal before connecting on kicks from 54 and 55 yards in the second and fourth quarter, respectively. Reichard has made at least three field goals in each of his last four games and is 15-for-15 on field-goal tries through five games, which is second-best in the NFL behind Spencer Shrader (16-for-16). Reichard is also one of five kickers who have made at least five field goals from 50-plus yards. The Vikings will be on a bye for Week 6 before welcoming in the Colts for Week 7 on Sunday, Oct. 25.",
+   "details": null
+  },
+  {
+   "id": "642013",
+   "name": "Kyler Murray",
+   "pos": "QB",
+   "status": "Active",
+   "date": "2026-10-11T21:32Z",
+   "shortComment": "Murray completed 24 of 30 passes for 229 yards with a touchdown and no interceptions while adding 10 rushes for 51 yards in the Vikings' 23-13 win over the Saints on Sunday. He also recovered a fumble.",
+   "longComment": "Murray completed a season-high 80.0 percent of his passes while patiently carving up the Saints defense Sunday, and the returning Justin Jefferson unsurprisingly accounted for a significant chunk of the quarterback's production through the air with a 6-79-1 line on seven targets. Murray's yardage total was his second-highest of the season as well, trailing only the 247 he generated against the Dolphins in Week 4. The 2019 first overall pick may be starting to hit his stride in head coach Kevin O'Connell's offense, and he'll look to further master the scheme during a Week 6 bye before returning to action in a Week 7 home matchup against the Colts on Sunday, Oct. 25.",
+   "details": null
+  },
+  {
+   "id": "642011",
+   "name": "Aaron Jones Sr.",
+   "pos": "RB",
+   "status": "Active",
+   "date": "2026-10-11T21:26Z",
+   "shortComment": "Jones rushed 25 times for 113 yards and a touchdown and brought in all three targets for four yards in the Vikings' 23-13 win over the Saints on Sunday.",
+   "longComment": "Jones continued handling the workhorse role in Minnesota's backfield, and he finished Sunday's contest with a new season high in carries despite exiting the game for a spell due to a leg issue. Jones added his second rushing touchdown of the season on an eight-yard run early in the fourth quarter, while the 100-yard effort was his second of the campaign. Sunday marked Jones' backfield mate Jordan Mason's fourth absence while on injured reserve due to a thumb injury, and it remains to be seen if the latter will be ready to suit up and put a dent in Jones' opportunities during a Week 7 home matchup against the Colts on Sunday, Oct. 25, following a Week 6 bye.",
+   "details": null
+  },
+  {
+   "id": "641996",
+   "name": "Justin Jefferson",
+   "pos": "WR",
+   "status": "Active",
+   "date": "2026-10-11T20:27Z",
+   "shortComment": "Jefferson (ankle) brought in six of seven targets for 79 yards and a touchdown and rushed once for minus-11 yards in the Vikings' 23-13 win over the Saints on Sunday. He also committed a fumble that remained with Minnesota.",
+   "longComment": "Making his return from a one-game absence due to an ankle injury, Jefferson capitalized on an opportunity to perform in front of his home-state crowd. The perennial Pro Bowler was expected to be busy due to Jordan Addison's (hamstring) inactive status, and Jefferson ultimately led the Vikings across the board in receptions, receiving yards and targets. The veteran receiver added his first touchdown since Week 1 when he recorded an impressive 15-yard scoring grab in the back corner of the end zone to cap off the first possession of the second half, and Jefferson will next set his sights on a vulnerable Colts defense in a Week 7 home matchup on Sunday, Oct. 25 following a Week 6 bye.",
+   "details": null
+  },
+  {
+   "id": "641923",
+   "name": "T.J. Hockenson",
+   "pos": "TE",
+   "status": "Questionable",
+   "date": "2026-10-11T17:42Z",
+   "shortComment": "The Vikings downgraded Hockenson to out for Sunday's game against the Saints due to a concussion.",
+   "longComment": "After recording a seven-yard reception on the Vikings' opening possession, Hockenson immediately headed to the locker room to get checked for a head injury. With Minnesota confirming that he has sustained a concussion, Hockenson will be shut down for the rest of the afternoon and will now be subject to the NFL's five-step protocol. Minnesota is on bye in Week 6, so Hockenson's next chance to play will come against the Colts on Oct. 25.",
+   "details": {
+    "fantasyStatus": {
+     "description": "QUESTIONABLE",
+     "abbreviation": "QUESTIONABLE"
+    },
+    "type": "Concussion",
+    "location": "Head",
+    "detail": "Concussion",
+    "side": "Not Specified",
+    "returnDate": "2026-10-25"
+   }
+  },
+  {
+   "id": "641913",
+   "name": "Michael Jurgens",
+   "pos": "C",
+   "status": "Active",
+   "date": "2026-10-11T16:56Z",
+   "shortComment": "Jurgens (elbow) is active for Sunday's game against the Saints, Craig Peters of the Vikings' official site reports.",
+   "longComment": "Jurgens was activated from IR on Saturday. The offensive lineman has recovered from his elbow injury and is all set to suit up for Sunday's game.",
+   "details": null
+  },
+  {
+   "id": "641912",
+   "name": "Brian O'Neill",
+   "pos": "OT",
+   "status": "Active",
+   "date": "2026-10-11T16:54Z",
+   "shortComment": "O'Neill (knee) is active for Sunday's game against the Saints, Craig Peters of the Vikings' official site reports.",
+   "longComment": "O'Neill was limited in practice all week with a knee injury but has recovered enough to suit up for Sunday's contest.",
+   "details": null
+  },
+  {
+   "id": "641891",
+   "name": "Ben Yurosek",
+   "pos": "TE",
+   "status": "Active",
+   "date": "2026-10-11T16:20Z",
+   "shortComment": "Yurosek (ankle) is listed as active for Sunday's game against the Saints, Craig Peters of the Vikings' official site reports.",
+   "longComment": "Yurosek was activated from the Vikings' injured reserve Saturday, just in time for Week 5. The 24-year-old has yet to play in the 2026 season. He is expected to add depth behind T.J. Hockenson and Gavin Bartholomew versus the Saints.",
+   "details": null
+  },
+  {
+   "id": "641484",
+   "name": "Brett Thorson",
+   "pos": "P",
+   "status": "Active",
+   "date": "2026-10-09T01:10Z",
+   "shortComment": "Thorson (hamstring) was a full participant in practice Wednesday and Thursday.",
+   "longComment": "Thorson missed Sunday's Week 4 win over Miami due to his hamstring injury. However, with a pair of full practices to begin Week 5 prep, he's probably good to go for Week 5 versus New Orleans. Thorson should thus reclaim his role as the Vikings' punter.",
+   "details": null
+  },
+  {
+   "id": "641124",
+   "name": "Blake Cashman",
+   "pos": "LB",
+   "status": "Active",
+   "date": "2026-10-07T01:04Z",
+   "shortComment": "Cashman recorded eight tackles (three solo) and a fumble recovery during Sunday's 15-10 win versus the Dolphins.",
+   "longComment": "In a game where Miami's offense simply couldn't stay on the field, Cashman only played 38 defensive snaps. Nevertheless, he managed to rack up seven-plus tackles for his 15th straight contest going back to last season. He's a solid IDP consideration in most formats going into a Week 5 tilt at New Orleans.",
+   "details": null
+  },
+  {
+   "id": "641113",
+   "name": "Donovan Jackson",
+   "pos": "G",
+   "status": "Injured Reserve",
+   "date": "2026-10-07T00:34Z",
+   "shortComment": "Jackson (knee) was placed on injured reserve by the Vikings on Tuesday.",
+   "longComment": "Jackson suffered a torn meniscus during Sunday's 15-10 win over Miami, and he was already set to miss the rest of the regular season, so Tuesday's move to the IR comes as no surprise. Joe Huber is the top candidate to take over as Minnesota's starting left guard in Jackson's absence.",
+   "details": {
+    "fantasyStatus": {
+     "description": "IR",
+     "abbreviation": "IR"
+    },
+    "type": "Knee - Meniscus",
+    "location": "Leg",
+    "detail": "Surgery",
+    "side": "Not Specified",
+    "returnDate": "2027-01-17"
+   }
+  },
+  {
+   "id": "641034",
+   "name": "Demond Claiborne",
+   "pos": "RB",
+   "status": "Active",
+   "date": "2026-10-06T03:41Z",
+   "shortComment": "Claiborne carried the ball three times for 12 yards during Minnesota's win over the Dolphins on Sunday.",
+   "longComment": "Claiborne continued to serve a limited role behind Aaron Jones even with Jordan Mason (thumb) on injured reserve. Claiborne will look to be more involved offensively during next week's matchup versus the Saints.",
+   "details": null
+  },
+  {
+   "id": "639955",
+   "name": "Joshua Metellus",
+   "pos": "S",
+   "status": "Active",
+   "date": "2026-09-30T04:44Z",
+   "shortComment": "Metellus recorded nine tackles (four solo), including 0.5 sacks, and a defensed pass Sunday against Tampa Bay in a 23-16 victory.",
+   "longComment": "Metellus logged the second-most tackles on Minnesota behind Eric Wilson (11). One of his stops was an assisted sack of Baker Mayfield on the first play of the fourth quarter. Metellus has played every defensive snap for the Vikings so far this season and has racked up 20 tackles and two pass defenses through three contests.",
+   "details": null
+  },
+  {
+   "id": "639951",
+   "name": "Isaiah Rodgers",
+   "pos": "CB",
+   "status": "Active",
+   "date": "2026-09-30T04:28Z",
+   "shortComment": "Rodgers logged six tackles (two solo) and an interception in Sunday's 23-16 victory over Tampa Bay.",
+   "longComment": "Minnesota led by seven points late in the fourth quarter when Rodgers picked off rookie Jalon Daniels on a last-second heave that drifted just short of the end zone. It was Rodgers' first interception of the season and the fifth of his six-year career. The veteran cornerback emerged as a key starter for Minnesota last season and has played nearly every defensive snap for the team so far in 2026.",
+   "details": null
+  },
+  {
+   "id": "639949",
+   "name": "Eric Wilson",
+   "pos": "LB",
+   "status": "Active",
+   "date": "2026-09-30T04:04Z",
+   "shortComment": "Wilson finished Sunday's 23-16 victory over Tampa Bay with 10 tackles, including 1.5 sacks, and one defensed pass.",
+   "longComment": "Wilson not only led Minnesota with 10 stops, he was also responsible for 1.5 of the team's six total sacks. The veteran linebacker recorded a career-high 6.5 sacks across 17 regular-season games with the Vikings last year, as he's benefitted statistically from being in defensive coordinator Brian Flores' blitz-happy system. Wilson also surpassed 100 tackles for the second time in his career last year and is on pace to do so again in 2026 with 20 stops through three contests.",
+   "details": null
+  },
+  {
+   "id": "639872",
+   "name": "Josh Oliver",
+   "pos": "TE",
+   "status": "Injured Reserve",
+   "date": "2026-09-30T00:26Z",
+   "shortComment": "The Vikings placed Oliver (biceps) on injured reserve Tuesday, Craig Peters of the team's official site reports.",
+   "longComment": "Oliver's move to IR was expected after the tight end was diagnosed with a torn bicep Monday. The tight end will likely miss most, if not all, of the 2026 season as he recovers from surgery. T.J. Hockenson and Gavin Bartholomew are now the only tight ends on the Vikings' roster, meaning practice-squad elevations ahead of Week 4 will likely include at least one more option at the position. The Vikings signed linebacker Kyle Van Noy to the 53-man roster in a corresponding move.",
+   "details": {
+    "fantasyStatus": {
+     "description": "IR",
+     "abbreviation": "IR"
+    },
+    "type": "Biceps",
+    "location": "Arm",
+    "detail": "Surgery",
+    "side": "Not Specified",
+    "returnDate": "2027-01-17"
+   }
+  },
+  {
+   "id": "639870",
+   "name": "Kyle Van Noy",
+   "pos": "LB",
+   "status": "Active",
+   "date": "2026-09-30T00:20Z",
+   "shortComment": "The Vikings signed Van Noy from the practice squad to the active roster Tuesday, Craig Peters of the team's official site reports.",
+   "longComment": "The Vikings burned through Van Noy's practice-squad elevations by playing the veteran linebacker in each of the team's three wins to start the 2026 regular season. Van Noy logged 59 defensive snaps over the three contests, totaling seven tackles (five solo), including 1.5 sacks. The 35-year-old will now serve as a key rotational edge rusher for the team, this time on the 53-man roster.",
+   "details": null
+  }
+ ],
+ "roster": [
+  {
+   "id": "4429205",
+   "name": "Jordan Addison",
+   "pos": "WR",
+   "posGroup": "offense",
+   "jersey": "3",
+   "height": "5' 11\"",
+   "weight": "179 lbs",
+   "age": 24,
+   "status": "Active",
+   "injuries": [
+    {
+     "status": "Questionable",
+     "date": "2026-10-13T17:10Z"
+    }
+   ]
+  },
+  {
+   "id": "4708049",
+   "name": "Gavin Bartholomew",
+   "pos": "TE",
+   "posGroup": "offense",
+   "jersey": "86",
+   "height": "6' 5\"",
+   "weight": "249 lbs",
+   "age": 23,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "16733",
+   "name": "Odell Beckham Jr.",
+   "pos": "WR",
+   "posGroup": "offense",
+   "jersey": "9",
+   "height": "5' 11\"",
+   "weight": "198 lbs",
+   "age": 33,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4712579",
+   "name": "Dillon Bell",
+   "pos": "WR",
+   "posGroup": "offense",
+   "jersey": "89",
+   "height": "6' 0\"",
+   "weight": "209 lbs",
+   "age": 22,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "3930270",
+   "name": "Blake Brandel",
+   "pos": "C",
+   "posGroup": "offense",
+   "jersey": "64",
+   "height": "6' 6\"",
+   "weight": "315 lbs",
+   "age": 29,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4878695",
+   "name": "Max Bredeson",
+   "pos": "FB",
+   "posGroup": "offense",
+   "jersey": "45",
+   "height": "6' 2\"",
+   "weight": "252 lbs",
+   "age": 24,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4573398",
+   "name": "Max Brosmer",
+   "pos": "QB",
+   "posGroup": "offense",
+   "jersey": "12",
+   "height": "6' 2\"",
+   "weight": "218 lbs",
+   "age": 25,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4832846",
+   "name": "Demond Claiborne",
+   "pos": "RB",
+   "posGroup": "offense",
+   "jersey": "21",
+   "height": "5' 10\"",
+   "weight": "188 lbs",
+   "age": 23,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4240631",
+   "name": "DeeJay Dallas",
+   "pos": "RB",
+   "posGroup": "offense",
+   "jersey": "31",
+   "height": "5' 10\"",
+   "weight": "225 lbs",
+   "age": 28,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4361985",
+   "name": "Christian Darrisaw",
+   "pos": "OT",
+   "posGroup": "offense",
+   "jersey": "71",
+   "height": "6' 5\"",
+   "weight": "315 lbs",
+   "age": 27,
+   "status": "Active",
+   "injuries": [
+    {
+     "status": "Questionable",
+     "date": "2026-10-13T17:10Z"
+    }
+   ]
+  },
+  {
+   "id": "4565185",
+   "name": "Tai Felton",
+   "pos": "WR",
+   "posGroup": "offense",
+   "jersey": "13",
+   "height": "6' 1\"",
+   "weight": "186 lbs",
+   "age": 23,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4045176",
+   "name": "Will Fries",
+   "pos": "G",
+   "posGroup": "offense",
+   "jersey": "76",
+   "height": "6' 6\"",
+   "weight": "321 lbs",
+   "age": 28,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4036133",
+   "name": "T.J. Hockenson",
+   "pos": "TE",
+   "posGroup": "offense",
+   "jersey": "87",
+   "height": "6' 5\"",
+   "weight": "248 lbs",
+   "age": 29,
+   "status": "Active",
+   "injuries": [
+    {
+     "status": "Questionable",
+     "date": "2026-10-11T17:42Z"
+    }
+   ]
+  },
+  {
+   "id": "4690210",
+   "name": "Joe Huber",
+   "pos": "G",
+   "posGroup": "offense",
+   "jersey": "60",
+   "height": "6' 5\"",
+   "weight": "310 lbs",
+   "age": 24,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4262921",
+   "name": "Justin Jefferson",
+   "pos": "WR",
+   "posGroup": "offense",
+   "jersey": "18",
+   "height": "6' 1\"",
+   "weight": "195 lbs",
+   "age": 27,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "3886598",
+   "name": "Jauan Jennings",
+   "pos": "WR",
+   "posGroup": "offense",
+   "jersey": "14",
+   "height": "6' 3\"",
+   "weight": "212 lbs",
+   "age": 29,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4360637",
+   "name": "Jeshaun Jones",
+   "pos": "WR",
+   "posGroup": "offense",
+   "jersey": "82",
+   "height": "6' 1\"",
+   "weight": "188 lbs",
+   "age": 26,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "3042519",
+   "name": "Aaron Jones Sr.",
+   "pos": "RB",
+   "posGroup": "offense",
+   "jersey": "33",
+   "height": "5' 10\"",
+   "weight": "208 lbs",
+   "age": 31,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4362010",
+   "name": "Michael Jurgens",
+   "pos": "C",
+   "posGroup": "offense",
+   "jersey": "65",
+   "height": "6' 5\"",
+   "weight": "311 lbs",
+   "age": 26,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4427140",
+   "name": "Trevor Keegan",
+   "pos": "G",
+   "posGroup": "offense",
+   "jersey": "69",
+   "height": "6' 6\"",
+   "weight": "320 lbs",
+   "age": 26,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "3917315",
+   "name": "Kyler Murray",
+   "pos": "QB",
+   "posGroup": "offense",
+   "jersey": "1",
+   "height": "5' 10\"",
+   "weight": "207 lbs",
+   "age": 29,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "3123954",
+   "name": "Brian O'Neill",
+   "pos": "OT",
+   "posGroup": "offense",
+   "jersey": "75",
+   "height": "6' 7\"",
+   "weight": "310 lbs",
+   "age": 31,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4430656",
+   "name": "Myles Price",
+   "pos": "WR",
+   "posGroup": "offense",
+   "jersey": "4",
+   "height": "5' 9\"",
+   "weight": "183 lbs",
+   "age": 24,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4592836",
+   "name": "Caleb Tiernan",
+   "pos": "OT",
+   "posGroup": "offense",
+   "jersey": "78",
+   "height": "6' 7\"",
+   "weight": "323 lbs",
+   "age": 23,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4239140",
+   "name": "Ryan Van Demark",
+   "pos": "OT",
+   "posGroup": "offense",
+   "jersey": "72",
+   "height": "6' 7\"",
+   "weight": "307 lbs",
+   "age": 28,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "2573079",
+   "name": "Carson Wentz",
+   "pos": "QB",
+   "posGroup": "offense",
+   "jersey": "11",
+   "height": "6' 5\"",
+   "weight": "237 lbs",
+   "age": 33,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4433959",
+   "name": "Ben Yurosek",
+   "pos": "TE",
+   "posGroup": "offense",
+   "jersey": "85",
+   "height": "6' 4\"",
+   "weight": "251 lbs",
+   "age": 24,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4602019",
+   "name": "Caleb Banks",
+   "pos": "DT",
+   "posGroup": "defense",
+   "jersey": "95",
+   "height": "6' 6\"",
+   "weight": "327 lbs",
+   "age": 23,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "3728281",
+   "name": "Blake Cashman",
+   "pos": "LB",
+   "posGroup": "defense",
+   "jersey": "51",
+   "height": "6' 1\"",
+   "weight": "235 lbs",
+   "age": 30,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4431520",
+   "name": "Chaz Chambliss",
+   "pos": "LB",
+   "posGroup": "defense",
+   "jersey": "32",
+   "height": "6' 1\"",
+   "weight": "244 lbs",
+   "age": 23,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "5091793",
+   "name": "Charles Demmings",
+   "pos": "CB",
+   "posGroup": "defense",
+   "jersey": "20",
+   "height": "6' 1\"",
+   "weight": "193 lbs",
+   "age": 23,
+   "status": "Active",
+   "injuries": [
+    {
+     "status": "Questionable",
+     "date": "2026-10-13T17:10Z"
+    }
+   ]
+  },
+  {
+   "id": "4877652",
+   "name": "Jake Golday",
+   "pos": "LB",
+   "posGroup": "defense",
+   "jersey": "41",
+   "height": "6' 4\"",
+   "weight": "240 lbs",
+   "age": 23,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4629149",
+   "name": "Tyrion Ingram-Dawkins",
+   "pos": "DE",
+   "posGroup": "defense",
+   "jersey": "90",
+   "height": "6' 5\"",
+   "weight": "290 lbs",
+   "age": 23,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4242436",
+   "name": "Theo Jackson",
+   "pos": "S",
+   "posGroup": "defense",
+   "jersey": "26",
+   "height": "6' 1\"",
+   "weight": "205 lbs",
+   "age": 28,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4046537",
+   "name": "Joshua Metellus",
+   "pos": "S",
+   "posGroup": "defense",
+   "jersey": "44",
+   "height": "5' 11\"",
+   "weight": "208 lbs",
+   "age": 28,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4038999",
+   "name": "Byron Murphy Jr.",
+   "pos": "CB",
+   "posGroup": "defense",
+   "jersey": "7",
+   "height": "5' 11\"",
+   "weight": "190 lbs",
+   "age": 28,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4698728",
+   "name": "Domonique Orange",
+   "pos": "DT",
+   "posGroup": "defense",
+   "jersey": "97",
+   "height": "6' 2\"",
+   "weight": "322 lbs",
+   "age": 22,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4430280",
+   "name": "Ivan Pace Jr.",
+   "pos": "LB",
+   "posGroup": "defense",
+   "jersey": "0",
+   "height": "5' 10\"",
+   "weight": "236 lbs",
+   "age": 25,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4259252",
+   "name": "James Pierre",
+   "pos": "CB",
+   "posGroup": "defense",
+   "jersey": "23",
+   "height": "6' 2\"",
+   "weight": "185 lbs",
+   "age": 30,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4360277",
+   "name": "Jalen Redmond",
+   "pos": "DT",
+   "posGroup": "defense",
+   "jersey": "61",
+   "height": "6' 3\"",
+   "weight": "305 lbs",
+   "age": 27,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4875564",
+   "name": "Bo Richter",
+   "pos": "LB",
+   "posGroup": "defense",
+   "jersey": "98",
+   "height": "6' 1\"",
+   "weight": "248 lbs",
+   "age": 26,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4044540",
+   "name": "Isaiah Rodgers",
+   "pos": "CB",
+   "posGroup": "defense",
+   "jersey": "2",
+   "height": "5' 10\"",
+   "weight": "180 lbs",
+   "age": 28,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "5093973",
+   "name": "Levi Drake Rodriguez",
+   "pos": "DT",
+   "posGroup": "defense",
+   "jersey": "50",
+   "height": "6' 2\"",
+   "weight": "307 lbs",
+   "age": 26,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "14945",
+   "name": "Harrison Smith",
+   "pos": "S",
+   "posGroup": "defense",
+   "jersey": "22",
+   "height": "6' 2\"",
+   "weight": "211 lbs",
+   "age": 37,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "5082397",
+   "name": "Jacob Thomas",
+   "pos": "S",
+   "posGroup": "defense",
+   "jersey": "29",
+   "height": "6' 1\"",
+   "weight": "212 lbs",
+   "age": 22,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4710865",
+   "name": "Jakobe Thomas",
+   "pos": "S",
+   "posGroup": "defense",
+   "jersey": "8",
+   "height": "6' 1\"",
+   "weight": "211 lbs",
+   "age": 23,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4334405",
+   "name": "Tavierre Thomas",
+   "pos": "S",
+   "posGroup": "defense",
+   "jersey": "37",
+   "height": "5' 10\"",
+   "weight": "212 lbs",
+   "age": 30,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4565190",
+   "name": "Dallas Turner",
+   "pos": "LB",
+   "posGroup": "defense",
+   "jersey": "15",
+   "height": "6' 3\"",
+   "weight": "247 lbs",
+   "age": 23,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "3133487",
+   "name": "Andrew Van Ginkel",
+   "pos": "LB",
+   "posGroup": "defense",
+   "jersey": "43",
+   "height": "6' 4\"",
+   "weight": "242 lbs",
+   "age": 31,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "16772",
+   "name": "Kyle Van Noy",
+   "pos": "LB",
+   "posGroup": "defense",
+   "jersey": "17",
+   "height": "6' 3\"",
+   "weight": "255 lbs",
+   "age": 35,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4695609",
+   "name": "Zemaiah Vaughn",
+   "pos": "CB",
+   "posGroup": "defense",
+   "jersey": "5",
+   "height": "6' 3\"",
+   "weight": "180 lbs",
+   "age": 24,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4568007",
+   "name": "Jay Ward",
+   "pos": "S",
+   "posGroup": "defense",
+   "jersey": "24",
+   "height": "6' 1\"",
+   "weight": "190 lbs",
+   "age": 26,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4696782",
+   "name": "Elijah Williams",
+   "pos": "DE",
+   "posGroup": "defense",
+   "jersey": "99",
+   "height": "6' 3\"",
+   "weight": "298 lbs",
+   "age": 24,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "3056916",
+   "name": "Eric Wilson",
+   "pos": "LB",
+   "posGroup": "defense",
+   "jersey": "55",
+   "height": "6' 1\"",
+   "weight": "231 lbs",
+   "age": 32,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "15726",
+   "name": "Andrew DePaola",
+   "pos": "LS",
+   "posGroup": "specialTeam",
+   "jersey": "42",
+   "height": "6' 1\"",
+   "weight": "227 lbs",
+   "age": 39,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4567104",
+   "name": "Will Reichard",
+   "pos": "PK",
+   "posGroup": "specialTeam",
+   "jersey": "16",
+   "height": "6' 1\"",
+   "weight": "190 lbs",
+   "age": 25,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "4799994",
+   "name": "Brett Thorson",
+   "pos": "P",
+   "posGroup": "specialTeam",
+   "jersey": "19",
+   "height": "6' 1\"",
+   "weight": "237 lbs",
+   "age": 26,
+   "status": "Active",
+   "injuries": []
+  },
+  {
+   "id": "3115373",
+   "name": "Jamal Adams",
+   "pos": "LB",
+   "posGroup": "injuredReserveOrOut",
+   "jersey": "32",
+   "height": "6' 1\"",
+   "weight": "213 lbs",
+   "age": 31,
+   "status": "Day-To-Day",
+   "injuries": [
+    {
+     "status": "Injured Reserve",
+     "date": "2026-08-19T12:07Z"
+    }
+   ]
+  },
+  {
+   "id": "4608794",
+   "name": "Tyler Batty",
+   "pos": "LB",
+   "posGroup": "injuredReserveOrOut",
+   "jersey": "92",
+   "height": "6' 6\"",
+   "weight": "271 lbs",
+   "age": 27,
+   "status": "Day-To-Day",
+   "injuries": [
+    {
+     "status": "Injured Reserve",
+     "date": "2026-08-30T22:59Z"
+    }
+   ]
+  },
+  {
+   "id": "4431553",
+   "name": "Donovan Jackson",
+   "pos": "G",
+   "posGroup": "injuredReserveOrOut",
+   "jersey": "74",
+   "height": "6' 4\"",
+   "weight": "324 lbs",
+   "age": 23,
+   "status": "Day-To-Day",
+   "injuries": [
+    {
+     "status": "Injured Reserve",
+     "date": "2026-10-07T00:34Z"
+    }
+   ]
+  },
+  {
+   "id": "4360569",
+   "name": "Jordan Mason",
+   "pos": "RB",
+   "posGroup": "injuredReserveOrOut",
+   "jersey": "27",
+   "height": "5' 11\"",
+   "weight": "230 lbs",
+   "age": 27,
+   "status": "Day-To-Day",
+   "injuries": [
+    {
+     "status": "Injured Reserve",
+     "date": "2026-10-15T16:29Z"
+    }
+   ]
+  },
+  {
+   "id": "4429128",
+   "name": "Dwight McGlothern Jr.",
+   "pos": "CB",
+   "posGroup": "injuredReserveOrOut",
+   "jersey": "6",
+   "height": "6' 2\"",
+   "weight": "185 lbs",
+   "age": 24,
+   "status": "Day-To-Day",
+   "injuries": []
+  },
+  {
+   "id": "3921690",
+   "name": "Josh Oliver",
+   "pos": "TE",
+   "posGroup": "injuredReserveOrOut",
+   "jersey": "84",
+   "height": "6' 5\"",
+   "weight": "264 lbs",
+   "age": 29,
+   "status": "Day-To-Day",
+   "injuries": [
+    {
+     "status": "Injured Reserve",
+     "date": "2026-09-30T00:26Z"
+    }
+   ]
+  },
+  {
+   "id": "4428421",
+   "name": "Nick Samac",
+   "pos": "C",
+   "posGroup": "injuredReserveOrOut",
+   "jersey": "62",
+   "height": "6' 4\"",
+   "weight": "314 lbs",
+   "age": 25,
+   "status": "Day-To-Day",
+   "injuries": [
+    {
+     "status": "Injured Reserve",
+     "date": "2026-09-26T21:28Z"
+    }
+   ]
+  },
+  {
+   "id": "4705513",
+   "name": "Da'Veawn Armstead",
+   "pos": "CB",
+   "posGroup": "practiceSquad",
+   "jersey": "38",
+   "height": "6' 1\"",
+   "weight": "183 lbs",
+   "age": 23,
+   "status": "Practice Squad",
+   "injuries": []
+  },
+  {
+   "id": "4361508",
+   "name": "Keshawn Banks",
+   "pos": "DE",
+   "posGroup": "practiceSquad",
+   "jersey": null,
+   "height": "6' 3\"",
+   "weight": "251 lbs",
+   "age": 26,
+   "status": "Practice Squad",
+   "injuries": []
+  },
+  {
+   "id": "5452151",
+   "name": "Maceo Beard-Aigret",
+   "pos": "DB",
+   "posGroup": "practiceSquad",
+   "jersey": null,
+   "height": "6' 3\"",
+   "weight": "205 lbs",
+   "age": 26,
+   "status": "Practice Squad",
+   "injuries": []
+  },
+  {
+   "id": "4688418",
+   "name": "Michael Briscoe",
+   "pos": "WR",
+   "posGroup": "practiceSquad",
+   "jersey": "46",
+   "height": "6' 2\"",
+   "weight": "209 lbs",
+   "age": 24,
+   "status": "Practice Squad",
+   "injuries": []
+  },
+  {
+   "id": "4367995",
+   "name": "Henry Byrd",
+   "pos": "G",
+   "posGroup": "practiceSquad",
+   "jersey": "68",
+   "height": "6' 5\"",
+   "weight": "314 lbs",
+   "age": 27,
+   "status": "Practice Squad",
+   "injuries": []
+  },
+  {
+   "id": "4574008",
+   "name": "Kenny Dyson Jr.",
+   "pos": "LB",
+   "posGroup": "practiceSquad",
+   "jersey": "54",
+   "height": "6' 3\"",
+   "weight": "235 lbs",
+   "age": 25,
+   "status": "Practice Squad",
+   "injuries": []
+  },
+  {
+   "id": "4700712",
+   "name": "Cam Grandy",
+   "pos": "TE",
+   "posGroup": "practiceSquad",
+   "jersey": null,
+   "height": "6' 5\"",
+   "weight": "253 lbs",
+   "age": 26,
+   "status": "Practice Squad",
+   "injuries": []
+  },
+  {
+   "id": "4432325",
+   "name": "Bangally Kamara",
+   "pos": "LB",
+   "posGroup": "practiceSquad",
+   "jersey": "59",
+   "height": "6' 2\"",
+   "weight": "235 lbs",
+   "age": 25,
+   "status": "Practice Squad",
+   "injuries": []
+  },
+  {
+   "id": "4431443",
+   "name": "Tristan Leigh",
+   "pos": "OT",
+   "posGroup": "practiceSquad",
+   "jersey": "63",
+   "height": "6' 4\"",
+   "weight": "312 lbs",
+   "age": 23,
+   "status": "Practice Squad",
+   "injuries": []
+  },
+  {
+   "id": "4693369",
+   "name": "Jack Nelson",
+   "pos": "OT",
+   "posGroup": "practiceSquad",
+   "jersey": null,
+   "height": "6' 7\"",
+   "weight": "314 lbs",
+   "age": 24,
+   "status": "Practice Squad",
+   "injuries": []
+  },
+  {
+   "id": "4432503",
+   "name": "Josh Priebe",
+   "pos": "G",
+   "posGroup": "practiceSquad",
+   "jersey": null,
+   "height": "6' 5\"",
+   "weight": "306 lbs",
+   "age": 25,
+   "status": "Practice Squad",
+   "injuries": []
+  },
+  {
+   "id": "4431584",
+   "name": "Jahvaree Ritzie",
+   "pos": "DE",
+   "posGroup": "practiceSquad",
+   "jersey": "96",
+   "height": "6' 4\"",
+   "weight": "290 lbs",
+   "age": 23,
+   "status": "Practice Squad",
+   "injuries": []
+  }
+ ]
+}

@@ -1,0 +1,1489 @@
+{
+ "source": "Computed from nflverse stats_player regular-season files (1999\u20132025), github.com/nflverse/nflverse-data releases/stats_player \u2014 SINGLE-SOURCE computed. Coverage: regular season 1999\u20132025 only; NOT all-time (pre-1999 excluded), NOT playoffs. Franchise mapping for relocated teams applied by season/code.",
+ "season_leaders": {
+  "Passing yards": [
+   {
+    "player": "Tua Tagovailoa",
+    "year": 2023,
+    "value": 4624.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Tannehill",
+    "year": 2015,
+    "value": 4208.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Tannehill",
+    "year": 2014,
+    "value": 4045.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Tannehill",
+    "year": 2013,
+    "value": 3913.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Chad Pennington",
+    "year": 2008,
+    "value": 3653.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tua Tagovailoa",
+    "year": 2022,
+    "value": 3548.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Fitzpatrick",
+    "year": 2019,
+    "value": 3529.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Chad Henne",
+    "year": 2010,
+    "value": 3298.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Tannehill",
+    "year": 2012,
+    "value": 3294.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jay Fiedler",
+    "year": 2001,
+    "value": 3248.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Tua Tagovailoa",
+    "year": 2023,
+    "value": 29.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Tannehill",
+    "year": 2014,
+    "value": 27.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tua Tagovailoa",
+    "year": 2022,
+    "value": 25.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Tannehill",
+    "year": 2013,
+    "value": 24.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Tannehill",
+    "year": 2015,
+    "value": 24.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jay Fiedler",
+    "year": 2001,
+    "value": 20.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Fitzpatrick",
+    "year": 2019,
+    "value": 20.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tua Tagovailoa",
+    "year": 2025,
+    "value": 20.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Tannehill",
+    "year": 2016,
+    "value": 19.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Chad Pennington",
+    "year": 2008,
+    "value": 19.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "Ricky Williams",
+    "year": 2002,
+    "value": 1853.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ricky Williams",
+    "year": 2003,
+    "value": 1372.0,
+    "pos": "RB"
+   },
+   {
+    "player": "De'Von Achane",
+    "year": 2025,
+    "value": 1350.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jay Ajayi",
+    "year": 2016,
+    "value": 1272.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ricky Williams",
+    "year": 2009,
+    "value": 1121.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Lamar Miller",
+    "year": 2014,
+    "value": 1099.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Reggie Bush",
+    "year": 2011,
+    "value": 1086.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Lamar Smith",
+    "year": 2000,
+    "value": 1077.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Raheem Mostert",
+    "year": 2023,
+    "value": 1012.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ronnie Brown",
+    "year": 2006,
+    "value": 1005.0,
+    "pos": "RB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "Raheem Mostert",
+    "year": 2023,
+    "value": 18.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ricky Williams",
+    "year": 2002,
+    "value": 16.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Lamar Smith",
+    "year": 2000,
+    "value": 14.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ricky Williams",
+    "year": 2009,
+    "value": 11.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ronnie Brown",
+    "year": 2008,
+    "value": 10.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ricky Williams",
+    "year": 2003,
+    "value": 9.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ronnie Brown",
+    "year": 2009,
+    "value": 8.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Lamar Miller",
+    "year": 2015,
+    "value": 8.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jay Ajayi",
+    "year": 2016,
+    "value": 8.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Lamar Miller",
+    "year": 2014,
+    "value": 8.0,
+    "pos": "RB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Tyreek Hill",
+    "year": 2022,
+    "value": 119.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Tyreek Hill",
+    "year": 2023,
+    "value": 119.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jarvis Landry",
+    "year": 2017,
+    "value": 112.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jarvis Landry",
+    "year": 2015,
+    "value": 110.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jaylen Waddle",
+    "year": 2021,
+    "value": 104.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jarvis Landry",
+    "year": 2016,
+    "value": 94.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jonnu Smith",
+    "year": 2024,
+    "value": 88.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Brandon Marshall",
+    "year": 2010,
+    "value": 86.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jarvis Landry",
+    "year": 2014,
+    "value": 84.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Chris Chambers",
+    "year": 2005,
+    "value": 82.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "Tyreek Hill",
+    "year": 2023,
+    "value": 1799.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Tyreek Hill",
+    "year": 2022,
+    "value": 1710.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jaylen Waddle",
+    "year": 2022,
+    "value": 1356.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Brandon Marshall",
+    "year": 2011,
+    "value": 1214.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeVante Parker",
+    "year": 2019,
+    "value": 1202.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jarvis Landry",
+    "year": 2015,
+    "value": 1157.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jarvis Landry",
+    "year": 2016,
+    "value": 1136.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Chris Chambers",
+    "year": 2005,
+    "value": 1118.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Brian Hartline",
+    "year": 2012,
+    "value": 1083.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Tony Martin",
+    "year": 1999,
+    "value": 1037.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Tyreek Hill",
+    "year": 2023,
+    "value": 13.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Chris Chambers",
+    "year": 2005,
+    "value": 11.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Chris Chambers",
+    "year": 2003,
+    "value": 11.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Mike Wallace",
+    "year": 2014,
+    "value": 10.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jarvis Landry",
+    "year": 2017,
+    "value": 9.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Kenny Stills",
+    "year": 2016,
+    "value": 9.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeVante Parker",
+    "year": 2019,
+    "value": 9.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jaylen Waddle",
+    "year": 2022,
+    "value": 8.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jonnu Smith",
+    "year": 2024,
+    "value": 8.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Chris Chambers",
+    "year": 2001,
+    "value": 7.0,
+    "pos": "WR"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "Jason Taylor",
+    "year": 2002,
+    "value": 18.5,
+    "pos": "OLB"
+   },
+   {
+    "player": "Joey Porter",
+    "year": 2008,
+    "value": 16.5,
+    "pos": "OLB"
+   },
+   {
+    "player": "Adewale Ogunleye",
+    "year": 2003,
+    "value": 16.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Cameron Wake",
+    "year": 2012,
+    "value": 15.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Cameron Wake",
+    "year": 2010,
+    "value": 14.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Jason Taylor",
+    "year": 2000,
+    "value": 13.5,
+    "pos": "OLB"
+   },
+   {
+    "player": "Jason Taylor",
+    "year": 2006,
+    "value": 13.5,
+    "pos": "OLB"
+   },
+   {
+    "player": "Trace Armstrong",
+    "year": 2000,
+    "value": 13.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Jason Taylor",
+    "year": 2003,
+    "value": 12.5,
+    "pos": "OLB"
+   },
+   {
+    "player": "Jason Taylor",
+    "year": 2005,
+    "value": 12.0,
+    "pos": "OLB"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Xavien Howard",
+    "year": 2020,
+    "value": 10.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Brian Walker",
+    "year": 2000,
+    "value": 7.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Patrick Surtain",
+    "year": 2003,
+    "value": 7.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Xavien Howard",
+    "year": 2018,
+    "value": 7.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Sam Madison",
+    "year": 1999,
+    "value": 7.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Patrick Surtain",
+    "year": 2002,
+    "value": 6.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Brock Marion",
+    "year": 2002,
+    "value": 5.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Brock Marion",
+    "year": 2001,
+    "value": 5.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Brock Marion",
+    "year": 2000,
+    "value": 5.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Andre' Goodman",
+    "year": 2008,
+    "value": 5.0,
+    "pos": "CB"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "Reshad Jones",
+    "year": 2015,
+    "value": 101.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Jordyn Brooks",
+    "year": 2025,
+    "value": 96.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Karlos Dansby",
+    "year": 2012,
+    "value": 93.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Reshad Jones",
+    "year": 2017,
+    "value": 87.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Zach Thomas",
+    "year": 2005,
+    "value": 87.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Karlos Dansby",
+    "year": 2011,
+    "value": 84.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Yeremiah Bell",
+    "year": 2008,
+    "value": 83.0,
+    "pos": "S"
+   },
+   {
+    "player": "Zach Thomas",
+    "year": 2002,
+    "value": 83.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Zach Thomas",
+    "year": 2006,
+    "value": 80.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Kevin Burnett",
+    "year": 2011,
+    "value": 79.0,
+    "pos": "OLB"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "Olindo Mare",
+    "year": 1999,
+    "value": 39.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jason Sanders",
+    "year": 2024,
+    "value": 37.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jason Sanders",
+    "year": 2020,
+    "value": 36.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Carpenter",
+    "year": 2010,
+    "value": 30.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Carpenter",
+    "year": 2011,
+    "value": 29.0,
+    "pos": "K"
+   },
+   {
+    "player": "Caleb Sturgis",
+    "year": 2014,
+    "value": 29.0,
+    "pos": "K"
+   },
+   {
+    "player": "Riley Patterson",
+    "year": 2025,
+    "value": 27.0,
+    "pos": "K"
+   },
+   {
+    "player": "Olindo Mare",
+    "year": 2006,
+    "value": 26.0,
+    "pos": "K"
+   },
+   {
+    "player": "Caleb Sturgis",
+    "year": 2013,
+    "value": 26.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jason Sanders",
+    "year": 2022,
+    "value": 26.0,
+    "pos": "K"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Jason Sanders",
+    "year": 2023,
+    "value": 58.0,
+    "pos": "K"
+   },
+   {
+    "player": "Olindo Mare",
+    "year": 2002,
+    "value": 42.0,
+    "pos": "K"
+   },
+   {
+    "player": "Caleb Sturgis",
+    "year": 2014,
+    "value": 41.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jason Sanders",
+    "year": 2022,
+    "value": 41.0,
+    "pos": "K"
+   },
+   {
+    "player": "Andrew Franks",
+    "year": 2016,
+    "value": 41.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Carpenter",
+    "year": 2008,
+    "value": 40.0,
+    "pos": "K"
+   },
+   {
+    "player": "Olindo Mare",
+    "year": 2001,
+    "value": 39.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Carpenter",
+    "year": 2009,
+    "value": 37.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jason Sanders",
+    "year": 2020,
+    "value": 36.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jason Sanders",
+    "year": 2018,
+    "value": 35.0,
+    "pos": "K"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "Jordyn Brooks",
+    "year": 2025,
+    "value": 180.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Zach Thomas",
+    "year": 2006,
+    "value": 142.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Zach Thomas",
+    "year": 2005,
+    "value": 142.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Zach Thomas",
+    "year": 2003,
+    "value": 142.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Zach Thomas",
+    "year": 2002,
+    "value": 139.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Zach Thomas",
+    "year": 2001,
+    "value": 135.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Jordyn Brooks",
+    "year": 2024,
+    "value": 132.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Zach Thomas",
+    "year": 2004,
+    "value": 131.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Reshad Jones",
+    "year": 2015,
+    "value": 130.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Tyrel Dodson",
+    "year": 2025,
+    "value": 127.0,
+    "pos": "LB"
+   }
+  ]
+ },
+ "career_leaders_1999_2025": {
+  "Passing yards": [
+   {
+    "player": "Ryan Tannehill",
+    "value": 20434.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tua Tagovailoa",
+    "value": 18166.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jay Fiedler",
+    "value": 10856.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Chad Henne",
+    "value": 7111.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Fitzpatrick",
+    "value": 5620.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Matt Moore",
+    "value": 4298.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Chad Pennington",
+    "value": 4085.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Gus Frerotte",
+    "value": 2996.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jay Cutler",
+    "value": 2666.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Dan Marino",
+    "value": 2448.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Ryan Tannehill",
+    "value": 123.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tua Tagovailoa",
+    "value": 120.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jay Fiedler",
+    "value": 65.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Fitzpatrick",
+    "value": 33.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Chad Henne",
+    "value": 31.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Matt Moore",
+    "value": 29.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Chad Pennington",
+    "value": 20.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jay Cutler",
+    "value": 19.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Gus Frerotte",
+    "value": 18.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Dan Marino",
+    "value": 12.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "Ricky Williams",
+    "value": 6436.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ronnie Brown",
+    "value": 4812.0,
+    "pos": "RB"
+   },
+   {
+    "player": "De'Von Achane",
+    "value": 3057.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Lamar Miller",
+    "value": 2930.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Raheem Mostert",
+    "value": 2181.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Reggie Bush",
+    "value": 2072.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Lamar Smith",
+    "value": 2045.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Daniel Thomas",
+    "value": 1480.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jay Ajayi",
+    "value": 1459.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Kenyan Drake",
+    "value": 1358.0,
+    "pos": "RB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "Ricky Williams",
+    "value": 48.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ronnie Brown",
+    "value": 36.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Raheem Mostert",
+    "value": 23.0,
+    "pos": "RB"
+   },
+   {
+    "player": "De'Von Achane",
+    "value": 22.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Lamar Smith",
+    "value": 20.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Lamar Miller",
+    "value": 19.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Reggie Bush",
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jay Fiedler",
+    "value": 11.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Daniel Thomas",
+    "value": 10.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jay Ajayi",
+    "value": 9.0,
+    "pos": "RB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Jarvis Landry",
+    "value": 400.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Chris Chambers",
+    "value": 374.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jaylen Waddle",
+    "value": 373.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Tyreek Hill",
+    "value": 340.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeVante Parker",
+    "value": 338.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Davone Bess",
+    "value": 322.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Brian Hartline",
+    "value": 298.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Randy McMichael",
+    "value": 283.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Mike Gesicki",
+    "value": 231.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Ricky Williams",
+    "value": 197.0,
+    "pos": "RB"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "Chris Chambers",
+    "value": 5273.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jaylen Waddle",
+    "value": 5039.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Tyreek Hill",
+    "value": 4733.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeVante Parker",
+    "value": 4727.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Brian Hartline",
+    "value": 4243.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jarvis Landry",
+    "value": 4038.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Davone Bess",
+    "value": 3444.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Randy McMichael",
+    "value": 3096.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Marty Booker",
+    "value": 2627.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Mike Gesicki",
+    "value": 2617.0,
+    "pos": "TE"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Chris Chambers",
+    "value": 43.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Tyreek Hill",
+    "value": 27.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jaylen Waddle",
+    "value": 26.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Kenny Stills",
+    "value": 24.0,
+    "pos": "WR"
+   },
+   {
+    "player": "DeVante Parker",
+    "value": 24.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Anthony Fasano",
+    "value": 24.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Jarvis Landry",
+    "value": 22.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Mike Gesicki",
+    "value": 18.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Randy McMichael",
+    "value": 18.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Mike Wallace",
+    "value": 15.0,
+    "pos": "WR"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "Jason Taylor",
+    "value": 115.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Cameron Wake",
+    "value": 98.5,
+    "pos": "LB"
+   },
+   {
+    "player": "Zach Sieler",
+    "value": 35.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Joey Porter",
+    "value": 31.5,
+    "pos": "OLB"
+   },
+   {
+    "player": "Randy Starks",
+    "value": 29.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Olivier Vernon",
+    "value": 29.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Emmanuel Ogbah",
+    "value": 29.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Bradley Chubb",
+    "value": 27.5,
+    "pos": "OLB"
+   },
+   {
+    "player": "Adewale Ogunleye",
+    "value": 26.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Jaelan Phillips",
+    "value": 23.0,
+    "pos": "LB"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Xavien Howard",
+    "value": 29.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Patrick Surtain",
+    "value": 27.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Sam Madison",
+    "value": 22.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Reshad Jones",
+    "value": 21.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Brock Marion",
+    "value": 20.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Brent Grimes",
+    "value": 13.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Zach Thomas",
+    "value": 10.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Vontae Davis",
+    "value": 9.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Jason Taylor",
+    "value": 8.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Brian Walker",
+    "value": 8.0,
+    "pos": "FS"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "Zach Thomas",
+    "value": 613.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Reshad Jones",
+    "value": 558.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Yeremiah Bell",
+    "value": 370.0,
+    "pos": "S"
+   },
+   {
+    "player": "Jason Taylor",
+    "value": 360.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Jerome Baker",
+    "value": 335.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Channing Crowder",
+    "value": 274.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Brock Marion",
+    "value": 261.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Cameron Wake",
+    "value": 257.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Karlos Dansby",
+    "value": 246.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Koa Misi",
+    "value": 240.0,
+    "pos": "OLB"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "Olindo Mare",
+    "value": 193.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jason Sanders",
+    "value": 187.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Carpenter",
+    "value": 127.0,
+    "pos": "K"
+   },
+   {
+    "player": "Caleb Sturgis",
+    "value": 55.0,
+    "pos": "K"
+   },
+   {
+    "player": "Andrew Franks",
+    "value": 29.0,
+    "pos": "K"
+   },
+   {
+    "player": "Riley Patterson",
+    "value": 27.0,
+    "pos": "K"
+   },
+   {
+    "player": "Cody Parkey",
+    "value": 21.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jay Feely",
+    "value": 21.0,
+    "pos": "K"
+   },
+   {
+    "player": "Nate Kaeding",
+    "value": 8.0,
+    "pos": "K"
+   },
+   {
+    "player": "Bill Gramatica",
+    "value": 3.0,
+    "pos": "K"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Jason Sanders",
+    "value": 259.0,
+    "pos": "K"
+   },
+   {
+    "player": "Olindo Mare",
+    "value": 245.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Carpenter",
+    "value": 154.0,
+    "pos": "K"
+   },
+   {
+    "player": "Caleb Sturgis",
+    "value": 74.0,
+    "pos": "K"
+   },
+   {
+    "player": "Andrew Franks",
+    "value": 74.0,
+    "pos": "K"
+   },
+   {
+    "player": "Riley Patterson",
+    "value": 34.0,
+    "pos": "K"
+   },
+   {
+    "player": "Cody Parkey",
+    "value": 26.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jay Feely",
+    "value": 26.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Bryant",
+    "value": 12.0,
+    "pos": "K"
+   },
+   {
+    "player": "Nate Kaeding",
+    "value": 9.0,
+    "pos": "K"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "Zach Thomas",
+    "value": 1073.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Reshad Jones",
+    "value": 735.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Jason Taylor",
+    "value": 561.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Jerome Baker",
+    "value": 540.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Yeremiah Bell",
+    "value": 496.0,
+    "pos": "S"
+   },
+   {
+    "player": "Channing Crowder",
+    "value": 401.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Brock Marion",
+    "value": 390.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Koa Misi",
+    "value": 340.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Cameron Wake",
+    "value": 337.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Kiko Alonso",
+    "value": 333.0,
+    "pos": "OLB"
+   }
+  ]
+ }
+}

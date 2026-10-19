@@ -1,0 +1,1489 @@
+{
+ "source": "Computed from nflverse stats_player regular-season files (1999\u20132025), github.com/nflverse/nflverse-data releases/stats_player \u2014 SINGLE-SOURCE computed. Coverage: regular season 1999\u20132025 only; NOT all-time (pre-1999 excluded), NOT playoffs. Franchise mapping for relocated teams applied by season/code.",
+ "season_leaders": {
+  "Passing yards": [
+   {
+    "player": "Josh Allen",
+    "year": 2020,
+    "value": 4544.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Josh Allen",
+    "year": 2021,
+    "value": 4407.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Drew Bledsoe",
+    "year": 2002,
+    "value": 4359.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Josh Allen",
+    "year": 2023,
+    "value": 4306.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Josh Allen",
+    "year": 2022,
+    "value": 4283.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Fitzpatrick",
+    "year": 2011,
+    "value": 3832.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Josh Allen",
+    "year": 2024,
+    "value": 3731.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Josh Allen",
+    "year": 2025,
+    "value": 3668.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Fitzpatrick",
+    "year": 2012,
+    "value": 3400.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Doug Flutie",
+    "year": 1999,
+    "value": 3171.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Josh Allen",
+    "year": 2020,
+    "value": 37.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Josh Allen",
+    "year": 2021,
+    "value": 36.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Josh Allen",
+    "year": 2022,
+    "value": 35.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Josh Allen",
+    "year": 2023,
+    "value": 29.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Josh Allen",
+    "year": 2024,
+    "value": 28.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Josh Allen",
+    "year": 2025,
+    "value": 25.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Fitzpatrick",
+    "year": 2012,
+    "value": 24.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Fitzpatrick",
+    "year": 2011,
+    "value": 24.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Drew Bledsoe",
+    "year": 2002,
+    "value": 24.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Fitzpatrick",
+    "year": 2010,
+    "value": 23.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "James Cook",
+    "year": 2025,
+    "value": 1621.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Travis Henry",
+    "year": 2002,
+    "value": 1438.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Travis Henry",
+    "year": 2003,
+    "value": 1353.0,
+    "pos": "RB"
+   },
+   {
+    "player": "LeSean McCoy",
+    "year": 2016,
+    "value": 1267.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Willis McGahee",
+    "year": 2005,
+    "value": 1247.0,
+    "pos": "RB"
+   },
+   {
+    "player": "C.J. Spiller",
+    "year": 2012,
+    "value": 1244.0,
+    "pos": "RB"
+   },
+   {
+    "player": "LeSean McCoy",
+    "year": 2017,
+    "value": 1138.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Willis McGahee",
+    "year": 2004,
+    "value": 1128.0,
+    "pos": "RB"
+   },
+   {
+    "player": "James Cook",
+    "year": 2023,
+    "value": 1122.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Marshawn Lynch",
+    "year": 2007,
+    "value": 1115.0,
+    "pos": "RB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "James Cook",
+    "year": 2024,
+    "value": 16.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Josh Allen",
+    "year": 2023,
+    "value": 15.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Josh Allen",
+    "year": 2025,
+    "value": 14.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Willis McGahee",
+    "year": 2004,
+    "value": 13.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Travis Henry",
+    "year": 2002,
+    "value": 13.0,
+    "pos": "RB"
+   },
+   {
+    "player": "LeSean McCoy",
+    "year": 2016,
+    "value": 13.0,
+    "pos": "RB"
+   },
+   {
+    "player": "James Cook",
+    "year": 2025,
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Josh Allen",
+    "year": 2024,
+    "value": 12.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Travis Henry",
+    "year": 2003,
+    "value": 10.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Fred Jackson",
+    "year": 2013,
+    "value": 9.0,
+    "pos": "RB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Stefon Diggs",
+    "year": 2020,
+    "value": 127.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Stefon Diggs",
+    "year": 2022,
+    "value": 108.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Stefon Diggs",
+    "year": 2023,
+    "value": 107.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Stefon Diggs",
+    "year": 2021,
+    "value": 103.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Eric Moulds",
+    "year": 2002,
+    "value": 100.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Peerless Price",
+    "year": 2002,
+    "value": 94.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Eric Moulds",
+    "year": 2000,
+    "value": 90.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Eric Moulds",
+    "year": 2004,
+    "value": 88.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Cole Beasley",
+    "year": 2021,
+    "value": 82.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Lee Evans",
+    "year": 2006,
+    "value": 82.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "Stefon Diggs",
+    "year": 2020,
+    "value": 1535.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Stefon Diggs",
+    "year": 2022,
+    "value": 1429.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Eric Moulds",
+    "year": 2002,
+    "value": 1292.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Lee Evans",
+    "year": 2006,
+    "value": 1291.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Eric Moulds",
+    "year": 2000,
+    "value": 1275.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Peerless Price",
+    "year": 2002,
+    "value": 1252.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Stefon Diggs",
+    "year": 2021,
+    "value": 1225.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Stefon Diggs",
+    "year": 2023,
+    "value": 1183.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Steve Johnson",
+    "year": 2010,
+    "value": 1073.0,
+    "pos": "WR"
+   },
+   {
+    "player": "John Brown",
+    "year": 2019,
+    "value": 1060.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Stefon Diggs",
+    "year": 2022,
+    "value": 11.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Eric Moulds",
+    "year": 2002,
+    "value": 10.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Stefon Diggs",
+    "year": 2021,
+    "value": 10.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Steve Johnson",
+    "year": 2010,
+    "value": 10.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dawson Knox",
+    "year": 2021,
+    "value": 9.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Sammy Watkins",
+    "year": 2015,
+    "value": 9.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Lee Evans",
+    "year": 2004,
+    "value": 9.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Peerless Price",
+    "year": 2002,
+    "value": 9.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Lee Evans",
+    "year": 2006,
+    "value": 8.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Stefon Diggs",
+    "year": 2023,
+    "value": 8.0,
+    "pos": "WR"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "Mario Williams",
+    "year": 2014,
+    "value": 14.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Aaron Schobel",
+    "year": 2006,
+    "value": 14.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Mario Williams",
+    "year": 2013,
+    "value": 13.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Lorenzo Alexander",
+    "year": 2016,
+    "value": 12.5,
+    "pos": "OLB"
+   },
+   {
+    "player": "Aaron Schobel",
+    "year": 2005,
+    "value": 12.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Aaron Schobel",
+    "year": 2003,
+    "value": 11.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Aaron Schobel",
+    "year": 2009,
+    "value": 11.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Leonard Floyd",
+    "year": 2023,
+    "value": 10.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Kyle Williams",
+    "year": 2013,
+    "value": 10.5,
+    "pos": "DT"
+   },
+   {
+    "player": "Mario Williams",
+    "year": 2012,
+    "value": 10.5,
+    "pos": "DE"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Jairus Byrd",
+    "year": 2009,
+    "value": 9.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Nate Clements",
+    "year": 2004,
+    "value": 6.0,
+    "pos": "S"
+   },
+   {
+    "player": "Nate Clements",
+    "year": 2002,
+    "value": 6.0,
+    "pos": "S"
+   },
+   {
+    "player": "Tre'Davious White",
+    "year": 2019,
+    "value": 6.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Keion Carpenter",
+    "year": 2000,
+    "value": 5.0,
+    "pos": "S"
+   },
+   {
+    "player": "Stephon Gilmore",
+    "year": 2016,
+    "value": 5.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Jordan Poyer",
+    "year": 2021,
+    "value": 5.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Micah Hyde",
+    "year": 2021,
+    "value": 5.0,
+    "pos": "S"
+   },
+   {
+    "player": "Rasul Douglas",
+    "year": 2023,
+    "value": 5.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Jordan Poyer",
+    "year": 2017,
+    "value": 5.0,
+    "pos": "FS"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "Corey Graham",
+    "year": 2015,
+    "value": 86.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Zach Brown",
+    "year": 2016,
+    "value": 81.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Jordan Poyer",
+    "year": 2020,
+    "value": 78.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Antoine Winfield",
+    "year": 2003,
+    "value": 76.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Tremaine Edmunds",
+    "year": 2020,
+    "value": 73.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "London Fletcher",
+    "year": 2005,
+    "value": 71.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Nate Clements",
+    "year": 2005,
+    "value": 70.0,
+    "pos": "S"
+   },
+   {
+    "player": "Tremaine Edmunds",
+    "year": 2018,
+    "value": 70.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "London Fletcher",
+    "year": 2002,
+    "value": 68.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Terrel Bernard",
+    "year": 2023,
+    "value": 68.0,
+    "pos": "LB"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "Dan Carpenter",
+    "year": 2014,
+    "value": 34.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Carpenter",
+    "year": 2013,
+    "value": 33.0,
+    "pos": "K"
+   },
+   {
+    "player": "Rian Lindell",
+    "year": 2008,
+    "value": 30.0,
+    "pos": "K"
+   },
+   {
+    "player": "Steven Hauschka",
+    "year": 2017,
+    "value": 29.0,
+    "pos": "K"
+   },
+   {
+    "player": "Rian Lindell",
+    "year": 2005,
+    "value": 29.0,
+    "pos": "K"
+   },
+   {
+    "player": "Rian Lindell",
+    "year": 2009,
+    "value": 28.0,
+    "pos": "K"
+   },
+   {
+    "player": "Tyler Bass",
+    "year": 2020,
+    "value": 28.0,
+    "pos": "K"
+   },
+   {
+    "player": "Tyler Bass",
+    "year": 2021,
+    "value": 28.0,
+    "pos": "K"
+   },
+   {
+    "player": "Tyler Bass",
+    "year": 2022,
+    "value": 27.0,
+    "pos": "K"
+   },
+   {
+    "player": "Steve Christie",
+    "year": 1999,
+    "value": 25.0,
+    "pos": "K"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Tyler Bass",
+    "year": 2024,
+    "value": 59.0,
+    "pos": "K"
+   },
+   {
+    "player": "Tyler Bass",
+    "year": 2020,
+    "value": 57.0,
+    "pos": "K"
+   },
+   {
+    "player": "Tyler Bass",
+    "year": 2021,
+    "value": 51.0,
+    "pos": "K"
+   },
+   {
+    "player": "Tyler Bass",
+    "year": 2023,
+    "value": 49.0,
+    "pos": "K"
+   },
+   {
+    "player": "Tyler Bass",
+    "year": 2022,
+    "value": 48.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Prater",
+    "year": 2025,
+    "value": 46.0,
+    "pos": "K"
+   },
+   {
+    "player": "Rian Lindell",
+    "year": 2004,
+    "value": 45.0,
+    "pos": "K"
+   },
+   {
+    "player": "Mike Hollis",
+    "year": 2002,
+    "value": 40.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Carpenter",
+    "year": 2016,
+    "value": 40.0,
+    "pos": "K"
+   },
+   {
+    "player": "Rian Lindell",
+    "year": 2012,
+    "value": 39.0,
+    "pos": "K"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "Zach Brown",
+    "year": 2016,
+    "value": 133.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Kiko Alonso",
+    "year": 2013,
+    "value": 131.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Preston Brown",
+    "year": 2017,
+    "value": 128.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Terrel Bernard",
+    "year": 2023,
+    "value": 127.0,
+    "pos": "LB"
+   },
+   {
+    "player": "London Fletcher",
+    "year": 2005,
+    "value": 125.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "London Fletcher",
+    "year": 2002,
+    "value": 119.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Corey Graham",
+    "year": 2015,
+    "value": 117.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Preston Brown",
+    "year": 2016,
+    "value": 117.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Tremaine Edmunds",
+    "year": 2020,
+    "value": 115.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Paul Posluszny",
+    "year": 2010,
+    "value": 114.0,
+    "pos": "MLB"
+   }
+  ]
+ },
+ "career_leaders_1999_2025": {
+  "Passing yards": [
+   {
+    "player": "Josh Allen",
+    "value": 30072.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Fitzpatrick",
+    "value": 11646.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Drew Bledsoe",
+    "value": 10151.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tyrod Taylor",
+    "value": 8857.0,
+    "pos": "QB"
+   },
+   {
+    "player": "J.P. Losman",
+    "value": 6210.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Trent Edwards",
+    "value": 5498.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Doug Flutie",
+    "value": 4827.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Rob Johnson",
+    "value": 3710.0,
+    "pos": "QB"
+   },
+   {
+    "player": "EJ Manuel",
+    "value": 3502.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kyle Orton",
+    "value": 3018.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Josh Allen",
+    "value": 220.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Ryan Fitzpatrick",
+    "value": 80.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Drew Bledsoe",
+    "value": 55.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tyrod Taylor",
+    "value": 51.0,
+    "pos": "QB"
+   },
+   {
+    "player": "J.P. Losman",
+    "value": 33.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Doug Flutie",
+    "value": 27.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Trent Edwards",
+    "value": 24.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Rob Johnson",
+    "value": 19.0,
+    "pos": "QB"
+   },
+   {
+    "player": "EJ Manuel",
+    "value": 19.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kyle Orton",
+    "value": 18.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "Fred Jackson",
+    "value": 5635.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Josh Allen",
+    "value": 4721.0,
+    "pos": "QB"
+   },
+   {
+    "player": "James Cook",
+    "value": 4259.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Travis Henry",
+    "value": 3846.0,
+    "pos": "RB"
+   },
+   {
+    "player": "LeSean McCoy",
+    "value": 3814.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Willis McGahee",
+    "value": 3365.0,
+    "pos": "RB"
+   },
+   {
+    "player": "C.J. Spiller",
+    "value": 3321.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Devin Singletary",
+    "value": 3151.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Marshawn Lynch",
+    "value": 2612.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tyrod Taylor",
+    "value": 1575.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "Josh Allen",
+    "value": 79.0,
+    "pos": "QB"
+   },
+   {
+    "player": "James Cook",
+    "value": 32.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Fred Jackson",
+    "value": 30.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Travis Henry",
+    "value": 27.0,
+    "pos": "RB"
+   },
+   {
+    "player": "LeSean McCoy",
+    "value": 25.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Willis McGahee",
+    "value": 24.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Marshawn Lynch",
+    "value": 17.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Devin Singletary",
+    "value": 16.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tyrod Taylor",
+    "value": 14.0,
+    "pos": "QB"
+   },
+   {
+    "player": "C.J. Spiller",
+    "value": 12.0,
+    "pos": "RB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Eric Moulds",
+    "value": 555.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Stefon Diggs",
+    "value": 445.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Lee Evans",
+    "value": 378.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Fred Jackson",
+    "value": 322.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Josh Reed",
+    "value": 311.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Steve Johnson",
+    "value": 301.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Peerless Price",
+    "value": 287.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Cole Beasley",
+    "value": 237.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dawson Knox",
+    "value": 229.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Robert Woods",
+    "value": 203.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "Eric Moulds",
+    "value": 7104.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Lee Evans",
+    "value": 5933.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Stefon Diggs",
+    "value": 5372.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Steve Johnson",
+    "value": 3832.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Peerless Price",
+    "value": 3711.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Josh Reed",
+    "value": 3575.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Gabe Davis",
+    "value": 2859.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dawson Knox",
+    "value": 2694.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Fred Jackson",
+    "value": 2640.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Cole Beasley",
+    "value": 2473.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Lee Evans",
+    "value": 43.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Stefon Diggs",
+    "value": 37.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Eric Moulds",
+    "value": 37.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Steve Johnson",
+    "value": 28.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Gabe Davis",
+    "value": 28.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dawson Knox",
+    "value": 27.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Peerless Price",
+    "value": 25.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Scott Chandler",
+    "value": 17.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Sammy Watkins",
+    "value": 17.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jay Riemersma",
+    "value": 12.0,
+    "pos": "TE"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "Aaron Schobel",
+    "value": 79.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Jerry Hughes",
+    "value": 53.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Kyle Williams",
+    "value": 49.5,
+    "pos": "DT"
+   },
+   {
+    "player": "Mario Williams",
+    "value": 43.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Marcell Dareus",
+    "value": 34.0,
+    "pos": "DT"
+   },
+   {
+    "player": "Chris Kelsay",
+    "value": 33.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Greg Rousseau",
+    "value": 32.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Ed Oliver",
+    "value": 30.0,
+    "pos": "DT"
+   },
+   {
+    "player": "A.J. Epenesa",
+    "value": 24.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Lorenzo Alexander",
+    "value": 24.0,
+    "pos": "OLB"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Nate Clements",
+    "value": 23.0,
+    "pos": "S"
+   },
+   {
+    "player": "Jordan Poyer",
+    "value": 23.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Jairus Byrd",
+    "value": 22.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Tre'Davious White",
+    "value": 19.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Terrence McGee",
+    "value": 17.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Micah Hyde",
+    "value": 16.0,
+    "pos": "S"
+   },
+   {
+    "player": "Stephon Gilmore",
+    "value": 14.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Leodis McKelvin",
+    "value": 13.0,
+    "pos": "CB"
+   },
+   {
+    "player": "George Wilson",
+    "value": 12.0,
+    "pos": "S"
+   },
+   {
+    "player": "Matt Milano",
+    "value": 10.0,
+    "pos": "OLB"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "Jordan Poyer",
+    "value": 429.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Terrence McGee",
+    "value": 366.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Taron Johnson",
+    "value": 352.0,
+    "pos": "CB"
+   },
+   {
+    "player": "London Fletcher",
+    "value": 315.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Matt Milano",
+    "value": 312.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Nate Clements",
+    "value": 302.0,
+    "pos": "S"
+   },
+   {
+    "player": "Tremaine Edmunds",
+    "value": 300.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Antoine Winfield",
+    "value": 266.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Micah Hyde",
+    "value": 259.0,
+    "pos": "S"
+   },
+   {
+    "player": "Tre'Davious White",
+    "value": 248.0,
+    "pos": "CB"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "Rian Lindell",
+    "value": 225.0,
+    "pos": "K"
+   },
+   {
+    "player": "Tyler Bass",
+    "value": 131.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Carpenter",
+    "value": 109.0,
+    "pos": "K"
+   },
+   {
+    "player": "Steven Hauschka",
+    "value": 73.0,
+    "pos": "K"
+   },
+   {
+    "player": "Steve Christie",
+    "value": 49.0,
+    "pos": "K"
+   },
+   {
+    "player": "Mike Hollis",
+    "value": 25.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Prater",
+    "value": 18.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jake Arians",
+    "value": 12.0,
+    "pos": "K"
+   },
+   {
+    "player": "Mike Badgley",
+    "value": 11.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dave Rayner",
+    "value": 10.0,
+    "pos": "K"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Rian Lindell",
+    "value": 305.0,
+    "pos": "K"
+   },
+   {
+    "player": "Tyler Bass",
+    "value": 264.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Carpenter",
+    "value": 137.0,
+    "pos": "K"
+   },
+   {
+    "player": "Steven Hauschka",
+    "value": 84.0,
+    "pos": "K"
+   },
+   {
+    "player": "Steve Christie",
+    "value": 63.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Prater",
+    "value": 46.0,
+    "pos": "K"
+   },
+   {
+    "player": "Mike Hollis",
+    "value": 40.0,
+    "pos": "K"
+   },
+   {
+    "player": "Mike Badgley",
+    "value": 20.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jake Arians",
+    "value": 16.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dave Rayner",
+    "value": 13.0,
+    "pos": "K"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "Jordan Poyer",
+    "value": 676.0,
+    "pos": "FS"
+   },
+   {
+    "player": "London Fletcher",
+    "value": 549.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Taron Johnson",
+    "value": 513.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Matt Milano",
+    "value": 509.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Tremaine Edmunds",
+    "value": 506.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Kyle Williams",
+    "value": 471.0,
+    "pos": "DT"
+   },
+   {
+    "player": "Preston Brown",
+    "value": 451.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Terrence McGee",
+    "value": 446.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Nate Clements",
+    "value": 393.0,
+    "pos": "S"
+   },
+   {
+    "player": "Micah Hyde",
+    "value": 378.0,
+    "pos": "S"
+   }
+  ]
+ }
+}

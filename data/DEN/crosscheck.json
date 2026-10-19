@@ -1,0 +1,28 @@
+{
+ "draft_first_round": {
+  "status": "Wikipedia page: List of Denver Broncos first-round draft picks",
+  "wiki_entries_parsed": 49,
+  "matched_on_player_and_pick": 38,
+  "draft_first_count": 38,
+  "true_disagreements": [],
+  "note": "Missing in wiki_map may be parser rowspan on multi-pick years, treated as single-source pending not disagreement."
+ },
+ "games_seasons_wl": {
+  "seasons_compared": 27,
+  "matches": 27,
+  "mismatches_sample": [],
+  "note": "Compares Wikipedia season table W-L (columns as parsed) to nflverse-computed REG W-L for 1999+ overlapping years. Zero compared means table format differed \u2014 labeled pending, not a disagreement."
+ },
+ "injuries": {
+  "result": "single-source",
+  "method": "ESPN only (same-publisher roster+injuries counts as one source). Labeled SINGLE-SOURCE/UNVERIFIED in app."
+ },
+ "depth_roster": {
+  "result": "single-source pending official-site parse",
+  "method": "ESPN depth+roster only in generic pipeline; official team site roster cross-check not automated for this team in this run \u2014 labeled single-source in app."
+ },
+ "records": {
+  "result": "single-source",
+  "method": "Wikipedia team-records list (cites PFR). PFR direct fetch blocked 403 previously \u2014 labeled single-source pending except cross-checks noted elsewhere."
+ }
+}

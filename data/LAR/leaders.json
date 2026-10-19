@@ -1,0 +1,1489 @@
+{
+ "source": "Computed from nflverse stats_player regular-season files (1999\u20132025), github.com/nflverse/nflverse-data releases/stats_player \u2014 SINGLE-SOURCE computed. Coverage: regular season 1999\u20132025 only; NOT all-time (pre-1999 excluded), NOT playoffs. Franchise mapping for relocated teams applied by season/code.",
+ "season_leaders": {
+  "Passing yards": [
+   {
+    "player": "Matthew Stafford",
+    "year": 2021,
+    "value": 4886.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kurt Warner",
+    "year": 2001,
+    "value": 4830.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Matthew Stafford",
+    "year": 2025,
+    "value": 4707.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jared Goff",
+    "year": 2018,
+    "value": 4688.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jared Goff",
+    "year": 2019,
+    "value": 4638.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Marc Bulger",
+    "year": 2006,
+    "value": 4301.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kurt Warner",
+    "year": 1999,
+    "value": 4044.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Matthew Stafford",
+    "year": 2023,
+    "value": 3965.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Marc Bulger",
+    "year": 2004,
+    "value": 3964.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jared Goff",
+    "year": 2020,
+    "value": 3952.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Matthew Stafford",
+    "year": 2025,
+    "value": 46.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Matthew Stafford",
+    "year": 2021,
+    "value": 41.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kurt Warner",
+    "year": 1999,
+    "value": 38.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kurt Warner",
+    "year": 2001,
+    "value": 36.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jared Goff",
+    "year": 2018,
+    "value": 32.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jared Goff",
+    "year": 2017,
+    "value": 28.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Marc Bulger",
+    "year": 2006,
+    "value": 24.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Matthew Stafford",
+    "year": 2023,
+    "value": 24.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jared Goff",
+    "year": 2019,
+    "value": 22.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Marc Bulger",
+    "year": 2003,
+    "value": 22.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "Steven Jackson",
+    "year": 2006,
+    "value": 1528.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Steven Jackson",
+    "year": 2009,
+    "value": 1424.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Marshall Faulk",
+    "year": 2001,
+    "value": 1382.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Marshall Faulk",
+    "year": 2000,
+    "value": 1359.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Marshall Faulk",
+    "year": 1999,
+    "value": 1327.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Todd Gurley",
+    "year": 2017,
+    "value": 1305.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Kyren Williams",
+    "year": 2024,
+    "value": 1299.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Kyren Williams",
+    "year": 2025,
+    "value": 1252.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Todd Gurley",
+    "year": 2018,
+    "value": 1251.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Steven Jackson",
+    "year": 2010,
+    "value": 1241.0,
+    "pos": "RB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "Marshall Faulk",
+    "year": 2000,
+    "value": 18.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Todd Gurley",
+    "year": 2018,
+    "value": 17.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Kyren Williams",
+    "year": 2024,
+    "value": 14.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Steven Jackson",
+    "year": 2006,
+    "value": 13.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Todd Gurley",
+    "year": 2017,
+    "value": 13.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Kyren Williams",
+    "year": 2023,
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Todd Gurley",
+    "year": 2019,
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Marshall Faulk",
+    "year": 2001,
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Marshall Faulk",
+    "year": 2003,
+    "value": 10.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Todd Gurley",
+    "year": 2015,
+    "value": 10.0,
+    "pos": "RB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Cooper Kupp",
+    "year": 2021,
+    "value": 145.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Puka Nacua",
+    "year": 2025,
+    "value": 129.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Torry Holt",
+    "year": 2003,
+    "value": 117.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Puka Nacua",
+    "year": 2023,
+    "value": 105.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Torry Holt",
+    "year": 2005,
+    "value": 102.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Cooper Kupp",
+    "year": 2019,
+    "value": 94.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Torry Holt",
+    "year": 2004,
+    "value": 94.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Torry Holt",
+    "year": 2006,
+    "value": 93.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Torry Holt",
+    "year": 2007,
+    "value": 93.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Cooper Kupp",
+    "year": 2020,
+    "value": 92.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "Cooper Kupp",
+    "year": 2021,
+    "value": 1947.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Puka Nacua",
+    "year": 2025,
+    "value": 1715.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Torry Holt",
+    "year": 2003,
+    "value": 1696.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Torry Holt",
+    "year": 2000,
+    "value": 1635.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Puka Nacua",
+    "year": 2023,
+    "value": 1486.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Isaac Bruce",
+    "year": 2000,
+    "value": 1471.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Torry Holt",
+    "year": 2004,
+    "value": 1372.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Torry Holt",
+    "year": 2001,
+    "value": 1363.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Torry Holt",
+    "year": 2005,
+    "value": 1331.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Torry Holt",
+    "year": 2002,
+    "value": 1302.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Cooper Kupp",
+    "year": 2021,
+    "value": 16.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Davante Adams",
+    "year": 2025,
+    "value": 14.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Torry Holt",
+    "year": 2003,
+    "value": 12.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Isaac Bruce",
+    "year": 1999,
+    "value": 11.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Puka Nacua",
+    "year": 2025,
+    "value": 10.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Cooper Kupp",
+    "year": 2019,
+    "value": 10.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Torry Holt",
+    "year": 2004,
+    "value": 10.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Torry Holt",
+    "year": 2006,
+    "value": 10.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Torry Holt",
+    "year": 2005,
+    "value": 9.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Isaac Bruce",
+    "year": 2000,
+    "value": 9.0,
+    "pos": "WR"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "Aaron Donald",
+    "year": 2018,
+    "value": 20.5,
+    "pos": "DL"
+   },
+   {
+    "player": NaN,
+    "year": 2002,
+    "value": 20.0,
+    "pos": "nan"
+   },
+   {
+    "player": "Robert Quinn",
+    "year": 2013,
+    "value": 19.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Kevin Carter",
+    "year": 1999,
+    "value": 15.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Leonard Little",
+    "year": 2001,
+    "value": 14.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Aaron Donald",
+    "year": 2020,
+    "value": 13.5,
+    "pos": "DL"
+   },
+   {
+    "player": "Chris Long",
+    "year": 2011,
+    "value": 13.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Leonard Little",
+    "year": 2003,
+    "value": 12.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Aaron Donald",
+    "year": 2021,
+    "value": 12.5,
+    "pos": "DL"
+   },
+   {
+    "player": "Aaron Donald",
+    "year": 2019,
+    "value": 12.5,
+    "pos": "DL"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Dexter McCleon",
+    "year": 2000,
+    "value": 8.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Oshiomogho Atogwe",
+    "year": 2007,
+    "value": 8.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Trumaine Johnson",
+    "year": 2015,
+    "value": 7.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Dre' Bly",
+    "year": 2001,
+    "value": 6.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Jerametrius Butler",
+    "year": 2004,
+    "value": 5.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Oshiomogho Atogwe",
+    "year": 2008,
+    "value": 5.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Todd Lyght",
+    "year": 1999,
+    "value": 5.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Jerametrius Butler",
+    "year": 2003,
+    "value": 4.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Aeneas Williams",
+    "year": 2001,
+    "value": 4.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Dexter McCleon",
+    "year": 1999,
+    "value": 4.0,
+    "pos": "DB"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "James Laurinaitis",
+    "year": 2012,
+    "value": 110.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "James Laurinaitis",
+    "year": 2011,
+    "value": 95.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Alec Ogletree",
+    "year": 2016,
+    "value": 93.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Alec Ogletree",
+    "year": 2013,
+    "value": 90.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "London Fletcher",
+    "year": 2000,
+    "value": 89.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "James Laurinaitis",
+    "year": 2009,
+    "value": 88.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Jo-Lonn Dunbar",
+    "year": 2012,
+    "value": 88.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Mark Barron",
+    "year": 2016,
+    "value": 88.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Adam Archuleta",
+    "year": 2002,
+    "value": 85.0,
+    "pos": "S"
+   },
+   {
+    "player": "James Laurinaitis",
+    "year": 2010,
+    "value": 84.0,
+    "pos": "ILB"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "Jeff Wilkins",
+    "year": 2003,
+    "value": 39.0,
+    "pos": "K"
+   },
+   {
+    "player": "Greg Zuerlein",
+    "year": 2017,
+    "value": 38.0,
+    "pos": "K"
+   },
+   {
+    "player": "Josh Brown",
+    "year": 2010,
+    "value": 33.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jeff Wilkins",
+    "year": 2006,
+    "value": 32.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Gay",
+    "year": 2021,
+    "value": 32.0,
+    "pos": "K"
+   },
+   {
+    "player": "Josh Brown",
+    "year": 2008,
+    "value": 31.0,
+    "pos": "K"
+   },
+   {
+    "player": "Joshua Karty",
+    "year": 2024,
+    "value": 29.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Gay",
+    "year": 2022,
+    "value": 28.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jeff Wilkins",
+    "year": 2005,
+    "value": 27.0,
+    "pos": "K"
+   },
+   {
+    "player": "Greg Zuerlein",
+    "year": 2018,
+    "value": 27.0,
+    "pos": "K"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Jeff Wilkins",
+    "year": 1999,
+    "value": 61.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jeff Wilkins",
+    "year": 2001,
+    "value": 58.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Gay",
+    "year": 2021,
+    "value": 48.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jeff Wilkins",
+    "year": 2003,
+    "value": 46.0,
+    "pos": "K"
+   },
+   {
+    "player": "Greg Zuerlein",
+    "year": 2017,
+    "value": 44.0,
+    "pos": "K"
+   },
+   {
+    "player": "Greg Zuerlein",
+    "year": 2019,
+    "value": 42.0,
+    "pos": "K"
+   },
+   {
+    "player": "Harrison Mevis",
+    "year": 2025,
+    "value": 39.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jeff Wilkins",
+    "year": 2000,
+    "value": 38.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jeff Wilkins",
+    "year": 2002,
+    "value": 37.0,
+    "pos": "K"
+   },
+   {
+    "player": "Jeff Wilkins",
+    "year": 2005,
+    "value": 36.0,
+    "pos": "K"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "James Laurinaitis",
+    "year": 2012,
+    "value": 135.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "James Laurinaitis",
+    "year": 2011,
+    "value": 132.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Alec Ogletree",
+    "year": 2016,
+    "value": 131.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Nate Landman",
+    "year": 2025,
+    "value": 130.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Ernest Jones",
+    "year": 2023,
+    "value": 127.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Christian Rozeboom",
+    "year": 2024,
+    "value": 125.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Cory Littleton",
+    "year": 2019,
+    "value": 124.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Bobby Wagner",
+    "year": 2022,
+    "value": 124.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Kam Curl",
+    "year": 2025,
+    "value": 118.0,
+    "pos": "SAF"
+   },
+   {
+    "player": "London Fletcher",
+    "year": 2000,
+    "value": 116.0,
+    "pos": "ILB"
+   }
+  ]
+ },
+ "career_leaders_1999_2025": {
+  "Passing yards": [
+   {
+    "player": "Marc Bulger",
+    "value": 22821.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Matthew Stafford",
+    "value": 19407.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jared Goff",
+    "value": 18171.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kurt Warner",
+    "value": 14099.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Sam Bradford",
+    "value": 11065.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Case Keenum",
+    "value": 3029.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jamie Martin",
+    "value": 2703.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Trent Green",
+    "value": 2588.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kellen Clemens",
+    "value": 2258.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Baker Mayfield",
+    "value": 2163.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Matthew Stafford",
+    "value": 141.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Marc Bulger",
+    "value": 122.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jared Goff",
+    "value": 107.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Kurt Warner",
+    "value": 99.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Sam Bradford",
+    "value": 59.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Trent Green",
+    "value": 16.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Case Keenum",
+    "value": 13.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jamie Martin",
+    "value": 12.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Austin Davis",
+    "value": 12.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Baker Mayfield",
+    "value": 10.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "Steven Jackson",
+    "value": 10147.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Marshall Faulk",
+    "value": 6905.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Todd Gurley",
+    "value": 5404.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Kyren Williams",
+    "value": 3834.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Darrell Henderson",
+    "value": 1854.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Cam Akers",
+    "value": 1414.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Malcolm Brown",
+    "value": 1269.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Zac Stacy",
+    "value": 1266.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tavon Austin",
+    "value": 1238.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Tre Mason",
+    "value": 972.0,
+    "pos": "RB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "Todd Gurley",
+    "value": 58.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Marshall Faulk",
+    "value": 58.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Steven Jackson",
+    "value": 56.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Kyren Williams",
+    "value": 36.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Darrell Henderson",
+    "value": 15.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Malcolm Brown",
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Jared Goff",
+    "value": 10.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Cam Akers",
+    "value": 9.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tavon Austin",
+    "value": 9.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Robert Holcombe",
+    "value": 8.0,
+    "pos": "FB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Torry Holt",
+    "value": 866.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Cooper Kupp",
+    "value": 634.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Isaac Bruce",
+    "value": 622.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marshall Faulk",
+    "value": 463.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Steven Jackson",
+    "value": 406.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tyler Higbee",
+    "value": 386.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Robert Woods",
+    "value": 367.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Puka Nacua",
+    "value": 313.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Todd Gurley",
+    "value": 218.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Lance Kendricks",
+    "value": 204.0,
+    "pos": "TE"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "Torry Holt",
+    "value": 12624.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Isaac Bruce",
+    "value": 9354.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Cooper Kupp",
+    "value": 7776.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Robert Woods",
+    "value": 4626.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Puka Nacua",
+    "value": 4191.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marshall Faulk",
+    "value": 3999.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tyler Higbee",
+    "value": 3949.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Steven Jackson",
+    "value": 3316.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Kenny Britt",
+    "value": 2431.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Lance Kendricks",
+    "value": 2132.0,
+    "pos": "TE"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Torry Holt",
+    "value": 73.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Cooper Kupp",
+    "value": 57.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Isaac Bruce",
+    "value": 54.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Marshall Faulk",
+    "value": 27.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tyler Higbee",
+    "value": 27.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Robert Woods",
+    "value": 23.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Puka Nacua",
+    "value": 19.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Lance Kendricks",
+    "value": 17.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Az-Zahir Hakim",
+    "value": 15.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Davante Adams",
+    "value": 14.0,
+    "pos": "WR"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "Aaron Donald",
+    "value": 111.0,
+    "pos": "DL"
+   },
+   {
+    "player": "Leonard Little",
+    "value": 85.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Robert Quinn",
+    "value": 62.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Chris Long",
+    "value": 54.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Grant Wistrom",
+    "value": 36.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Leonard Floyd",
+    "value": 29.0,
+    "pos": "DE"
+   },
+   {
+    "player": "James Hall",
+    "value": 29.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Michael Brockers",
+    "value": 28.0,
+    "pos": "DT"
+   },
+   {
+    "player": "Byron Young",
+    "value": 27.5,
+    "pos": "LB"
+   },
+   {
+    "player": "William Hayes",
+    "value": 26.5,
+    "pos": "DE"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Oshiomogho Atogwe",
+    "value": 22.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Trumaine Johnson",
+    "value": 18.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Dexter McCleon",
+    "value": 17.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Dre' Bly",
+    "value": 14.0,
+    "pos": "CB"
+   },
+   {
+    "player": "John Johnson",
+    "value": 11.0,
+    "pos": "DB"
+   },
+   {
+    "player": "James Laurinaitis",
+    "value": 10.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Jalen Ramsey",
+    "value": 10.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Janoris Jenkins",
+    "value": 10.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Jerametrius Butler",
+    "value": 9.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Aeneas Williams",
+    "value": 9.0,
+    "pos": "FS"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "James Laurinaitis",
+    "value": 588.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Alec Ogletree",
+    "value": 339.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Mark Barron",
+    "value": 311.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Oshiomogho Atogwe",
+    "value": 299.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Pisa Tinoisamoa",
+    "value": 298.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Aaron Donald",
+    "value": 297.0,
+    "pos": "DL"
+   },
+   {
+    "player": "Adam Archuleta",
+    "value": 290.0,
+    "pos": "S"
+   },
+   {
+    "player": "Leonard Little",
+    "value": 287.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Ronald Bartell",
+    "value": 273.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Trumaine Johnson",
+    "value": 263.0,
+    "pos": "CB"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "Jeff Wilkins",
+    "value": 218.0,
+    "pos": "K"
+   },
+   {
+    "player": "Greg Zuerlein",
+    "value": 201.0,
+    "pos": "K"
+   },
+   {
+    "player": "Josh Brown",
+    "value": 104.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Gay",
+    "value": 74.0,
+    "pos": "K"
+   },
+   {
+    "player": "Joshua Karty",
+    "value": 39.0,
+    "pos": "K"
+   },
+   {
+    "player": "Brett Maher",
+    "value": 17.0,
+    "pos": "K"
+   },
+   {
+    "player": "Lucas Havrisik",
+    "value": 15.0,
+    "pos": "K"
+   },
+   {
+    "player": "Harrison Mevis",
+    "value": 12.0,
+    "pos": "K"
+   },
+   {
+    "player": "Zach Hocker",
+    "value": 10.0,
+    "pos": "K"
+   },
+   {
+    "player": "Pete Stoyanovich",
+    "value": 5.0,
+    "pos": "K"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Jeff Wilkins",
+    "value": 368.0,
+    "pos": "K"
+   },
+   {
+    "player": "Greg Zuerlein",
+    "value": 264.0,
+    "pos": "K"
+   },
+   {
+    "player": "Matt Gay",
+    "value": 95.0,
+    "pos": "K"
+   },
+   {
+    "player": "Josh Brown",
+    "value": 79.0,
+    "pos": "K"
+   },
+   {
+    "player": "Joshua Karty",
+    "value": 55.0,
+    "pos": "K"
+   },
+   {
+    "player": "Harrison Mevis",
+    "value": 39.0,
+    "pos": "K"
+   },
+   {
+    "player": "Pete Stoyanovich",
+    "value": 20.0,
+    "pos": "K"
+   },
+   {
+    "player": "Lucas Havrisik",
+    "value": 19.0,
+    "pos": "K"
+   },
+   {
+    "player": "Sam Ficken",
+    "value": 14.0,
+    "pos": "K"
+   },
+   {
+    "player": "Brett Maher",
+    "value": 13.0,
+    "pos": "K"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "James Laurinaitis",
+    "value": 787.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Aaron Donald",
+    "value": 500.0,
+    "pos": "DL"
+   },
+   {
+    "player": "Alec Ogletree",
+    "value": 475.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Mark Barron",
+    "value": 421.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Pisa Tinoisamoa",
+    "value": 384.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "John Johnson",
+    "value": 375.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Michael Brockers",
+    "value": 357.0,
+    "pos": "DT"
+   },
+   {
+    "player": "Oshiomogho Atogwe",
+    "value": 351.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Adam Archuleta",
+    "value": 350.0,
+    "pos": "S"
+   },
+   {
+    "player": "Leonard Little",
+    "value": 343.0,
+    "pos": "DE"
+   }
+  ]
+ }
+}

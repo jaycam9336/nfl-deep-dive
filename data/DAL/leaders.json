@@ -1,0 +1,1489 @@
+{
+ "source": "Computed from nflverse stats_player regular-season files (1999\u20132025), github.com/nflverse/nflverse-data releases/stats_player \u2014 SINGLE-SOURCE computed. Coverage: regular season 1999\u20132025 only; NOT all-time (pre-1999 excluded), NOT playoffs. Franchise mapping for relocated teams applied by season/code.",
+ "season_leaders": {
+  "Passing yards": [
+   {
+    "player": "Tony Romo",
+    "year": 2012,
+    "value": 4903.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Dak Prescott",
+    "year": 2019,
+    "value": 4902.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Dak Prescott",
+    "year": 2025,
+    "value": 4552.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Dak Prescott",
+    "year": 2023,
+    "value": 4516.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tony Romo",
+    "year": 2009,
+    "value": 4483.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Dak Prescott",
+    "year": 2021,
+    "value": 4449.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tony Romo",
+    "year": 2007,
+    "value": 4211.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tony Romo",
+    "year": 2011,
+    "value": 4184.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Dak Prescott",
+    "year": 2018,
+    "value": 3885.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tony Romo",
+    "year": 2013,
+    "value": 3828.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Dak Prescott",
+    "year": 2021,
+    "value": 37.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Dak Prescott",
+    "year": 2023,
+    "value": 36.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tony Romo",
+    "year": 2007,
+    "value": 36.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tony Romo",
+    "year": 2014,
+    "value": 34.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tony Romo",
+    "year": 2011,
+    "value": 31.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tony Romo",
+    "year": 2013,
+    "value": 31.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Dak Prescott",
+    "year": 2025,
+    "value": 30.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Dak Prescott",
+    "year": 2019,
+    "value": 30.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tony Romo",
+    "year": 2012,
+    "value": 28.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tony Romo",
+    "year": 2008,
+    "value": 26.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "DeMarco Murray",
+    "year": 2014,
+    "value": 1845.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ezekiel Elliott",
+    "year": 2016,
+    "value": 1631.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ezekiel Elliott",
+    "year": 2018,
+    "value": 1434.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Emmitt Smith",
+    "year": 1999,
+    "value": 1397.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ezekiel Elliott",
+    "year": 2019,
+    "value": 1357.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Emmitt Smith",
+    "year": 2000,
+    "value": 1203.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Javonte Williams",
+    "year": 2025,
+    "value": 1201.0,
+    "pos": "RB"
+   },
+   {
+    "player": "DeMarco Murray",
+    "year": 2013,
+    "value": 1121.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Darren McFadden",
+    "year": 2015,
+    "value": 1089.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Julius Jones",
+    "year": 2006,
+    "value": 1084.0,
+    "pos": "RB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "Ezekiel Elliott",
+    "year": 2016,
+    "value": 15.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Marion Barber",
+    "year": 2006,
+    "value": 14.0,
+    "pos": "RB"
+   },
+   {
+    "player": "DeMarco Murray",
+    "year": 2014,
+    "value": 13.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ezekiel Elliott",
+    "year": 2022,
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ezekiel Elliott",
+    "year": 2019,
+    "value": 12.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Emmitt Smith",
+    "year": 1999,
+    "value": 11.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Javonte Williams",
+    "year": 2025,
+    "value": 11.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Marion Barber",
+    "year": 2007,
+    "value": 10.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Ezekiel Elliott",
+    "year": 2021,
+    "value": 10.0,
+    "pos": "RB"
+   },
+   {
+    "player": "DeMarco Murray",
+    "year": 2013,
+    "value": 9.0,
+    "pos": "RB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "CeeDee Lamb",
+    "year": 2023,
+    "value": 135.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jason Witten",
+    "year": 2012,
+    "value": 110.0,
+    "pos": "TE"
+   },
+   {
+    "player": "CeeDee Lamb",
+    "year": 2022,
+    "value": 107.0,
+    "pos": "WR"
+   },
+   {
+    "player": "CeeDee Lamb",
+    "year": 2024,
+    "value": 101.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jason Witten",
+    "year": 2007,
+    "value": 96.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Jason Witten",
+    "year": 2009,
+    "value": 94.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Jason Witten",
+    "year": 2010,
+    "value": 94.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Dez Bryant",
+    "year": 2013,
+    "value": 93.0,
+    "pos": "WR"
+   },
+   {
+    "player": "George Pickens",
+    "year": 2025,
+    "value": 93.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Amari Cooper",
+    "year": 2020,
+    "value": 92.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "CeeDee Lamb",
+    "year": 2023,
+    "value": 1749.0,
+    "pos": "WR"
+   },
+   {
+    "player": "George Pickens",
+    "year": 2025,
+    "value": 1429.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dez Bryant",
+    "year": 2012,
+    "value": 1371.0,
+    "pos": "WR"
+   },
+   {
+    "player": "CeeDee Lamb",
+    "year": 2022,
+    "value": 1359.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Terrell Owens",
+    "year": 2007,
+    "value": 1355.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dez Bryant",
+    "year": 2014,
+    "value": 1320.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Miles Austin",
+    "year": 2009,
+    "value": 1320.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dez Bryant",
+    "year": 2013,
+    "value": 1233.0,
+    "pos": "WR"
+   },
+   {
+    "player": "CeeDee Lamb",
+    "year": 2024,
+    "value": 1194.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Amari Cooper",
+    "year": 2019,
+    "value": 1189.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Dez Bryant",
+    "year": 2014,
+    "value": 16.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Terrell Owens",
+    "year": 2007,
+    "value": 15.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dez Bryant",
+    "year": 2013,
+    "value": 13.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Terrell Owens",
+    "year": 2006,
+    "value": 13.0,
+    "pos": "WR"
+   },
+   {
+    "player": "CeeDee Lamb",
+    "year": 2023,
+    "value": 12.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dez Bryant",
+    "year": 2012,
+    "value": 12.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Miles Austin",
+    "year": 2009,
+    "value": 11.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Laurent Robinson",
+    "year": 2011,
+    "value": 11.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Terrell Owens",
+    "year": 2008,
+    "value": 10.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jason Witten",
+    "year": 2010,
+    "value": 9.0,
+    "pos": "TE"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "DeMarcus Ware",
+    "year": 2008,
+    "value": 20.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "DeMarcus Ware",
+    "year": 2011,
+    "value": 19.5,
+    "pos": "OLB"
+   },
+   {
+    "player": "DeMarcus Ware",
+    "year": 2010,
+    "value": 15.5,
+    "pos": "OLB"
+   },
+   {
+    "player": "DeMarcus Lawrence",
+    "year": 2017,
+    "value": 14.5,
+    "pos": "LB"
+   },
+   {
+    "player": "Micah Parsons",
+    "year": 2023,
+    "value": 14.0,
+    "pos": "LB"
+   },
+   {
+    "player": "DeMarcus Ware",
+    "year": 2007,
+    "value": 14.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Micah Parsons",
+    "year": 2022,
+    "value": 13.5,
+    "pos": "LB"
+   },
+   {
+    "player": "Micah Parsons",
+    "year": 2021,
+    "value": 13.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Greg Ellis",
+    "year": 2007,
+    "value": 12.5,
+    "pos": "DE"
+   },
+   {
+    "player": "DeMarcus Ware",
+    "year": 2006,
+    "value": 12.0,
+    "pos": "OLB"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Trevon Diggs",
+    "year": 2021,
+    "value": 11.0,
+    "pos": "CB"
+   },
+   {
+    "player": "DaRon Bland",
+    "year": 2023,
+    "value": 9.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Anthony Henry",
+    "year": 2007,
+    "value": 6.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Derek Ross",
+    "year": 2002,
+    "value": 5.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Roy Williams",
+    "year": 2002,
+    "value": 5.0,
+    "pos": "S"
+   },
+   {
+    "player": "Ken Hamlin",
+    "year": 2007,
+    "value": 5.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Bruce Carter",
+    "year": 2014,
+    "value": 5.0,
+    "pos": "LB"
+   },
+   {
+    "player": "DaRon Bland",
+    "year": 2022,
+    "value": 5.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Gerald Sensabaugh",
+    "year": 2010,
+    "value": 5.0,
+    "pos": "FS"
+   },
+   {
+    "player": "Terence Newman",
+    "year": 2010,
+    "value": 5.0,
+    "pos": "CB"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "Barry Church",
+    "year": 2013,
+    "value": 100.0,
+    "pos": "S"
+   },
+   {
+    "player": "Leighton Vander Esch",
+    "year": 2018,
+    "value": 97.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Jaylon Smith",
+    "year": 2020,
+    "value": 87.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Dat Nguyen",
+    "year": 2001,
+    "value": 86.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Sean Lee",
+    "year": 2016,
+    "value": 83.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Jaylon Smith",
+    "year": 2019,
+    "value": 80.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Roy Williams",
+    "year": 2002,
+    "value": 79.0,
+    "pos": "S"
+   },
+   {
+    "player": "Dat Nguyen",
+    "year": 2003,
+    "value": 78.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Jaylon Smith",
+    "year": 2018,
+    "value": 76.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Dexter Coakley",
+    "year": 2002,
+    "value": 74.0,
+    "pos": "LB"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "Brandon Aubrey",
+    "year": 2024,
+    "value": 40.0,
+    "pos": "K"
+   },
+   {
+    "player": "Brandon Aubrey",
+    "year": 2023,
+    "value": 36.0,
+    "pos": "K"
+   },
+   {
+    "player": "Brandon Aubrey",
+    "year": 2025,
+    "value": 36.0,
+    "pos": "K"
+   },
+   {
+    "player": "Greg Zuerlein",
+    "year": 2020,
+    "value": 34.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Bailey",
+    "year": 2011,
+    "value": 32.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Bailey",
+    "year": 2015,
+    "value": 30.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Bailey",
+    "year": 2012,
+    "value": 29.0,
+    "pos": "K"
+   },
+   {
+    "player": "Brett Maher",
+    "year": 2018,
+    "value": 29.0,
+    "pos": "K"
+   },
+   {
+    "player": "Brett Maher",
+    "year": 2022,
+    "value": 29.0,
+    "pos": "K"
+   },
+   {
+    "player": "Greg Zuerlein",
+    "year": 2021,
+    "value": 29.0,
+    "pos": "K"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Dan Bailey",
+    "year": 2014,
+    "value": 56.0,
+    "pos": "K"
+   },
+   {
+    "player": "Nick Folk",
+    "year": 2007,
+    "value": 53.0,
+    "pos": "K"
+   },
+   {
+    "player": "Brett Maher",
+    "year": 2022,
+    "value": 50.0,
+    "pos": "K"
+   },
+   {
+    "player": "Brandon Aubrey",
+    "year": 2023,
+    "value": 49.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Bailey",
+    "year": 2013,
+    "value": 47.0,
+    "pos": "K"
+   },
+   {
+    "player": "Brandon Aubrey",
+    "year": 2025,
+    "value": 47.0,
+    "pos": "K"
+   },
+   {
+    "player": "Dan Bailey",
+    "year": 2016,
+    "value": 46.0,
+    "pos": "K"
+   },
+   {
+    "player": "Greg Zuerlein",
+    "year": 2021,
+    "value": 42.0,
+    "pos": "K"
+   },
+   {
+    "player": "David Buehler",
+    "year": 2010,
+    "value": 42.0,
+    "pos": "K"
+   },
+   {
+    "player": "Nick Folk",
+    "year": 2008,
+    "value": 42.0,
+    "pos": "K"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "Jaylon Smith",
+    "year": 2020,
+    "value": 152.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Jaylon Smith",
+    "year": 2019,
+    "value": 139.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Sean Lee",
+    "year": 2016,
+    "value": 135.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Leighton Vander Esch",
+    "year": 2018,
+    "value": 135.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Eric Kendricks",
+    "year": 2024,
+    "value": 128.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Barry Church",
+    "year": 2013,
+    "value": 128.0,
+    "pos": "S"
+   },
+   {
+    "player": "Sean Lee",
+    "year": 2015,
+    "value": 117.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Jaylon Smith",
+    "year": 2018,
+    "value": 115.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Dat Nguyen",
+    "year": 2003,
+    "value": 109.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Barry Church",
+    "year": 2015,
+    "value": 109.0,
+    "pos": "S"
+   }
+  ]
+ },
+ "career_leaders_1999_2025": {
+  "Passing yards": [
+   {
+    "player": "Dak Prescott",
+    "value": 35989.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Tony Romo",
+    "value": 34183.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Quincy Carter",
+    "value": 5839.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Drew Bledsoe",
+    "value": 4803.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Troy Aikman",
+    "value": 4596.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Vinny Testaverde",
+    "value": 3532.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Cooper Rush",
+    "value": 3463.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jon Kitna",
+    "value": 2452.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Andy Dalton",
+    "value": 2170.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Chad Hutchinson",
+    "value": 1563.0,
+    "pos": "QB"
+   }
+  ],
+  "Passing TDs": [
+   {
+    "player": "Tony Romo",
+    "value": 248.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Dak Prescott",
+    "value": 243.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Drew Bledsoe",
+    "value": 30.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Quincy Carter",
+    "value": 29.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Troy Aikman",
+    "value": 24.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Cooper Rush",
+    "value": 20.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Jon Kitna",
+    "value": 17.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Vinny Testaverde",
+    "value": 17.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Andy Dalton",
+    "value": 14.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Chad Hutchinson",
+    "value": 7.0,
+    "pos": "QB"
+   }
+  ],
+  "Rushing yards": [
+   {
+    "player": "Ezekiel Elliott",
+    "value": 8488.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Emmitt Smith",
+    "value": 4596.0,
+    "pos": "RB"
+   },
+   {
+    "player": "DeMarco Murray",
+    "value": 4526.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Marion Barber",
+    "value": 4356.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tony Pollard",
+    "value": 3621.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Julius Jones",
+    "value": 3480.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Felix Jones",
+    "value": 2728.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Dak Prescott",
+    "value": 2115.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Troy Hambrick",
+    "value": 1896.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Rico Dowdle",
+    "value": 1464.0,
+    "pos": "RB"
+   }
+  ],
+  "Rushing TDs": [
+   {
+    "player": "Ezekiel Elliott",
+    "value": 71.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Marion Barber",
+    "value": 47.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Dak Prescott",
+    "value": 31.0,
+    "pos": "QB"
+   },
+   {
+    "player": "Emmitt Smith",
+    "value": 28.0,
+    "pos": "RB"
+   },
+   {
+    "player": "DeMarco Murray",
+    "value": 28.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Tony Pollard",
+    "value": 23.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Julius Jones",
+    "value": 18.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Felix Jones",
+    "value": 11.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Javonte Williams",
+    "value": 11.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Joseph Randle",
+    "value": 9.0,
+    "pos": "RB"
+   }
+  ],
+  "Receptions": [
+   {
+    "player": "Jason Witten",
+    "value": 1215.0,
+    "pos": "TE"
+   },
+   {
+    "player": "CeeDee Lamb",
+    "value": 571.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Dez Bryant",
+    "value": 529.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Cole Beasley",
+    "value": 319.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Ezekiel Elliott",
+    "value": 317.0,
+    "pos": "RB"
+   },
+   {
+    "player": "Amari Cooper",
+    "value": 314.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Miles Austin",
+    "value": 301.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Michael Gallup",
+    "value": 266.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Terrell Owens",
+    "value": 235.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Terrance Williams",
+    "value": 232.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving yards": [
+   {
+    "player": "Jason Witten",
+    "value": 12977.0,
+    "pos": "TE"
+   },
+   {
+    "player": "Dez Bryant",
+    "value": 7448.0,
+    "pos": "WR"
+   },
+   {
+    "player": "CeeDee Lamb",
+    "value": 7416.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Miles Austin",
+    "value": 4481.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Amari Cooper",
+    "value": 4173.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Michael Gallup",
+    "value": 3744.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Terrell Owens",
+    "value": 3587.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Terrance Williams",
+    "value": 3377.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Terry Glenn",
+    "value": 3337.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Cole Beasley",
+    "value": 3271.0,
+    "pos": "WR"
+   }
+  ],
+  "Receiving TDs": [
+   {
+    "player": "Dez Bryant",
+    "value": 73.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Jason Witten",
+    "value": 72.0,
+    "pos": "TE"
+   },
+   {
+    "player": "CeeDee Lamb",
+    "value": 41.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Terrell Owens",
+    "value": 38.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Miles Austin",
+    "value": 34.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Amari Cooper",
+    "value": 28.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Cole Beasley",
+    "value": 23.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Patrick Crayton",
+    "value": 23.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Michael Gallup",
+    "value": 21.0,
+    "pos": "WR"
+   },
+   {
+    "player": "Terry Glenn",
+    "value": 20.0,
+    "pos": "WR"
+   }
+  ],
+  "Sacks (def)": [
+   {
+    "player": "DeMarcus Ware",
+    "value": 117.5,
+    "pos": "OLB"
+   },
+   {
+    "player": "Greg Ellis",
+    "value": 72.5,
+    "pos": "DE"
+   },
+   {
+    "player": "DeMarcus Lawrence",
+    "value": 61.5,
+    "pos": "LB"
+   },
+   {
+    "player": "Micah Parsons",
+    "value": 52.5,
+    "pos": "LB"
+   },
+   {
+    "player": "Anthony Spencer",
+    "value": 33.5,
+    "pos": "LB"
+   },
+   {
+    "player": "Jason Hatcher",
+    "value": 27.0,
+    "pos": "DE"
+   },
+   {
+    "player": "Jay Ratliff",
+    "value": 26.5,
+    "pos": "DE"
+   },
+   {
+    "player": "Tyrone Crawford",
+    "value": 25.0,
+    "pos": "DT"
+   },
+   {
+    "player": "Dorance Armstrong",
+    "value": 23.5,
+    "pos": "DE"
+   },
+   {
+    "player": "La'Roi Glover",
+    "value": 21.5,
+    "pos": "DT"
+   }
+  ],
+  "Interceptions (def)": [
+   {
+    "player": "Terence Newman",
+    "value": 32.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Trevon Diggs",
+    "value": 20.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Roy Williams",
+    "value": 19.0,
+    "pos": "S"
+   },
+   {
+    "player": "DaRon Bland",
+    "value": 15.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Sean Lee",
+    "value": 14.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Anthony Henry",
+    "value": 12.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Jourdan Lewis",
+    "value": 10.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Darren Woodson",
+    "value": 9.0,
+    "pos": "S"
+   },
+   {
+    "player": "Anthony Brown",
+    "value": 9.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Orlando Scandrick",
+    "value": 8.0,
+    "pos": "DB"
+   }
+  ],
+  "Solo tackles": [
+   {
+    "player": "Terence Newman",
+    "value": 465.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Sean Lee",
+    "value": 465.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Bradie James",
+    "value": 438.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "DeMarcus Ware",
+    "value": 403.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Roy Williams",
+    "value": 383.0,
+    "pos": "S"
+   },
+   {
+    "player": "Dexter Coakley",
+    "value": 366.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Dat Nguyen",
+    "value": 355.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Orlando Scandrick",
+    "value": 342.0,
+    "pos": "DB"
+   },
+   {
+    "player": "Barry Church",
+    "value": 338.0,
+    "pos": "S"
+   },
+   {
+    "player": "Greg Ellis",
+    "value": 301.0,
+    "pos": "DE"
+   }
+  ],
+  "Field goals made": [
+   {
+    "player": "Dan Bailey",
+    "value": 186.0,
+    "pos": "K"
+   },
+   {
+    "player": "Brandon Aubrey",
+    "value": 112.0,
+    "pos": "K"
+   },
+   {
+    "player": "Brett Maher",
+    "value": 78.0,
+    "pos": "K"
+   },
+   {
+    "player": "Nick Folk",
+    "value": 64.0,
+    "pos": "K"
+   },
+   {
+    "player": "Greg Zuerlein",
+    "value": 63.0,
+    "pos": "K"
+   },
+   {
+    "player": "Billy Cundiff",
+    "value": 60.0,
+    "pos": "K"
+   },
+   {
+    "player": "Tim Seder",
+    "value": 36.0,
+    "pos": "K"
+   },
+   {
+    "player": "David Buehler",
+    "value": 24.0,
+    "pos": "K"
+   },
+   {
+    "player": "Shaun Suisham",
+    "value": 23.0,
+    "pos": "K"
+   },
+   {
+    "player": "Mike Vanderjagt",
+    "value": 13.0,
+    "pos": "K"
+   }
+  ],
+  "Extra points made": [
+   {
+    "player": "Dan Bailey",
+    "value": 276.0,
+    "pos": "K"
+   },
+   {
+    "player": "Nick Folk",
+    "value": 131.0,
+    "pos": "K"
+   },
+   {
+    "player": "Brandon Aubrey",
+    "value": 126.0,
+    "pos": "K"
+   },
+   {
+    "player": "Brett Maher",
+    "value": 118.0,
+    "pos": "K"
+   },
+   {
+    "player": "Billy Cundiff",
+    "value": 100.0,
+    "pos": "K"
+   },
+   {
+    "player": "Greg Zuerlein",
+    "value": 75.0,
+    "pos": "K"
+   },
+   {
+    "player": "David Buehler",
+    "value": 42.0,
+    "pos": "K"
+   },
+   {
+    "player": "Tim Seder",
+    "value": 39.0,
+    "pos": "K"
+   },
+   {
+    "player": "Shaun Suisham",
+    "value": 33.0,
+    "pos": "K"
+   },
+   {
+    "player": "Mike Vanderjagt",
+    "value": 33.0,
+    "pos": "K"
+   }
+  ],
+  "Total tackles": [
+   {
+    "player": "Sean Lee",
+    "value": 746.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Bradie James",
+    "value": 667.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "DeMarcus Ware",
+    "value": 535.0,
+    "pos": "OLB"
+   },
+   {
+    "player": "Terence Newman",
+    "value": 518.0,
+    "pos": "CB"
+   },
+   {
+    "player": "Jaylon Smith",
+    "value": 485.0,
+    "pos": "MLB"
+   },
+   {
+    "player": "Dexter Coakley",
+    "value": 483.0,
+    "pos": "LB"
+   },
+   {
+    "player": "Roy Williams",
+    "value": 477.0,
+    "pos": "S"
+   },
+   {
+    "player": "Dat Nguyen",
+    "value": 468.0,
+    "pos": "ILB"
+   },
+   {
+    "player": "Barry Church",
+    "value": 463.0,
+    "pos": "S"
+   },
+   {
+    "player": "Leighton Vander Esch",
+    "value": 444.0,
+    "pos": "OLB"
+   }
+  ]
+ }
+}

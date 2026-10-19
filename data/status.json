@@ -1,0 +1,619 @@
+{
+ "complete": [
+  "SEA",
+  "ARI",
+  "ATL",
+  "BAL",
+  "BUF",
+  "CAR",
+  "CHI",
+  "CIN",
+  "CLE",
+  "DAL",
+  "DEN",
+  "DET",
+  "GB",
+  "HOU",
+  "IND",
+  "JAX",
+  "KC",
+  "LV",
+  "LAC",
+  "LAR",
+  "MIA",
+  "MIN",
+  "NE",
+  "NO",
+  "NYG",
+  "NYJ",
+  "PHI",
+  "PIT",
+  "SF",
+  "TB",
+  "TEN",
+  "WSH"
+ ],
+ "generated_ct": "Oct 19, 2026 12:31 AM CT",
+ "teams": {
+  "SEA": {
+   "abbr": "SEA",
+   "core_roster": 82,
+   "depth_charts": 3,
+   "injuries_non_active": 10,
+   "draft_picks": 429,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 357,
+   "records_page": "List of Seattle Seahawks team records",
+   "seasons_wiki": 47,
+   "missing_season_years": [
+    1978,
+    1987,
+    2021
+   ],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 32,
+   "college": "48/62 with college season stats; 43 draft 2-source matches"
+  },
+  "ARI": {
+   "abbr": "ARI",
+   "core_roster": 84,
+   "depth_charts": 3,
+   "injuries_non_active": 8,
+   "draft_picks": 440,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": null,
+   "seasons_wiki": 106,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 10,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "ATL": {
+   "abbr": "ATL",
+   "core_roster": 79,
+   "depth_charts": 3,
+   "injuries_non_active": 11,
+   "draft_picks": 399,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": null,
+   "seasons_wiki": 60,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 14,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "BAL": {
+   "abbr": "BAL",
+   "core_roster": 78,
+   "depth_charts": 3,
+   "injuries_non_active": 8,
+   "draft_picks": 266,
+   "draft_years": [
+    1996,
+    2026
+   ],
+   "records": 0,
+   "records_page": "List of Baltimore Ravens team records",
+   "seasons_wiki": 30,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 32,
+   "college": "51/64 with college season stats; 53 draft 2-source matches"
+  },
+  "BUF": {
+   "abbr": "BUF",
+   "core_roster": 74,
+   "depth_charts": 3,
+   "injuries_non_active": 6,
+   "draft_picks": 442,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": null,
+   "seasons_wiki": 66,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 17,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "CAR": {
+   "abbr": "CAR",
+   "core_roster": 79,
+   "depth_charts": 3,
+   "injuries_non_active": 11,
+   "draft_picks": 239,
+   "draft_years": [
+    1995,
+    2026
+   ],
+   "records": 61,
+   "records_page": "List of Carolina Panthers team records",
+   "seasons_wiki": 31,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 16,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "CHI": {
+   "abbr": "CHI",
+   "core_roster": 82,
+   "depth_charts": 3,
+   "injuries_non_active": 11,
+   "draft_picks": 427,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 103,
+   "records_page": "List of Chicago Bears team records",
+   "seasons_wiki": 107,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 11,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "CIN": {
+   "abbr": "CIN",
+   "core_roster": 74,
+   "depth_charts": 3,
+   "injuries_non_active": 4,
+   "draft_picks": 464,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": null,
+   "seasons_wiki": 58,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 14,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "CLE": {
+   "abbr": "CLE",
+   "core_roster": 80,
+   "depth_charts": 3,
+   "injuries_non_active": 12,
+   "draft_picks": 384,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": null,
+   "seasons_wiki": 80,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 4,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "DAL": {
+   "abbr": "DAL",
+   "core_roster": 79,
+   "depth_charts": 3,
+   "injuries_non_active": 9,
+   "draft_picks": 454,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": null,
+   "seasons_wiki": 66,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 15,
+   "college": "57/65 with college season stats; 43 draft 2-source matches"
+  },
+  "DEN": {
+   "abbr": "DEN",
+   "core_roster": 79,
+   "depth_charts": 3,
+   "injuries_non_active": 9,
+   "draft_picks": 411,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": null,
+   "seasons_wiki": 66,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 18,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "DET": {
+   "abbr": "DET",
+   "core_roster": 82,
+   "depth_charts": 3,
+   "injuries_non_active": 6,
+   "draft_picks": 409,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": null,
+   "seasons_wiki": 98,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 8,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "GB": {
+   "abbr": "GB",
+   "core_roster": 81,
+   "depth_charts": 3,
+   "injuries_non_active": 11,
+   "draft_picks": 468,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 25,
+   "records_page": "List of Green Bay Packers team records",
+   "seasons_wiki": 108,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 33,
+   "college": "57/67 with college season stats; 53 draft 2-source matches"
+  },
+  "HOU": {
+   "abbr": "HOU",
+   "core_roster": 85,
+   "depth_charts": 3,
+   "injuries_non_active": 9,
+   "draft_picks": 199,
+   "draft_years": [
+    2002,
+    2026
+   ],
+   "records": 117,
+   "records_page": "List of Houston Texans team records",
+   "seasons_wiki": 24,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 16,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "IND": {
+   "abbr": "IND",
+   "core_roster": 77,
+   "depth_charts": 3,
+   "injuries_non_active": 10,
+   "draft_picks": 432,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 100,
+   "records_page": "List of Indianapolis Colts team records",
+   "seasons_wiki": 73,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 28,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "JAX": {
+   "abbr": "JAX",
+   "core_roster": 80,
+   "depth_charts": 3,
+   "injuries_non_active": 8,
+   "draft_picks": 273,
+   "draft_years": [
+    1995,
+    2026
+   ],
+   "records": 293,
+   "records_page": "List of Jacksonville Jaguars team records",
+   "seasons_wiki": 31,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 11,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "KC": {
+   "abbr": "KC",
+   "core_roster": 77,
+   "depth_charts": 3,
+   "injuries_non_active": 9,
+   "draft_picks": 406,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 203,
+   "records_page": "List of Kansas City Chiefs team records",
+   "seasons_wiki": 66,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 29,
+   "college": "52/63 with college season stats; 44 draft 2-source matches"
+  },
+  "LV": {
+   "abbr": "LV",
+   "core_roster": 80,
+   "depth_charts": 3,
+   "injuries_non_active": 8,
+   "draft_picks": 400,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": null,
+   "seasons_wiki": 66,
+   "missing_season_years": [],
+   "h2h_opponents": 33,
+   "playoff_games_1999plus": 9,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "LAC": {
+   "abbr": "LAC",
+   "core_roster": 79,
+   "depth_charts": 3,
+   "injuries_non_active": 10,
+   "draft_picks": 417,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": null,
+   "seasons_wiki": 66,
+   "missing_season_years": [],
+   "h2h_opponents": 33,
+   "playoff_games_1999plus": 15,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "LAR": {
+   "abbr": "LAR",
+   "core_roster": 80,
+   "depth_charts": 3,
+   "injuries_non_active": 9,
+   "draft_picks": 456,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 19,
+   "records_page": "List of Los Angeles Rams team records",
+   "seasons_wiki": 90,
+   "missing_season_years": [],
+   "h2h_opponents": 33,
+   "playoff_games_1999plus": 26,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "MIA": {
+   "abbr": "MIA",
+   "core_roster": 77,
+   "depth_charts": 3,
+   "injuries_non_active": 8,
+   "draft_picks": 433,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 43,
+   "records_page": "List of Miami Dolphins team records",
+   "seasons_wiki": 60,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 9,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "MIN": {
+   "abbr": "MIN",
+   "core_roster": 76,
+   "depth_charts": 3,
+   "injuries_non_active": 7,
+   "draft_picks": 431,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 193,
+   "records_page": "List of Minnesota Vikings team records",
+   "seasons_wiki": 65,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 17,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "NE": {
+   "abbr": "NE",
+   "core_roster": 81,
+   "depth_charts": 3,
+   "injuries_non_active": 11,
+   "draft_picks": 485,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": null,
+   "seasons_wiki": 66,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 46,
+   "college": "55/67 with college season stats; 42 draft 2-source matches"
+  },
+  "NO": {
+   "abbr": "NO",
+   "core_roster": 81,
+   "depth_charts": 3,
+   "injuries_non_active": 10,
+   "draft_picks": 375,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": null,
+   "seasons_wiki": 59,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 19,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "NYG": {
+   "abbr": "NYG",
+   "core_roster": 83,
+   "depth_charts": 3,
+   "injuries_non_active": 10,
+   "draft_picks": 417,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": null,
+   "seasons_wiki": 101,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 18,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "NYJ": {
+   "abbr": "NYJ",
+   "core_roster": 82,
+   "depth_charts": 3,
+   "injuries_non_active": 7,
+   "draft_picks": 418,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": null,
+   "seasons_wiki": 66,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 12,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "PHI": {
+   "abbr": "PHI",
+   "core_roster": 82,
+   "depth_charts": 3,
+   "injuries_non_active": 14,
+   "draft_picks": 426,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": null,
+   "seasons_wiki": 93,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 36,
+   "college": "55/65 with college season stats; 50 draft 2-source matches"
+  },
+  "PIT": {
+   "abbr": "PIT",
+   "core_roster": 80,
+   "depth_charts": 3,
+   "injuries_non_active": 11,
+   "draft_picks": 452,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 72,
+   "records_page": "List of Pittsburgh Steelers team records",
+   "seasons_wiki": 93,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 30,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "SF": {
+   "abbr": "SF",
+   "core_roster": 90,
+   "depth_charts": 3,
+   "injuries_non_active": 13,
+   "draft_picks": 416,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": "List of San Francisco 49ers team records",
+   "seasons_wiki": 80,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 25,
+   "college": "57/72 with college season stats; 57 draft 2-source matches"
+  },
+  "TB": {
+   "abbr": "TB",
+   "core_roster": 74,
+   "depth_charts": 3,
+   "injuries_non_active": 8,
+   "draft_picks": 420,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": null,
+   "seasons_wiki": 50,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 19,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "TEN": {
+   "abbr": "TEN",
+   "core_roster": 82,
+   "depth_charts": 3,
+   "injuries_non_active": 8,
+   "draft_picks": 445,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": null,
+   "seasons_wiki": 66,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 18,
+   "college": "pending \u2014 run build_college_all.py"
+  },
+  "WSH": {
+   "abbr": "WSH",
+   "core_roster": 77,
+   "depth_charts": 3,
+   "injuries_non_active": 12,
+   "draft_picks": 394,
+   "draft_years": [
+    1980,
+    2026
+   ],
+   "records": 0,
+   "records_page": "List of Washington Commanders team records",
+   "seasons_wiki": 94,
+   "missing_season_years": [],
+   "h2h_opponents": 34,
+   "playoff_games_1999plus": 11,
+   "college": "pending \u2014 run build_college_all.py"
+  }
+ }
+}
