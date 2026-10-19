@@ -16,14 +16,14 @@ input,select{padding:14px;font-size:16px;border-radius:10px;width:100%;margin:6p
 <header><a class="back" href="index.html">← All 32 teams</a><h1 id="title">Team</h1><div id="meta"></div></header>
 <div id="shell"></div>
 <div id="hub" style="display:none">
-<nav class="tabs"><button data-t="depth" class="on">Depth + Injuries</button><button data-t="history">History</button><button data-t="draft">Draft History</button><button data-t="records">Franchise Records</button><button data-t="matchups">Vs Others</button><button data-t="playoffs">Playoffs</button><button data-t="statsdb">Stats Database</button><button data-t="college">College</button></nav>
+<nav class="tabs"><button data-t="depth" class="on">Depth + Injuries</button><button data-t="history">History</button><button data-t="draft">Draft History</button><button data-t="records">Franchise Records</button><button data-t="matchups">Vs Others</button><button data-t="playoffs">Playoffs</button><button data-t="statsdb">Stats Database</button><button data-t="college">College</button><button data-t="origins">Origins & Ownership</button></nav>
 <main>
-<section id="depth"></section><section id="history" style="display:none"></section><section id="draft" style="display:none"></section><section id="records" style="display:none"></section><section id="matchups" style="display:none"></section><section id="playoffs" style="display:none"></section><section id="statsdb" style="display:none"></section><section id="college" style="display:none"></section>
+<section id="depth"></section><section id="history" style="display:none"></section><section id="draft" style="display:none"></section><section id="records" style="display:none"></section><section id="matchups" style="display:none"></section><section id="playoffs" style="display:none"></section><section id="statsdb" style="display:none"></section><section id="college" style="display:none"></section><section id="origins" style="display:none"></section>
 </main></div>
 <script>
 const p=new URLSearchParams(location.search), abbr=(p.get('abbr')||'').toUpperCase(), name=p.get('name')||abbr;
 title.textContent=name;
-const tabs=['depth','history','draft','records','matchups','playoffs','statsdb','college'];
+const tabs=['depth','history','draft','records','matchups','playoffs','statsdb','college','origins'];
 document.querySelectorAll('.tabs button').forEach(b=>b.onclick=()=>{document.querySelectorAll('.tabs button').forEach(x=>x.classList.remove('on'));b.classList.add('on');tabs.forEach(s=>document.getElementById(s).style.display=s==b.dataset.t?'block':'none')});
 const esc=s=>String(s??'').replace(/&/g,'&amp;').replace(/</g,'&lt;');
 async function getj(u){let r=await fetch(u); if(!r.ok) throw new Error(u+' '+r.status); return r.json()}
@@ -42,6 +42,7 @@ async function load(){
  const [core,draft,records,hist,exp,prec,cc]=await Promise.all(['core.json','draft.json','records.json','history.json','expanded.json','playoff_records.json','crosscheck.json'].map(u=>getj(base+u)));
  let college=null; try{ college=await getj(base+'college.json'); }catch(e){}
  let leaders=null; try{ leaders=await getj(base+'leaders.json'); }catch(e){}
+ let origins=null; try{ origins=await getj(base+'origins.json'); }catch(e){}
  meta.innerHTML=`<span style="color:#69be28;font-weight:800">★ Complete hub — ${esc(name)}</span>`;
  const ccDraft=cc.draft_first_round||{}, ccWL=cc.games_seasons_wl||{};
  const src=`<div class="src">Source: ${esc(core.meta.source)}<br>Last updated: ${esc(core.meta.fetched_at_ct)} (America/Chicago) • Season: ${esc(core.meta.season)}<br>VERIFICATION: Depth ORDER is single-source (ESPN) — pending cross-check. Injury status/diagnosis is SINGLE-SOURCE / UNVERIFIED — ESPN only, pending cross-check. “Out” in ESPN feed can include coach's-decision inactives; injury type is shown where ESPN provided it. Roster cross-check for this team: ${esc((cc.depth_roster||{}).method||'see crosscheck.json')}</div>`;
@@ -86,6 +87,17 @@ async function load(){
  const fmt=x=>`${x.w}-${x.l}${x.t?'-'+x.t:''}`;
  function rm(){let q=document.getElementById('mq').value.toUpperCase();document.getElementById('mb').innerHTML=exp.h2h.filter(x=>x.opp.includes(q)).map(x=>`<tr><td><b>${x.opp}</b></td><td>${fmt(x.all)}</td><td>${fmt(x.reg)}</td><td>${fmt(x.post)}</td><td>${fmt(x.home)}</td><td>${fmt(x.away)}</td><td>${x.all.pf}-${x.all.pa}</td><td>${x.last}</td></tr>`).join('')}
  document.getElementById('mq').oninput=rm; rm();
+
+ // origins
+ if(!origins){ document.getElementById('origins').innerHTML=`<div class="src">Origins & Ownership: PENDING for this team — not fabricated.</div>`; }
+ else{
+  let tx=origins.transactions&&origins.transactions.length?origins.transactions.map(t=>`<div class="card"><b>${t.year} — ${esc(t.type)}: ${esc(t.amount)}</b><p>${esc(t.text)}</p><p><small>Verification: ${esc(t.verification)} • Sources: ${esc(t.sources)}</small></p></div>`).join(''):`<div class="card"><p><b>No verified sale price in this build.</b> This does not mean the team was never transferred — ownership may have passed by inheritance/family transfer, or a price has not been verified here yet. Pending research, not invented.</p></div>`;
+  document.getElementById('origins').innerHTML=`<div class="src">${esc(origins.source)}<br>${esc(origins.verification)}</div>
+  <div class="card"><h3>How ${esc(name)} came to be</h3><p><b>Founded:</b> ${esc(origins.founded||'See Wikipedia source')} • <b>Current owner:</b> ${esc(origins.owner_current||'See source (owner field variant pending)')} • <b>Stadium:</b> ${esc(origins.stadium||'')}</p>${(origins.intro||[]).map(x=>`<p>${esc(x)}</p>`).join('')}<p><b>History sections / eras (Wikipedia):</b> ${esc((origins.era_headings||[]).join(' • '))}</p><p><a href="league.html">League-wide story: NFL Origins →</a></p></div>
+  <h3 style="padding:0 4px">Ownership & transactions</h3>${tx}
+  <div class="card"><h3>History excerpts (single-source scaffold)</h3><p><small>Source: ${esc(origins.history_source||'Wikipedia history page not found in search')} — excerpts below are SINGLE-SOURCE (Wikipedia) pending cross-check unless the transaction cards above state a second source.</small></p>${(origins.extracted_events||[]).map(x=>`<p>• ${esc(x)}</p>`).join('')||'<p>No excerpts extracted — pending.</p>'}</div>`;
+ }
+
  // playoffs
  let ph=`<div class="src">Sources: Playoff games computed from nflverse games file (1999–2026 coverage); playoff franchise records from ${esc(prec.source)}<br>Last updated: ${esc(core.meta.fetched_at_ct)} CT<br>Playoff game list starts 1999 because games file does — earlier playoff history is in History/season table, not computed here.</div>`;
  ph+=`<div class="card"><h3>Playoff games (1999 season onward, ${exp.playoff_games.length})</h3><table><tr><th>Date</th><th>Season</th><th>Opp</th><th>H/A</th><th>Result</th><th>Score</th></tr>${exp.playoff_games.map(g=>`<tr><td>${g.date}</td><td>${g.season}</td><td>${g.opp}</td><td>${g.home?'Home':'Away'}</td><td><b>${g.result}</b></td><td>${g.pf}-${g.pa}</td></tr>`).join('')}</table></div>`;
